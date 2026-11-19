@@ -1089,6 +1089,23 @@
         "marker-color": "#e74c3c",
         "marker-symbol": "restaurant"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [135.7850, 34.9949] },
+      "properties": {
+        "name": "Templo Kiyomizu-dera",
+        "category": "visita",
+        "city": "Kioto",
+        "area": "Higashiyama sur",
+        "notes": "Templo budista Patrimonio de la Humanidad, famoso por su gran escenario de madera sobre la ladera, con vistas de Kioto. Muy concurrido: ir temprano. Se sube por las cuestas Ninenzaka/Sannenzaka (tiendas y casas tradicionales) y combina con Kodai-ji y Gion el mismo dia. Coordenadas aproximadas.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#1abc9c",
+        "marker-symbol": "religious-buddhist"
+      }
     }
   ]
 }
