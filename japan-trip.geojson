@@ -919,6 +919,23 @@
         "marker-color": "#e67e22",
         "marker-symbol": "star"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [139.6693, 35.6436] },
+      "properties": {
+        "name": "Sankaku Chitai (callejon de izakayas)",
+        "category": "restaurante",
+        "city": "Tokio",
+        "area": "Sangenjaya, Setagaya-ku",
+        "notes": "'Zona triangular': laberinto de callejones estrechos repletos de izakayas y bares diminutos con ambiente retro Showa, junto a la estacion de Sangenjaya. Mejor de noche para cenar/tapear de bar en bar. En Setagaya (oeste de Tokio), misma zona que Gotokuji. Coordenadas aproximadas.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e74c3c",
+        "marker-symbol": "restaurant"
+      }
     }
   ]
 }
