@@ -1123,6 +1123,23 @@
         "marker-color": "#1abc9c",
         "marker-symbol": "castle"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [139.7400, 35.6605] },
+      "properties": {
+        "name": "teamLab Borderless (museo de arte digital)",
+        "category": "actividad",
+        "city": "Tokio",
+        "area": "Azabudai Hills, Minato-ku",
+        "notes": "Museo de arte digital inmersivo de teamLab. Desde 2024 esta en AZABUDAI HILLS (Minato-ku), ya NO en Odaiba. Requiere entrada con fecha/hora comprada por adelantado (se agota). No confundir con teamLab Planets (que esta en Toyosu). Coordenadas aproximadas.",
+        "hours": null,
+        "url": "https://www.teamlab.art/e/borderless-azabudai/",
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e67e22",
+        "marker-symbol": "star"
+      }
     }
   ]
 }
