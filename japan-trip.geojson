@@ -1242,6 +1242,23 @@
         "marker-color": "#e67e22",
         "marker-symbol": "star"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [139.7055, 35.6690] },
+      "properties": {
+        "name": "Kiddy Land Harajuku (juguetes)",
+        "category": "tienda",
+        "city": "Tokio",
+        "area": "Harajuku (Omotesando)",
+        "notes": "Juguetería mítica de varias plantas en la avenida Omotesando (Harajuku): Snoopy, Studio Ghibli, Sanrio (Hello Kitty), Pokemon, Disney... un paraiso para ninos y coleccionistas. En plena zona de compras de Harajuku/Omotesando, cerca de Takeshita-dori. Coordenadas aproximadas.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#3498db",
+        "marker-symbol": "shop"
+      }
     }
   ]
 }
