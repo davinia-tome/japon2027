@@ -1072,6 +1072,23 @@
         "marker-color": "#1abc9c",
         "marker-symbol": "attraction"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [139.7160, 35.5625] },
+      "properties": {
+        "name": "Tonkatsu Maruichi (Kamata)",
+        "category": "restaurante",
+        "city": "Tokio",
+        "area": "Kamata, Ota-ku",
+        "notes": "Restaurante de tonkatsu muy valorado en Kamata (barrio conocido por su tonkatsu), sur de Tokio. Suele haber cola. Misma zona que Heiwa-no-Mori Park (Ota-ku). Coordenadas APROXIMADAS (area de la estacion de Kamata); pasar enlace de Google Maps para fijar el local.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e74c3c",
+        "marker-symbol": "restaurant"
+      }
     }
   ]
 }
