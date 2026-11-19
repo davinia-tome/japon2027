@@ -1038,6 +1038,23 @@
         "marker-color": "#e74c3c",
         "marker-symbol": "restaurant"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [139.7016, 35.6580] },
+      "properties": {
+        "name": "Shibuya Sky (mirador)",
+        "category": "visita",
+        "city": "Tokio",
+        "area": "Shibuya",
+        "notes": "Mirador de pago en la azotea del rascacielos Shibuya Scramble Square (piso ~230 m, terraza al aire libre). Vistas espectaculares del cruce de Shibuya y, con buen dia, del monte Fuji. Entrada con fecha/hora: reservar online, el atardecer vuela. Sobre la estacion de Shibuya. Coordenadas aproximadas.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#1abc9c",
+        "marker-symbol": "attraction"
+      }
     }
   ]
 }
