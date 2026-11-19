@@ -1157,6 +1157,40 @@
         "marker-color": "#1abc9c",
         "marker-symbol": "attraction"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [130.8740, 33.8855] },
+      "properties": {
+        "name": "Experiencia ninja en el Castillo de Kokura",
+        "category": "actividad",
+        "city": "Kitakyushu",
+        "area": "Kokura, Kitakyushu (Fukuoka)",
+        "notes": "Experiencia de ninja (vestimenta/actividades) en el Castillo de Kokura. NOTA DE RUTA: Kokura esta en Kyushu (Kitakyushu, Fukuoka), al suroeste, FUERA del corredor Osaka-Tokio (~2,5 h en Shinkansen desde Shin-Osaka); requeriria una pata aparte del viaje. Verificar disponibilidad/reserva de la experiencia. Coordenadas aproximadas (castillo).",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e67e22",
+        "marker-symbol": "star"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [139.7519, 35.7056] },
+      "properties": {
+        "name": "Tokyo Dome City",
+        "category": "actividad",
+        "city": "Tokio",
+        "area": "Bunkyo-ku",
+        "notes": "Complejo de ocio alrededor del Tokyo Dome (estadio de beisbol): parque de atracciones (montana rusa Thunder Dolphin y noria sin eje LaQua), spa onsen LaQua, tiendas y restaurantes. Entrada al recinto gratis, atracciones de pago por ticket. Estaciones Suidobashi / Korakuen. Coordenadas aproximadas.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e67e22",
+        "marker-symbol": "star"
+      }
     }
   ]
 }
