@@ -1106,6 +1106,23 @@
         "marker-color": "#1abc9c",
         "marker-symbol": "religious-buddhist"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [134.6939, 34.8394] },
+      "properties": {
+        "name": "Castillo de Himeji",
+        "category": "visita",
+        "city": "Himeji",
+        "area": "Himeji (Hyogo)",
+        "notes": "El castillo mas espectacular de Japon ('garza blanca'), Patrimonio de la Humanidad y original (no reconstruido). Al OESTE de Osaka: ~1 h desde Shin-Osaka en Shinkansen o ~1,5 h en tren local; direccion opuesta al resto del viaje, asi que encaja como excursion de dia desde la base de Osaka (se puede combinar con Kobe). A 15 min a pie de la estacion JR Himeji. Coordenadas aproximadas.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#1abc9c",
+        "marker-symbol": "castle"
+      }
     }
   ]
 }
