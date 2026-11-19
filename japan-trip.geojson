@@ -902,6 +902,23 @@
         "marker-color": "#e67e22",
         "marker-symbol": "star"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [139.7877, 35.6893] },
+      "properties": {
+        "name": "Entrenamiento matutino de sumo - Arashio-beya",
+        "category": "actividad",
+        "city": "Tokio",
+        "area": "Nihonbashi-Hamacho, Chuo-ku",
+        "notes": "Establo de sumo (heya) donde se puede ver el entrenamiento matutino (asageiko). Arashio-beya es conocido porque permite observar la practica desde los ventanales a pie de calle, sin entrar. Horario de manana y variable; NO hay keiko durante los torneos ni cuando el establo esta de gira - VERIFICAR dias/normas de cortesia antes de ir. Coordenadas aproximadas.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e67e22",
+        "marker-symbol": "star"
+      }
     }
   ]
 }
