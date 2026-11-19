@@ -1,0 +1,290 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Japón 2027</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap"
+      rel="stylesheet" />
+    <!-- Leaflet -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <style>
+      body { font-family: 'Inter', sans-serif; }
+
+      .hero-bg {
+        background:
+          linear-gradient(rgba(15, 23, 42, 0.7), rgba(136, 19, 55, 0.6)),
+          url('https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=1400&q=80');
+        background-size: cover;
+        background-position: center;
+      }
+
+      .section-card {
+        background-color: white;
+        border-radius: 2rem;
+        border: 1px solid #e2e8f0;
+        box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.08);
+      }
+
+      #map { height: 560px; width: 100%; border-radius: 1.5rem; z-index: 0; }
+
+      .cat-chip {
+        transition: all 0.15s;
+        cursor: pointer;
+        user-select: none;
+        opacity: 0.45;
+        filter: grayscale(0.4);
+      }
+      .cat-chip.active { opacity: 1; filter: none; transform: translateY(-1px); }
+
+      .place-card { transition: transform 0.15s, box-shadow 0.15s; }
+      .place-card:hover { transform: translateY(-2px); box-shadow: 0 6px 16px rgba(0,0,0,0.12); }
+
+      .marker-pin {
+        display: flex; align-items: center; justify-content: center;
+        width: 30px; height: 30px; border-radius: 50% 50% 50% 0;
+        transform: rotate(-45deg);
+        border: 2px solid white; box-shadow: 0 2px 5px rgba(0,0,0,0.4);
+      }
+      .marker-pin span { transform: rotate(45deg); font-size: 15px; line-height: 1; }
+
+      .custom-scrollbar::-webkit-scrollbar { width: 6px; }
+      .custom-scrollbar::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 10px; }
+    </style>
+  </head>
+
+  <body class="bg-slate-100 text-slate-900 scroll-smooth">
+    <!-- Header -->
+    <header class="hero-bg text-white py-24 px-6 text-center shadow-2xl">
+      <div class="max-w-4xl mx-auto">
+        <h1 class="text-4xl md:text-6xl font-extrabold mb-2 tracking-tighter uppercase italic">
+          Japón <span class="text-rose-300">2027</span>
+        </h1>
+        <p class="text-xl md:text-2xl font-light text-slate-200 italic">
+          Tokio · Kioto · Osaka · Nara · Nagoya
+        </p>
+        <p class="text-sm md:text-base font-light text-slate-300 mt-3">
+          Julio de 2027 · mapa de lugares en preparación
+        </p>
+      </div>
+    </header>
+
+    <!-- Nav -->
+    <nav class="bg-white/95 backdrop-blur-md border-b border-slate-300 p-4 sticky top-0 z-50">
+      <div class="max-w-6xl mx-auto flex justify-between items-center">
+        <div class="flex items-center gap-2">
+          <span class="text-2xl">⛩️</span>
+          <span class="font-extrabold text-slate-900 tracking-tighter uppercase">JAPÓN 2027</span>
+        </div>
+        <div class="flex gap-6 text-[10px] md:text-xs font-black uppercase tracking-widest">
+          <a href="#mapa" class="text-slate-600 hover:text-rose-600 transition-colors">Mapa</a>
+          <a href="#lugares" class="text-slate-600 hover:text-rose-600 transition-colors">Lugares</a>
+          <a href="#info" class="text-slate-600 hover:text-rose-600 transition-colors">Info</a>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Stats -->
+    <section class="py-10 max-w-6xl mx-auto px-6">
+      <div id="stats" class="grid grid-cols-2 md:grid-cols-6 gap-4 text-center"></div>
+    </section>
+
+    <!-- Mapa -->
+    <section id="mapa" class="py-6 max-w-6xl mx-auto px-6">
+      <div class="section-card p-6 md:p-8">
+        <h2 class="text-lg font-black text-slate-800 uppercase italic mb-4 flex items-center gap-2">
+          <span>🗺️</span> Mapa de lugares
+        </h2>
+        <div id="legend" class="flex flex-wrap gap-2 mb-5"></div>
+        <div id="map"></div>
+        <p class="text-xs text-slate-500 mt-3">
+          Pulsa las categorías para filtrar. Coordenadas aproximadas; los puntos sin ubicación aún
+          no aparecen en el mapa pero sí en el listado inferior.
+        </p>
+      </div>
+    </section>
+
+    <!-- Lugares -->
+    <section id="lugares" class="py-10 max-w-6xl mx-auto px-6">
+      <h2 class="text-lg font-black text-slate-800 uppercase italic mb-6 flex items-center gap-2">
+        <span>📍</span> Lugares por ciudad
+      </h2>
+      <div id="places"></div>
+    </section>
+
+    <!-- Info -->
+    <section id="info" class="py-10 max-w-6xl mx-auto px-6">
+      <div class="section-card p-6 md:p-8">
+        <h2 class="text-lg font-black text-slate-800 uppercase italic mb-4 flex items-center gap-2">
+          <span>ℹ️</span> Notas del viaje
+        </h2>
+        <ul class="list-disc list-inside text-sm text-slate-600 space-y-2">
+          <li><b>Fechas:</b> julio de 2027 (reserva de Osaka: 12–16 jul). Por confirmar el total.</li>
+          <li><b>Evento ancla:</b> torneo de sumo de Nagoya (11–25 jul) — entradas con antelación.</li>
+          <li><b>Base en Osaka:</b> hostel <i>e-stay Namba</i>.</li>
+          <li>El <b>itinerario día a día</b> se añadirá cuando organicemos las rutas por zonas.</li>
+        </ul>
+      </div>
+    </section>
+
+    <footer class="text-center text-xs text-slate-400 py-10">
+      Japón 2027 · generado a partir de japan-trip.geojson
+    </footer>
+
+    <script>
+      const CATS = {
+        restaurante: { label: 'Restaurantes', color: '#e74c3c', emoji: '🍜' },
+        alojamiento: { label: 'Alojamientos', color: '#9b59b6', emoji: '🛏️' },
+        museo:       { label: 'Museos',        color: '#f1c40f', emoji: '🏛️' },
+        tienda:      { label: 'Tiendas',       color: '#3498db', emoji: '🛍️' },
+        actividad:   { label: 'Actividades',   color: '#e67e22', emoji: '⭐' },
+        transporte:  { label: 'Transporte',    color: '#2ecc71', emoji: '🚆' },
+        visita:      { label: 'Visitas',       color: '#1abc9c', emoji: '⛩️' },
+      };
+      const CITY_ORDER = ['Tokio', 'Nagoya', 'Kioto', 'Nara', 'Osaka'];
+      const active = new Set(Object.keys(CATS));
+      let map, layers = {};
+
+      function catOf(c) { return CATS[c] || { label: c || 'Otros', color: '#64748b', emoji: '📍' }; }
+
+      function mapsLink(f) {
+        const p = f.properties, g = f.geometry.coordinates;
+        if (p.url) return p.url;
+        if (g && g[0] != null && g[1] != null)
+          return `https://www.google.com/maps/search/?api=1&query=${g[1]},${g[0]}`;
+        return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent((p.name||'') + ' ' + (p.city||''))}`;
+      }
+
+      function pinIcon(cat) {
+        const c = catOf(cat);
+        return L.divIcon({
+          className: '',
+          html: `<div class="marker-pin" style="background:${c.color}"><span>${c.emoji}</span></div>`,
+          iconSize: [30, 30], iconAnchor: [15, 30], popupAnchor: [0, -28],
+        });
+      }
+
+      function renderLegend() {
+        const el = document.getElementById('legend');
+        el.innerHTML = '';
+        Object.entries(CATS).forEach(([key, c]) => {
+          const chip = document.createElement('div');
+          chip.className = 'cat-chip active flex items-center gap-1 px-3 py-1 rounded-full text-xs font-bold text-white';
+          chip.style.background = c.color;
+          chip.innerHTML = `<span>${c.emoji}</span> ${c.label}`;
+          chip.onclick = () => {
+            if (active.has(key)) { active.delete(key); chip.classList.remove('active'); }
+            else { active.add(key); chip.classList.add('active'); }
+            applyFilter();
+          };
+          el.appendChild(chip);
+        });
+      }
+
+      function applyFilter() {
+        Object.entries(layers).forEach(([key, grp]) => {
+          if (active.has(key)) grp.addTo(map); else map.removeLayer(grp);
+        });
+        document.querySelectorAll('[data-cat]').forEach(card => {
+          card.style.display = active.has(card.dataset.cat) ? '' : 'none';
+        });
+      }
+
+      function renderStats(feats) {
+        const byCity = {};
+        feats.forEach(f => { const c = f.properties.city || 'Sin ciudad'; byCity[c] = (byCity[c]||0)+1; });
+        const el = document.getElementById('stats');
+        const cards = [['Lugares', feats.length, '📌']];
+        CITY_ORDER.forEach(c => { if (byCity[c]) cards.push([c, byCity[c], '🏙️']); });
+        Object.keys(byCity).forEach(c => { if (!CITY_ORDER.includes(c) && c!=='Sin ciudad') cards.push([c, byCity[c], '🏙️']); });
+        el.innerHTML = cards.map(([l,n,e]) => `
+          <div class="section-card py-4">
+            <div class="text-2xl">${e}</div>
+            <div class="text-2xl font-black text-rose-600">${n}</div>
+            <div class="text-[10px] uppercase tracking-widest text-slate-500 font-bold">${l}</div>
+          </div>`).join('');
+      }
+
+      function renderPlaces(feats) {
+        const el = document.getElementById('places');
+        const byCity = {};
+        feats.forEach(f => { const c = f.properties.city || 'Sin ciudad'; (byCity[c] ||= []).push(f); });
+        const cities = Object.keys(byCity).sort((a,b) => {
+          const ia = CITY_ORDER.indexOf(a), ib = CITY_ORDER.indexOf(b);
+          return (ia<0?99:ia) - (ib<0?99:ib);
+        });
+        el.innerHTML = cities.map(city => {
+          const cards = byCity[city].map(f => {
+            const p = f.properties, c = catOf(p.category);
+            const pend = !(f.geometry.coordinates && f.geometry.coordinates[0] != null);
+            return `
+            <div class="place-card section-card p-5" data-cat="${p.category}">
+              <div class="flex items-start justify-between gap-2 mb-2">
+                <h4 class="font-bold text-slate-800 leading-snug">${p.name}</h4>
+                <span class="shrink-0 text-white text-xs font-bold px-2 py-1 rounded-full" style="background:${c.color}">${c.emoji}</span>
+              </div>
+              ${p.area ? `<div class="text-xs text-slate-500 mb-1">📌 ${p.area}</div>` : ''}
+              ${p.hours ? `<div class="text-xs text-slate-500 mb-1">🕒 ${p.hours}</div>` : ''}
+              ${pend ? `<div class="text-xs text-amber-600 font-semibold mb-1">⚠️ Ubicación pendiente</div>` : ''}
+              ${p.notes ? `<p class="text-xs text-slate-600 mt-2 leading-relaxed">${p.notes}</p>` : ''}
+              <a href="${mapsLink(f)}" target="_blank" rel="noopener"
+                 class="inline-block mt-3 text-xs font-bold text-rose-600 hover:underline">Ver en Google Maps →</a>
+            </div>`;
+          }).join('');
+          return `
+            <div class="mb-10">
+              <h3 class="text-xl font-black text-slate-800 italic mb-4 flex items-center gap-2">
+                <span class="text-rose-500">◆</span> ${city}
+                <span class="text-sm font-normal text-slate-400">(${byCity[city].length})</span>
+              </h3>
+              <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">${cards}</div>
+            </div>`;
+        }).join('');
+      }
+
+      function initMap(feats) {
+        map = L.map('map').setView([35.0, 136.0], 5);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+          maxZoom: 19, attribution: '© OpenStreetMap'
+        }).addTo(map);
+
+        const bounds = [];
+        Object.keys(CATS).forEach(k => layers[k] = L.layerGroup());
+        feats.forEach(f => {
+          const g = f.geometry.coordinates;
+          if (!g || g[0] == null || g[1] == null) return;
+          const p = f.properties;
+          const m = L.marker([g[1], g[0]], { icon: pinIcon(p.category) });
+          m.bindPopup(`
+            <div style="min-width:180px">
+              <b>${p.name}</b><br>
+              <span style="color:#64748b;font-size:11px">${catOf(p.category).label}${p.area ? ' · ' + p.area : ''}</span>
+              ${p.notes ? `<p style="font-size:11px;margin:6px 0">${p.notes}</p>` : ''}
+              <a href="${mapsLink(f)}" target="_blank" rel="noopener" style="color:#e11d48;font-weight:bold;font-size:12px">Google Maps →</a>
+            </div>`);
+          (layers[p.category] || (layers[p.category] = L.layerGroup())).addLayer(m);
+          bounds.push([g[1], g[0]]);
+        });
+        Object.values(layers).forEach(l => l.addTo(map));
+        if (bounds.length) map.fitBounds(bounds, { padding: [40, 40] });
+      }
+
+      fetch('japan-trip.geojson')
+        .then(r => r.json())
+        .then(data => {
+          const feats = data.features || [];
+          renderStats(feats);
+          renderLegend();
+          initMap(feats);
+          renderPlaces(feats);
+        })
+        .catch(e => {
+          document.getElementById('places').innerHTML =
+            `<p class="text-red-600">No se pudo cargar japan-trip.geojson: ${e}</p>`;
+        });
+    </script>
+  </body>
+</html>
