@@ -970,6 +970,23 @@
         "marker-color": "#e74c3c",
         "marker-symbol": "restaurant"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [null, null] },
+      "properties": {
+        "name": "Dormy Inn (cadena de hoteles)",
+        "category": "alojamiento",
+        "city": null,
+        "area": null,
+        "notes": "Cadena de hoteles japoneses de muy buena relacion calidad-precio: onsen/sento en la ultima planta, ramen gratis por la noche ('yonaki soba') y lavanderia. CADENA con hoteles en todas las ciudades principales; sin coordenadas fijas: anclar la sucursal (ciudad/zona) cuando se decida alojamiento.",
+        "hours": null,
+        "url": "https://www.hotespa.net/dormyinn/",
+        "priority": "media",
+        "day": null,
+        "marker-color": "#9b59b6",
+        "marker-symbol": "lodging"
+      }
     }
   ]
 }
