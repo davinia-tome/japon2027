@@ -851,6 +851,40 @@
         "marker-color": "#9b59b6",
         "marker-symbol": "lodging"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [135.4323, 34.6654] },
+      "properties": {
+        "name": "Universal Studios Japan (USJ)",
+        "category": "actividad",
+        "city": "Osaka",
+        "area": "Konohana-ku",
+        "notes": "Parque tematico con Super Nintendo World y The Wizarding World of Harry Potter. Se llena mucho: comprar entrada con fecha por adelantado y valorar Express Pass; Super Nintendo World puede requerir Area Timed Entry. Estacion Universal-City (linea JR Yumesaki). Coordenadas aproximadas.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e67e22",
+        "marker-symbol": "star"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [139.5704, 35.6962] },
+      "properties": {
+        "name": "Museo Ghibli (Mitaka)",
+        "category": "museo",
+        "city": "Tokio",
+        "area": "Mitaka",
+        "notes": "Museo del Studio Ghibli en Mitaka, junto al parque Inokashira. REQUIERE entrada con fecha y hora compradas por adelantado (venta por Lawson / agente oficial, se agotan rapido); no se permite hacer fotos en el interior. Estacion Mitaka (JR Chuo) + bus/paseo. Al oeste de Tokio. Coordenadas aproximadas.",
+        "hours": null,
+        "url": "https://www.ghibli-museum.jp/",
+        "priority": "media",
+        "day": null,
+        "marker-color": "#f1c40f",
+        "marker-symbol": "museum"
+      }
     }
   ]
 }
