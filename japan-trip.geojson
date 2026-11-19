@@ -885,6 +885,23 @@
         "marker-color": "#f1c40f",
         "marker-symbol": "museum"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [139.8125, 35.7005] },
+      "properties": {
+        "name": "Honjo Life Safety Learning Center",
+        "category": "actividad",
+        "city": "Tokio",
+        "area": "Sumida-ku",
+        "notes": "Centro de aprendizaje de prevencion de desastres: simuladores para experimentar terremotos, tifones (viento y lluvia), humo de incendios y extincion. Entrada gratuita, con visitas guiadas (conviene reservar tour). En Sumida-ku, no lejos de Asakusa/Tokyo Skytree. Coordenadas aproximadas.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e67e22",
+        "marker-symbol": "star"
+      }
     }
   ]
 }
