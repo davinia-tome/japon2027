@@ -953,6 +953,23 @@
         "marker-color": "#e74c3c",
         "marker-symbol": "restaurant"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [null, null] },
+      "properties": {
+        "name": "Machida Shoten (ramen iekei)",
+        "category": "restaurante",
+        "city": null,
+        "area": null,
+        "notes": "Cadena de ramen estilo iekei (家系, Yokohama): caldo tonkotsu-shoyu contundente, con espinacas y alga nori, y arroz para mojar. CADENA con muchas sucursales por Japon; sin coordenadas fijas: anclar la que caiga en la ruta.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e74c3c",
+        "marker-symbol": "restaurant"
+      }
     }
   ]
 }
