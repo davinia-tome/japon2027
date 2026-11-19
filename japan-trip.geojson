@@ -1191,6 +1191,57 @@
         "marker-color": "#e67e22",
         "marker-symbol": "star"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [139.6885, 35.6905] },
+      "properties": {
+        "name": "Shinjuku Central Park (zona de agua infantil)",
+        "category": "actividad",
+        "city": "Tokio",
+        "area": "Nishi-Shinjuku",
+        "notes": "Parque con zona de juego de agua para ninos en verano. En Nishi-Shinjuku, junto al Tokyo Metropolitan Government Building: combinan. Ubicacion exacta: ver web de referencia. Coordenadas aproximadas.",
+        "hours": null,
+        "url": "https://japanforkids.jp/summer-tokyo-kids-beat-the-heat/",
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e67e22",
+        "marker-symbol": "star"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [139.6620, 35.6260] },
+      "properties": {
+        "name": "Komazawa Olympic Park (zona de agua infantil)",
+        "category": "actividad",
+        "city": "Tokio",
+        "area": "Setagaya-ku",
+        "notes": "Gran parque (sede olimpica 1964) con fuentes y zona 'jabu-jabu' de chapoteo para ninos en verano, ademas de amplias zonas verdes y carril bici. En Setagaya (oeste de Tokio), misma zona que Gotokuji/Sangenjaya. Ubicacion exacta: ver web de referencia. Coordenadas aproximadas.",
+        "hours": null,
+        "url": "https://japanforkids.jp/summer-tokyo-kids-beat-the-heat/",
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e67e22",
+        "marker-symbol": "star"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [139.4030, 35.7050] },
+      "properties": {
+        "name": "Showa Kinen Park (zona de agua infantil)",
+        "category": "actividad",
+        "city": "Tokio",
+        "area": "Tachikawa / Akishima (oeste de Tokio)",
+        "notes": "Enorme parque nacional con 'Rainbow Pool' (piscinas y toboganes de verano) y fuentes de chapoteo, ademas de bosque infantil y bici. Entrada de pago (la Rainbow Pool, temporada de verano). MUY al oeste (Tachikawa, ~40 min de Shinjuku en JR Chuo): dia aparte. Ubicacion exacta: ver web de referencia. Coordenadas aproximadas.",
+        "hours": null,
+        "url": "https://japanforkids.jp/summer-tokyo-kids-beat-the-heat/",
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e67e22",
+        "marker-symbol": "star"
+      }
     }
   ]
 }
