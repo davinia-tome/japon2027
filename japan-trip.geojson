@@ -936,6 +936,23 @@
         "marker-color": "#e74c3c",
         "marker-symbol": "restaurant"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [null, null] },
+      "properties": {
+        "name": "Ippudo (ramen)",
+        "category": "restaurante",
+        "city": null,
+        "area": null,
+        "notes": "Cadena de ramen tonkotsu estilo Hakata. Plato estrella a probar: 'Shiromaru Motoaji' (el tonkotsu clasico de la casa); el 'Akamaru' es la version con aceite de ajo y miso. CADENA con muchas sucursales (Tokio, Osaka, etc.); sin coordenadas fijas: anclar la sucursal que caiga en la ruta. NOTA: confirmar si 'Shiromaru' era el plato o un local aparte.",
+        "hours": null,
+        "url": "https://www.ippudo.com/",
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e74c3c",
+        "marker-symbol": "restaurant"
+      }
     }
   ]
 }
