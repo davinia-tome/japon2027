@@ -987,6 +987,23 @@
         "marker-color": "#9b59b6",
         "marker-symbol": "lodging"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [null, null] },
+      "properties": {
+        "name": "Tenya (tempura / tendon)",
+        "category": "restaurante",
+        "city": null,
+        "area": null,
+        "notes": "Cadena de tempura asequible, famosa por sus tendon (cuenco de arroz con tempura). Rapido, barato y rico. CADENA con muchas sucursales (sobre todo en Tokio); sin coordenadas fijas: anclar la que caiga en la ruta.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e74c3c",
+        "marker-symbol": "restaurant"
+      }
     }
   ]
 }
