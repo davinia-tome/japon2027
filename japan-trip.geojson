@@ -1055,6 +1055,23 @@
         "marker-color": "#1abc9c",
         "marker-symbol": "attraction"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [139.6917, 35.6896] },
+      "properties": {
+        "name": "Tokyo Metropolitan Government Building (mirador gratuito)",
+        "category": "visita",
+        "city": "Tokio",
+        "area": "Nishi-Shinjuku",
+        "notes": "Sede del gobierno metropolitano ('Tocho'). Miradores GRATUITOS en la planta 45 (~202 m) de las dos torres, con vistas de Tokio y del Fuji con buen tiempo. Alternativa gratis al Shibuya Sky. En Nishi-Shinjuku, cerca de Shinjuku Gyoen. Coordenadas aproximadas.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#1abc9c",
+        "marker-symbol": "attraction"
+      }
     }
   ]
 }
