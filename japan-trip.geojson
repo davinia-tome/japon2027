@@ -1140,6 +1140,23 @@
         "marker-color": "#e67e22",
         "marker-symbol": "star"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [135.4897, 34.7052] },
+      "properties": {
+        "name": "Umeda Sky Building (Floating Garden)",
+        "category": "visita",
+        "city": "Osaka",
+        "area": "Kita-ku (Umeda)",
+        "notes": "Rascacielos con el mirador 'Floating Garden Observatory' en la azotea (~170 m), con terraza circular al aire libre; muy bonito al atardecer y de noche. Mirador de pago. En Umeda, cerca de Nakazakicho y Tenjinbashisuji. Coordenadas aproximadas.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#1abc9c",
+        "marker-symbol": "attraction"
+      }
     }
   ]
 }
