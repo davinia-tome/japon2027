@@ -1004,6 +1004,23 @@
         "marker-color": "#e74c3c",
         "marker-symbol": "restaurant"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [null, null] },
+      "properties": {
+        "name": "Matsuya (comida rapida japonesa)",
+        "category": "restaurante",
+        "city": null,
+        "area": null,
+        "notes": "Cadena de comida rapida japonesa: gyudon (cuenco de arroz con ternera), curry y teishoku, muy barato y 24h en muchos locales. Se pide en maquina de tickets a la entrada. CADENA con muchisimas sucursales; sin coordenadas fijas: anclar la que caiga en la ruta.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e74c3c",
+        "marker-symbol": "restaurant"
+      }
     }
   ]
 }
