@@ -871,23 +871,6 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.5704, 35.6962] },
-      "properties": {
-        "name": "Museo Ghibli (Mitaka)",
-        "category": "museo",
-        "city": "Tokio",
-        "area": "Mitaka",
-        "notes": "Museo del Studio Ghibli en Mitaka, junto al parque Inokashira. REQUIERE entrada con fecha y hora compradas por adelantado (venta por Lawson / agente oficial, se agotan rapido); no se permite hacer fotos en el interior. Estacion Mitaka (JR Chuo) + bus/paseo. Al oeste de Tokio. Coordenadas aproximadas.",
-        "hours": null,
-        "url": "https://www.ghibli-museum.jp/",
-        "priority": "media",
-        "day": null,
-        "marker-color": "#f1c40f",
-        "marker-symbol": "museum"
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [139.8125, 35.7005] },
       "properties": {
         "name": "Honjo Life Safety Learning Center",
@@ -1135,6 +1118,23 @@
         "notes": "Museo de arte digital inmersivo de teamLab. Desde 2024 esta en AZABUDAI HILLS (Minato-ku), ya NO en Odaiba. Requiere entrada con fecha/hora comprada por adelantado (se agota). No confundir con teamLab Planets (que esta en Toyosu). Coordenadas aproximadas.",
         "hours": null,
         "url": "https://www.teamlab.art/e/borderless-azabudai/",
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e67e22",
+        "marker-symbol": "star"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [137.0790, 35.1817] },
+      "properties": {
+        "name": "Ghibli Park",
+        "category": "actividad",
+        "city": "Nagoya",
+        "area": "Nagakute, Aichi (Parque Conmemorativo Expo 2005)",
+        "notes": "Parque tematico del Studio Ghibli (abierto 2022) dentro del Aichi Commemorative Park (Moricoro Park), en Nagakute, cerca de NAGOYA (NO es el Museo Ghibli de Mitaka/Tokio). Varias areas (Grand Warehouse, Valley of Witches, Dondoko Forest...). REQUIERE entrada con fecha/hora por adelantado, por areas; se agota rapido. Acceso: linea Linimo desde Fujigaoka (metro de Nagoya) hasta Aichi-kyuhaku-kinen-koen. Encaja con la parada de Nagoya (sumo). Coordenadas aproximadas.",
+        "hours": null,
+        "url": "https://ghibli-park.jp/en/",
         "priority": "media",
         "day": null,
         "marker-color": "#e67e22",
