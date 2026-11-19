@@ -1021,6 +1021,23 @@
         "marker-color": "#e74c3c",
         "marker-symbol": "restaurant"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [null, null] },
+      "properties": {
+        "name": "Nakau (comida rapida japonesa)",
+        "category": "restaurante",
+        "city": null,
+        "area": null,
+        "notes": "Cadena de comida rapida japonesa: gyudon (ternera), oyakodon y udon recien hecho, barato y a menudo 24h. Se pide en maquina de tickets. CADENA con muchas sucursales; sin coordenadas fijas: anclar la que caiga en la ruta.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e74c3c",
+        "marker-symbol": "restaurant"
+      }
     }
   ]
 }
