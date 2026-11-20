@@ -1293,6 +1293,23 @@
         "marker-color": "#1abc9c",
         "marker-symbol": "religious-buddhist"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [135.7485, 34.9785] },
+      "properties": {
+        "name": "Kyoto Disaster Prevention Center",
+        "category": "actividad",
+        "city": "Kioto",
+        "area": "Minami-ku",
+        "notes": "Centro de prevencion de desastres (equivalente al Honjo de Tokio): simuladores de terremoto, inundacion/tifon, humo de incendios y viento fuerte. Entrada gratuita, con experiencias interactivas ideales para ninos. En Minami-ku (sur de Kioto). Verificar dias/horario y si requiere reserva. Coordenadas aproximadas.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e67e22",
+        "marker-symbol": "star"
+      }
     }
   ]
 }
