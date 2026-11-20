@@ -1259,6 +1259,40 @@
         "marker-color": "#3498db",
         "marker-symbol": "shop"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [135.6675, 35.0235] },
+      "properties": {
+        "name": "Giou-ji (templo del musgo y bambu)",
+        "category": "visita",
+        "city": "Kioto",
+        "area": "Sagano / Saga-Toriimoto (oeste de Kioto)",
+        "notes": "Pequeno templo con un precioso jardin de musgo y bambu, muy tranquilo, en Sagano. Al lado de Adashino Nenbutsu-ji: combinan en el bloque oeste (Arashiyama/Sagano). Coordenadas aproximadas.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#1abc9c",
+        "marker-symbol": "religious-buddhist"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [135.6737, 35.0159] },
+      "properties": {
+        "name": "Tenryu-ji (templo y bambu)",
+        "category": "visita",
+        "city": "Kioto",
+        "area": "Arashiyama (oeste de Kioto)",
+        "notes": "Templo zen Patrimonio de la Humanidad con el jardin Sogenchi (estanque y monte Arashiyama de fondo). Su puerta norte da directamente al bosque de bambu de Arashiyama: visita encadenada. Coordenadas aproximadas.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#1abc9c",
+        "marker-symbol": "religious-buddhist"
+      }
     }
   ]
 }
