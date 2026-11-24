@@ -4,12 +4,19 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.5531, 35.6133] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5531,
+          35.6133
+        ]
+      },
       "properties": {
         "name": "Nihon Minka-en (museo al aire libre)",
         "category": "museo",
         "city": "Tokio",
         "area": "Ikuta Ryokuchi, Tama-ku, Kawasaki",
+        "station": "Mukogaoka-Yuen (linea Odakyu Odawara)",
         "notes": "Museo al aire libre de casas tradicionales japonesas (minka) dentro del parque Ikuta Ryokuchi. Direccion: 7-1-1 Masugata, Tama Ward, Kawasaki, Kanagawa 214-0032. Estacion mas cercana: Mukogaoka-Yuen (linea Odakyu desde Shinjuku). Pertenece a Kawasaki (area metropolitana de Tokio), al SO de Shinjuku.",
         "hours": null,
         "url": "https://www.nihonminkaen.jp/",
@@ -21,12 +28,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [null, null] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
       "properties": {
         "name": "Kura Sushi (kaiten/running sushi)",
         "category": "restaurante",
         "city": "Tokio",
         "area": null,
+        "station": "N/A (cadena, sin ubicacion fija)",
         "notes": "Cadena de sushi en cinta transportadora. Juego 'Bikkura-Pon': cada 5 platos vacios metidos por la ranura, tirada para ganar una capsula de gachapon con premios. CADENA con multiples locales en Tokio: coordenadas pendientes de fijar a una sucursal concreta segun la ruta del dia (ej. Asakusa, Shibuya, Ikebukuro).",
         "hours": null,
         "url": "https://www.kurasushi.co.jp/",
@@ -38,12 +52,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.5622, 35.6090] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5622,
+          35.609
+        ]
+      },
       "properties": {
         "name": "Museo Fujiko F. Fujio (Doraemon)",
         "category": "museo",
         "city": "Tokio",
         "area": "Tama-ku, Kawasaki",
+        "station": "Mukogaoka-Yuen (linea Odakyu Odawara) + lanzadera/paseo",
         "notes": "Museo dedicado al autor de Doraemon. Direccion: 2-8-1 Nagao, Tama-ku, Kawasaki, Kanagawa 214-0023. REQUIERE entrada con fecha y hora compradas por adelantado (venta en Lawson). Muy cerca de Nihon Minka-en / Ikuta Ryokuchi: candidatos a combinar el mismo dia. Lanzadera desde estacion Mukogaoka-Yuen (Odakyu). Coordenadas aproximadas derivadas de la direccion.",
         "hours": null,
         "url": "https://fujiko-museum.com/",
@@ -55,12 +76,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.8803, 35.7558] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8803,
+          35.7558
+        ]
+      },
       "properties": {
         "name": "Barrio de Shibamata",
         "category": "visita",
         "city": "Tokio",
         "area": "Katsushika-ku",
+        "station": "Shibamata (linea Keisei Kanamachi)",
         "notes": "Barrio tranquilo y tradicional del NE de Tokio: tiendas antiguas, casas unifamiliares, ambiente retro (escenario de la saga Tora-san). Acceso por estacion Shibamata (linea Keisei Kanamachi). Coordenadas aproximadas (zona estacion).",
         "hours": null,
         "url": null,
@@ -72,12 +100,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.8816, 35.7582] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8816,
+          35.7582
+        ]
+      },
       "properties": {
         "name": "Templo Daikyoji (Shibamata Taishakuten)",
         "category": "visita",
         "city": "Tokio",
         "area": "Shibamata, Katsushika-ku",
+        "station": "Shibamata (linea Keisei Kanamachi)",
         "notes": "Templo budista (Nichiren), conocido como Shibamata Taishakuten. Famoso por sus tallas de madera y el jardin. Al final de la calle Taishakuten Sando. Coordenadas aproximadas.",
         "hours": null,
         "url": null,
@@ -89,12 +124,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.8811, 35.7571] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8811,
+          35.7571
+        ]
+      },
       "properties": {
         "name": "Taishakuten Sando (calle de tiendas)",
         "category": "tienda",
         "city": "Tokio",
         "area": "Shibamata, Katsushika-ku",
+        "station": "Shibamata (linea Keisei Kanamachi)",
         "notes": "Calle comercial tradicional que une la estacion de Shibamata con el templo Daikyoji. Tiendas de dulces, souvenirs y comida local (dango, senbei). Coordenadas aproximadas (tramo central de la calle).",
         "hours": null,
         "url": null,
@@ -106,12 +148,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.8806, 35.7561] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8806,
+          35.7561
+        ]
+      },
       "properties": {
         "name": "Shibamata Haikara Yokocho (tienda de chuches)",
         "category": "tienda",
         "city": "Tokio",
         "area": "Shibamata, Katsushika-ku",
+        "station": "Shibamata (linea Keisei Kanamachi)",
         "notes": "Tienda retro de dagashi (chuches tradicionales japonesas) y juguetes antiguos, ambientacion nostalgica estilo Showa. Junto a la estacion de Shibamata / calle Taishakuten Sando. Coordenadas aproximadas.",
         "hours": null,
         "url": null,
@@ -123,12 +172,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.8808, 35.7585] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8808,
+          35.7585
+        ]
+      },
       "properties": {
         "name": "Yamamoto-tei (casa de te y jardin)",
         "category": "visita",
         "city": "Tokio",
         "area": "Shibamata, Katsushika-ku",
+        "station": "Shibamata (linea Keisei Kanamachi)",
         "notes": "Residencia tradicional de la era Taisho con un precioso jardin japones; se puede tomar matcha y dulce contemplando el jardin. Junto al templo Daikyoji / Shibamata Taishakuten. Coordenadas aproximadas.",
         "hours": null,
         "url": null,
@@ -140,12 +196,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.8799, 35.7591] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8799,
+          35.7591
+        ]
+      },
       "properties": {
         "name": "Museo Tora-san (Katsushika Shibamata)",
         "category": "museo",
         "city": "Tokio",
         "area": "Shibamata, Katsushika-ku",
+        "station": "Shibamata (linea Keisei Kanamachi)",
         "notes": "Museo dedicado a la saga de cine 'Otoko wa Tsurai yo' (Tora-san), con sets recreados. Junto al rio Edogawa, al lado de Yamamoto-tei (y del Museo Yamada Yoji). Cierra el recorrido de Shibamata. Coordenadas aproximadas.",
         "hours": null,
         "url": null,
@@ -157,12 +220,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.7967, 35.7148] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7967,
+          35.7148
+        ]
+      },
       "properties": {
         "name": "Templo Senso-ji",
         "category": "visita",
         "city": "Tokio",
         "area": "Asakusa, Taito-ku",
+        "station": "Asakusa (lineas Ginza [metro], Toei Asakusa, Tobu Skytree, Tsukuba Express)",
         "notes": "El templo budista mas antiguo de Tokio. Puerta Kaminarimon con su gran farol rojo y la calle comercial Nakamise-dori hasta el templo. Muy concurrido; mejor temprano. Estaciones Asakusa (lineas Ginza, Asakusa, Tobu).",
         "hours": null,
         "url": null,
@@ -174,12 +244,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [135.7958, 35.0225] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7958,
+          35.0225
+        ]
+      },
       "properties": {
         "name": "Paseo del Filosofo (Tetsugaku-no-michi)",
         "category": "visita",
         "city": "Kioto",
         "area": "Higashiyama",
+        "station": "Sin estacion cercana; bus urbano (parada Ginkakuji-michi) o Keage (linea Tozai, metro) + paseo -- verificar",
         "notes": "Sendero peatonal de piedra junto a un canal, bordeado de cerezos (espectacular en sakura y en otono). Va aprox. desde Ginkaku-ji (Pabellon de Plata) hacia la zona de Nanzen-ji. Coordenadas aproximadas (tramo central del paseo).",
         "hours": null,
         "url": null,
@@ -191,12 +268,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [135.7943, 35.0113] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7943,
+          35.0113
+        ]
+      },
       "properties": {
         "name": "Templo Nanzen-ji",
         "category": "visita",
         "city": "Kioto",
         "area": "Higashiyama",
+        "station": "Keage (linea Tozai, metro de Kioto)",
         "notes": "Gran templo zen con la imponente puerta Sanmon (se puede subir) y el acueducto de ladrillo Suirokaku (epoca Meiji), muy fotogenico. En el extremo sur del Paseo del Filosofo: combinan bien el mismo dia. Coordenadas aproximadas.",
         "hours": null,
         "url": null,
@@ -208,12 +292,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [135.7292, 35.0394] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7292,
+          35.0394
+        ]
+      },
       "properties": {
         "name": "Kinkaku-ji (Pabellon Dorado)",
         "category": "visita",
         "city": "Kioto",
         "area": "Kita-ku (noroeste de Kioto)",
+        "station": "Sin estacion cercana; bus urbano (parada Kinkakuji-michi) -- verificar",
         "notes": "Templo zen cuyo pabellon esta recubierto de pan de oro, reflejandose en el estanque. Uno de los iconos de Kioto. Esta al NOROESTE, lejos de Higashiyama: se combina mejor con Ryoan-ji / zona oeste, no con el Paseo del Filosofo. Coordenadas aproximadas.",
         "hours": null,
         "url": null,
@@ -225,12 +316,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [null, null] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
       "properties": {
         "name": "Engine Ramen",
         "category": "restaurante",
         "city": "Kioto",
         "area": null,
+        "station": "Pendiente de geocodificar",
         "notes": "Restaurante de ramen en Kioto. PENDIENTE DE GEOCODIFICAR: no tengo su ubicacion exacta verificada; pasar enlace de Google Maps o direccion para fijar coordenadas.",
         "hours": null,
         "url": null,
@@ -242,12 +340,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [135.7727, 34.9671] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7727,
+          34.9671
+        ]
+      },
       "properties": {
         "name": "Santuario Fushimi Inari Taisha",
         "category": "visita",
         "city": "Kioto",
         "area": "Fushimi-ku (sur de Kioto)",
+        "station": "JR Inari (linea JR Nara) / Fushimi-Inari (linea Keihan)",
         "notes": "Santuario sintoista famoso por los miles de toriis rojos (Senbon Torii) que suben por el monte Inari. Abierto 24h; ir muy temprano o al atardecer evita masas. Al SUR de Kioto, junto a la estacion JR Inari / Fushimi Inari (Keihan). Coordenadas aproximadas.",
         "hours": "24h",
         "url": null,
@@ -259,12 +364,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [135.6717, 35.0170] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6717,
+          35.017
+        ]
+      },
       "properties": {
         "name": "Bosque de bambu de Arashiyama",
         "category": "visita",
         "city": "Kioto",
         "area": "Arashiyama (oeste de Kioto)",
+        "station": "Saga-Arashiyama (linea JR Sagano) / Arashiyama (Randen y Hankyu)",
         "notes": "Famoso sendero entre altos bambues. Ir muy temprano (se llena). Al OESTE de Kioto; se combina con Tenryu-ji, el puente Togetsukyo y el parque de monos Iwatayama. Coordenadas aproximadas.",
         "hours": null,
         "url": null,
@@ -276,12 +388,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [135.6662, 35.0283] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6662,
+          35.0283
+        ]
+      },
       "properties": {
         "name": "Bosque de bambu de Adashino",
         "category": "visita",
         "city": "Kioto",
         "area": "Sagano / Saga-Toriimoto (oeste de Kioto)",
+        "station": "Saga-Arashiyama (linea JR Sagano) + paseo/bus -- verificar",
         "notes": "Sendero de bambu junto al templo Adashino Nenbutsu-ji, en el barrio tradicional de Saga-Toriimoto. Mucho mas tranquilo que el bosque principal de Arashiyama, al que queda al norte. Coordenadas aproximadas.",
         "hours": null,
         "url": null,
@@ -293,12 +412,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [135.5259, 34.6873] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5259,
+          34.6873
+        ]
+      },
       "properties": {
         "name": "Castillo de Osaka",
         "category": "visita",
         "city": "Osaka",
         "area": "Chuo-ku",
+        "station": "Osakajokoen (linea JR Loop) / Tanimachi 4-chome (lineas Tanimachi y Chuo, metro)",
         "notes": "Castillo historico rodeado de fosos y un gran parque (precioso en sakura y en otono). La torre principal es museo con mirador. Estaciones Osakajokoen / Tanimachi 4-chome. Coordenadas aproximadas.",
         "hours": null,
         "url": null,
@@ -310,12 +436,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.7100, 35.6852] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.71,
+          35.6852
+        ]
+      },
       "properties": {
         "name": "Shinjuku Gyoen",
         "category": "visita",
         "city": "Tokio",
         "area": "Shinjuku",
+        "station": "Shinjuku-gyoemmae (linea Marunouchi, metro) / Sendagaya (JR) / Shinjuku",
         "notes": "Gran jardin nacional que combina estilos japones, ingles y frances; de los mejores de Tokio para sakura y otono. Entrada de pago y CIERRA LOS LUNES. Estaciones Shinjukugyoemmae / Shinjuku. Coordenadas aproximadas.",
         "hours": null,
         "url": null,
@@ -327,12 +460,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [136.8967, 35.1844] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.8967,
+          35.1844
+        ]
+      },
       "properties": {
         "name": "Torneo de sumo de Nagoya (Nagoya Basho)",
         "category": "actividad",
         "city": "Nagoya",
         "area": null,
+        "station": "Shiyakusho (linea Meijo, metro de Nagoya), zona IG Arena/castillo -- verificar sede del ano",
         "notes": "Gran torneo de sumo de julio. FECHA FIJA: del 11 al 25 de julio (ancla el itinerario; comprar entradas con antelacion, se agotan). Sede desde 2025: IG Arena (antes Dolphins Arena / Aichi Prefectural Gymnasium) - VERIFICAR sede y coordenadas para el ano del viaje. Coordenadas aproximadas (zona IG Arena, junto al castillo de Nagoya).",
         "hours": null,
         "url": null,
@@ -344,12 +484,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.7676, 35.6718] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7676,
+          35.6718
+        ]
+      },
       "properties": {
         "name": "Itoya Ginza (G.Itoya) - papeleria",
         "category": "tienda",
         "city": "Tokio",
         "area": "Ginza",
+        "station": "Ginza (lineas Ginza/Marunouchi/Hibiya, metro)",
         "notes": "Papeleria historica flagship de Ginza: varias plantas de material de escritura, papel japones, articulos de regalo. Direccion aprox.: 2-7-15 Ginza, Chuo-ku. Coordenadas aproximadas.",
         "hours": null,
         "url": null,
@@ -361,12 +508,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.6983, 35.6616] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6983,
+          35.6616
+        ]
+      },
       "properties": {
         "name": "Loft (Shibuya) - papeleria y variados",
         "category": "tienda",
         "city": "Tokio",
         "area": "Shibuya",
+        "station": "Shibuya (JR Yamanote y varias lineas de metro)",
         "notes": "Cadena de articulos de papeleria, hogar y lifestyle. CADENA con muchas sucursales por Japon: coordenadas puestas en el flagship de Shibuya como referencia; se puede reasignar a la sucursal que caiga mejor en la ruta. Coordenadas aproximadas.",
         "hours": null,
         "url": null,
@@ -378,12 +532,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [null, null] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
       "properties": {
         "name": "Tonkatsu Kiniro",
         "category": "restaurante",
         "city": null,
         "area": null,
+        "station": "Pendiente (falta ciudad/ubicacion)",
         "notes": "Restaurante de tonkatsu (cerdo rebozado). PENDIENTE: falta ciudad y ubicacion exacta; no tengo coordenadas verificadas. Pasar ciudad y enlace de Google Maps/direccion para fijarlo.",
         "hours": null,
         "url": null,
@@ -395,12 +556,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [135.5035, 34.8614] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5035,
+          34.8614
+        ]
+      },
       "properties": {
         "name": "Templo Katsuo-ji (templo de los darumas)",
         "category": "visita",
         "city": "Osaka",
         "area": "Minoo, norte de Osaka",
+        "station": "Sin estacion; bus desde Senri-Chuo o estacion Minoo (Hankyu) -- verificar",
         "notes": "Templo conocido por los miles de munecos daruma (amuletos de la buena suerte / 'ganar') repartidos por todo el recinto. En las montanas de Minoo, al norte de Osaka: acceso algo complicado sin coche (bus), verificar transporte. Coordenadas aproximadas.",
         "hours": null,
         "url": null,
@@ -412,12 +580,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.7585, 35.6665] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7585,
+          35.6665
+        ]
+      },
       "properties": {
         "name": "Itamae Sushi Shinbashi",
         "category": "restaurante",
         "city": "Tokio",
         "area": "Shinbashi, Minato-ku",
+        "station": "Shinbashi (JR y lineas Ginza/Asakusa, metro + Yurikamome)",
         "notes": "Restaurante de sushi en la zona de Shinbashi. Coordenadas APROXIMADAS (area de la estacion de Shinbashi); pasar enlace de Google Maps para fijar el local exacto.",
         "hours": null,
         "url": null,
@@ -429,12 +604,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.7889, 35.7138] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7889,
+          35.7138
+        ]
+      },
       "properties": {
         "name": "Calle Kappabashi (Dogu-gai, utensilios de cocina)",
         "category": "tienda",
         "city": "Tokio",
         "area": "Taito-ku (entre Asakusa y Ueno)",
+        "station": "Tawaramachi (linea Ginza, metro) / Iriya",
         "notes": "Calle especializada en utensilios de cocina: cuchillos japoneses, vajilla, moldes y las famosas replicas de comida de plastico (sampuru). Muchas tiendas cierran domingo. Muy cerca de Asakusa/Senso-ji: combinan el mismo dia. Coordenadas aproximadas (tramo central de la calle).",
         "hours": null,
         "url": null,
@@ -446,12 +628,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.8050, 35.7497] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.805,
+          35.7497
+        ]
+      },
       "properties": {
         "name": "Tatsumi Office (kimonos de segunda mano) - Senju",
         "category": "tienda",
         "city": "Tokio",
         "area": "Senju, Adachi-ku",
+        "station": "Kita-Senju (JR Joban, Tokyo Metro Hibiya/Chiyoda, Tobu, TX) -- aprox., verificar",
         "notes": "Tienda/almacen de kimonos de segunda mano a muy buen precio, en la zona de Senju (Kita-Senju). Coordenadas APROXIMADAS (area de Senju); pasar enlace de Google Maps para fijar el local exacto. Conviene verificar horario/dias de apertura.",
         "hours": null,
         "url": null,
@@ -463,12 +652,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [null, null] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
       "properties": {
         "name": "Sumo Studio Osaka (experiencia de sumo)",
         "category": "actividad",
         "city": "Osaka",
         "area": null,
+        "station": "Pendiente de geocodificar",
         "notes": "Experiencia para practicar/probar sumo en Osaka (suele incluir espectaculo + probar contra un luchador + comida chanko). Requiere RESERVA previa. PENDIENTE DE GEOCODIFICAR: pasar enlace de Google Maps/direccion para fijar coordenadas.",
         "hours": null,
         "url": null,
@@ -480,12 +676,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [135.4983, 34.7055] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4983,
+          34.7055
+        ]
+      },
       "properties": {
         "name": "Kyo-train Garaku (tren tematico Hankyu)",
         "category": "transporte",
         "city": "Osaka",
         "area": "Hankyu Osaka-umeda",
+        "station": "Osaka-umeda (linea Hankyu Kyoto)",
         "notes": "Tren turistico/tematico con decoracion tradicional japonesa en la linea Hankyu Kyoto. Recorrido: Osaka-umeda -> Kyoto-kawaramachi. Sin recargo (tarifa normal Hankyu, sin reserva), pero SOLO circula ciertos dias (fines de semana/festivos) - VERIFICAR calendario. Punto situado en la estacion de origen (Osaka-umeda). Coordenadas aproximadas.",
         "hours": null,
         "url": null,
@@ -497,12 +700,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [135.7588, 34.9858] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7588,
+          34.9858
+        ]
+      },
       "properties": {
         "name": "Hashi Lab (hacer tus palillos) - Kyoto Station 2nd store",
         "category": "actividad",
         "city": "Kioto",
         "area": "Estacion de Kioto",
+        "station": "Kioto (JR y linea Karasuma, metro)",
         "notes": "Taller para fabricar tus propios palillos (hashi) personalizados. Local: Kyoto Station 2nd store (segunda tienda en la zona de la estacion de Kioto). Conviene VERIFICAR si necesita reserva. Coordenadas APROXIMADAS (estacion de Kioto); pasar enlace de Google Maps para fijar el local.",
         "hours": null,
         "url": null,
@@ -514,12 +724,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [135.4288, 34.8211] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4288,
+          34.8211
+        ]
+      },
       "properties": {
         "name": "Cup Noodles Museum Osaka Ikeda (haz tu cup noodle)",
         "category": "actividad",
         "city": "Osaka",
         "area": "Ikeda (Osaka)",
+        "station": "Ikeda (linea Hankyu Takarazuka)",
         "notes": "Museo de los fideos instantaneos; actividad 'My Cup Noodle Factory' para disenar y hacer tu propio cubo de fideos. En Ikeda (norte de Osaka), cerca de la estacion Ikeda (linea Hankyu Takarazuka). Direccion: 8-25 Masumicho, Ikeda. Entrada al museo gratis; el taller se paga aparte. Coordenadas aproximadas.",
         "hours": null,
         "url": null,
@@ -531,12 +748,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.7445, 35.5825] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7445,
+          35.5825
+        ]
+      },
       "properties": {
         "name": "Heiwa-no-Mori Park (circuito de aventura infantil)",
         "category": "actividad",
         "city": "Tokio",
         "area": "Ota-ku",
+        "station": "Heiwajima (linea Keikyu) -- verificar",
         "notes": "Parque con circuito de 'field athletic' (pruebas de obstaculos sobre agua y madera) muy divertido para ninos y adultos. En Ota-ku, sur de Tokio. Coordenadas aproximadas.",
         "hours": "9:30-16:30, cierra lunes",
         "url": null,
@@ -548,12 +772,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [null, null] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
       "properties": {
         "name": "Furuchon Ichiba (figuras de anime rebajadas)",
         "category": "tienda",
         "city": null,
         "area": null,
+        "station": "Pendiente (falta ciudad/ubicacion)",
         "notes": "Tienda de figuras de anime de segunda mano / rebajadas. PENDIENTE: falta ciudad y ubicacion exacta; no tengo coordenadas verificadas. Pasar ciudad y enlace de Google Maps/direccion para fijarlo.",
         "hours": null,
         "url": null,
@@ -565,12 +796,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [135.5055, 34.7083] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5055,
+          34.7083
+        ]
+      },
       "properties": {
         "name": "Nakazakicho",
         "category": "visita",
         "city": "Osaka",
         "area": "Kita-ku (al norte de Umeda)",
+        "station": "Nakazakicho (linea Tanimachi, metro)",
         "notes": "Barrio bohemio y retro que sobrevivio a la guerra: casas antiguas reconvertidas en cafes con encanto, tiendas vintage/ropa de segunda mano, galerias y arte callejero. Ideal para pasear sin rumbo. Junto a Umeda (estacion Nakazakicho, linea Tanimachi). Coordenadas aproximadas.",
         "hours": null,
         "url": null,
@@ -582,12 +820,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [135.5115, 34.7050] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5115,
+          34.705
+        ]
+      },
       "properties": {
         "name": "Tenjinbashisuji Shopping Street",
         "category": "tienda",
         "city": "Osaka",
         "area": "Kita-ku",
+        "station": "Tenjinbashisuji 6-chome (lineas Tanimachi/Sakaisuji + Hankyu) / Minami-morimachi",
         "notes": "La galeria comercial cubierta mas larga de Japon (~2,6 km): tiendas de todo tipo, comida callejera y ambiente local autentico. Muy cerca de Nakazakicho (combinan). Estaciones Tenjinbashisuji 6-chome / Minami-morimachi. Coordenadas aproximadas (tramo central).",
         "hours": null,
         "url": null,
@@ -599,12 +844,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [135.4718, 34.8538] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4718,
+          34.8538
+        ]
+      },
       "properties": {
         "name": "Cascada de Minoo (Minoo Falls)",
         "category": "visita",
         "city": "Osaka",
         "area": "Minoo, norte de Osaka",
+        "station": "Minoo (linea Hankyu Minoo)",
         "notes": "Cascada de ~33 m en el parque cuasi-nacional de Minoo. Paseo agradable de ~2,7 km desde la estacion Minoo (linea Hankyu), espectacular en otono (momiji); por el camino venden momiji tempura. Misma zona que Katsuo-ji (templo de los darumas): combinan. Coordenadas aproximadas.",
         "hours": null,
         "url": null,
@@ -616,12 +868,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [135.7805, 35.0003] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7805,
+          35.0003
+        ]
+      },
       "properties": {
         "name": "Templo Kodai-ji (y paseo de bambu)",
         "category": "visita",
         "city": "Kioto",
         "area": "Higashiyama sur (Gion)",
+        "station": "Sin estacion cercana; bus, o Gion-Shijo/Kiyomizu-Gojo (Keihan) + paseo -- verificar",
         "notes": "Templo zen con jardines preciosos, casa de te y un pequeno paseo de bambu dentro del recinto. Famoso por sus iluminaciones nocturnas (primavera y otono). En Higashiyama sur, junto a Kiyomizu-dera, las cuestas Ninenzaka/Sannenzaka y Gion: combinan el mismo dia (NO confundir con la zona norte del Paseo del Filosofo/Nanzen-ji). Coordenadas aproximadas.",
         "hours": null,
         "url": null,
@@ -633,12 +892,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [135.8430, 34.6851] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.843,
+          34.6851
+        ]
+      },
       "properties": {
         "name": "Nara (Parque de Nara)",
         "category": "visita",
         "city": "Nara",
         "area": "Parque de Nara",
+        "station": "Kintetsu-Nara (linea Kintetsu Nara) / JR Nara + paseo",
         "notes": "Ciudad historica famosa por los ciervos sika que campan libres por el parque y hacen reverencias por galletas (shika senbei). Alrededor: Todai-ji (Gran Buda), Kasuga Taisha, Kofuku-ji. Excursion de un dia desde Kioto u Osaka (~45-60 min en tren). Punto general en el Parque de Nara; se iran anadiendo los templos concretos. Coordenadas aproximadas.",
         "hours": null,
         "url": null,
@@ -650,12 +916,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [135.8483, 34.6817] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8483,
+          34.6817
+        ]
+      },
       "properties": {
         "name": "Santuario Kasuga Taisha",
         "category": "visita",
         "city": "Nara",
         "area": "Parque de Nara",
+        "station": "Kintetsu-Nara (linea Kintetsu Nara) + bus/paseo",
         "notes": "Santuario sintoista principal de Nara, famoso por sus miles de farolillos: de bronce colgados en los pasillos y de piedra en los caminos de acceso por el bosque. Patrimonio de la Humanidad. En el extremo este del Parque de Nara. Coordenadas aproximadas.",
         "hours": null,
         "url": null,
@@ -667,12 +940,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [135.8290, 34.6780] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.829,
+          34.678
+        ]
+      },
       "properties": {
         "name": "Naramachi (barrio antiguo)",
         "category": "visita",
         "city": "Nara",
         "area": "Naramachi",
+        "station": "Kintetsu-Nara (linea Kintetsu Nara) / JR Nara + paseo",
         "notes": "Antiguo barrio de comerciantes de Nara: calles con casas tradicionales machiya reconvertidas en tiendas, cafes, pequenos museos y talleres de artesania. Al sur del estanque Sarusawa / Kofuku-ji. Ideal para pasear tras ver el parque. Coordenadas aproximadas.",
         "hours": null,
         "url": null,
@@ -684,12 +964,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [135.5030, 34.6648] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.503,
+          34.6648
+        ]
+      },
       "properties": {
         "name": "Round1 Osaka (centro de entretenimiento)",
         "category": "actividad",
         "city": "Osaka",
         "area": "Namba (referencia)",
+        "station": "N/A (cadena); referencia Namba (varias lineas)",
         "notes": "Complejo de ocio: recreativos, bolos, karaoke y 'Spo-Cha' (polideportivo cubierto con multiples deportes y atracciones). CADENA con varias sucursales en Osaka; coordenadas puestas en la zona de Namba como referencia (p.ej. Round1 Stadium Sennichimae), reasignable a la sucursal que mejor caiga. Coordenadas aproximadas.",
         "hours": null,
         "url": null,
@@ -701,12 +988,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.6475, 35.6465] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6475,
+          35.6465
+        ]
+      },
       "properties": {
         "name": "Templo Gotokuji (maneki-neko)",
         "category": "visita",
         "city": "Tokio",
         "area": "Setagaya-ku",
+        "station": "Gotokuji (linea Odakyu) / Miyanosaka (linea Setagaya, tranvia Tokyu)",
         "notes": "Templo considerado el origen del maneki-neko (gato de la suerte): cientos de figuritas de gatos blancos acumuladas como ofrenda. Zona residencial tranquila de Setagaya, al oeste de Tokio. Estaciones Gotokuji (Odakyu) / Miyanosaka (linea Setagaya). Coordenadas aproximadas.",
         "hours": null,
         "url": null,
@@ -718,12 +1012,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.7622, 35.6652] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7622,
+          35.6652
+        ]
+      },
       "properties": {
         "name": "Reloj gigante de Ghibli (NI-TELE Really Big Clock)",
         "category": "visita",
         "city": "Tokio",
         "area": "Shiodome / Shinbashi, Minato-ku",
+        "station": "Shiodome (linea Oedo, metro + Yurikamome) / Shinbashi",
         "notes": "Gran reloj mecanico de cobre disenado por Hayao Miyazaki (Studio Ghibli) en la Nittele Tower (Nippon TV). En los pases cobra vida con figuras que se mueven unos minutos antes de la hora. Cerca de Itamae Sushi Shinbashi (misma zona). Coordenadas aproximadas.",
         "hours": "Pases: 12:00, 15:00, 18:00, 20:00; fines de semana tambien 10:00",
         "url": null,
@@ -735,12 +1036,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.6655, 35.7080] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6655,
+          35.708
+        ]
+      },
       "properties": {
         "name": "Nakano Broadway (figuras de anime)",
         "category": "tienda",
         "city": "Tokio",
         "area": "Nakano-ku",
+        "station": "Nakano (linea JR Chuo + Tozai, metro)",
         "notes": "Centro comercial mitico para otakus: muchas tiendas Mandarake con figuras, manga, juguetes vintage y coleccionismo. Alternativa a Akihabara, mas de segunda mano y rarezas. Al final de la galeria Nakano Sun Mall desde la estacion de Nakano (linea JR Chuo). Coordenadas aproximadas.",
         "hours": null,
         "url": null,
@@ -752,12 +1060,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [null, null] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
       "properties": {
         "name": "Grand Pacific (hotel de apartamentos)",
         "category": "alojamiento",
         "city": "Osaka",
         "area": null,
+        "station": "Pendiente de geocodificar",
         "notes": "Hotel de apartamentos en Osaka. Coordenadas PENDIENTES: falta ubicacion/direccion exacta para fijar el punto; pasar enlace de Google Maps o direccion.",
         "hours": null,
         "url": null,
@@ -769,12 +1084,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.7742, 35.7085] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7742,
+          35.7085
+        ]
+      },
       "properties": {
         "name": "Mercado de Ameyoko (Ameya-Yokocho)",
         "category": "tienda",
         "city": "Tokio",
         "area": "Ueno, Taito-ku",
+        "station": "Ueno y Okachimachi (linea JR Yamanote)",
         "notes": "Mercado callejero animado bajo las vias del tren, entre las estaciones de Ueno y Okachimachi: puestos de comida, marisco, dulces, ropa, cosmetica y gangas. Ambiente bullicioso. Junto al parque de Ueno (combinan). Coordenadas aproximadas (tramo central).",
         "hours": null,
         "url": null,
@@ -786,12 +1108,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [null, null] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
       "properties": {
         "name": "Kuse ga Tsuyoi Menya Reiwa (ramen)",
         "category": "restaurante",
         "city": "Osaka",
         "area": null,
+        "station": "Pendiente de geocodificar",
         "notes": "Restaurante de ramen en Osaka. PENDIENTE DE GEOCODIFICAR: no tengo su ubicacion exacta verificada; pasar enlace de Google Maps/direccion para fijar coordenadas.",
         "hours": null,
         "url": null,
@@ -803,12 +1132,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [null, null] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
       "properties": {
         "name": "Takumi Armory",
         "category": "tienda",
         "city": null,
         "area": null,
+        "station": "Pendiente (falta ciudad/ubicacion)",
         "notes": "Tienda (armeria/replicas: katanas, armaduras y objetos de coleccionista - VERIFICAR el tipo exacto). PENDIENTE: falta ciudad y ubicacion exacta; no tengo coordenadas verificadas. Pasar ciudad y enlace de Google Maps/direccion para fijarlo.",
         "hours": null,
         "url": null,
@@ -820,12 +1156,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [null, null] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
       "properties": {
         "name": "Book-Off (segunda mano)",
         "category": "tienda",
         "city": null,
         "area": null,
+        "station": "N/A (cadena, sin ubicacion fija)",
         "notes": "Gran cadena de tiendas de segunda mano: libros, manga, videojuegos, CD/DVD y, en las grandes, figuras y electronica (relacionadas: Hard-Off, Mode-Off). CADENA con cientos de locales por todo Japon; sin coordenadas fijas: se anclan sucursales concretas al planificar cada dia (hay flagship grandes en Akihabara, Shibuya, Shinjuku, Namba).",
         "hours": null,
         "url": null,
@@ -837,12 +1180,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [135.5020, 34.6650] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.502,
+          34.665
+        ]
+      },
       "properties": {
         "name": "e-stay Namba (hostel)",
         "category": "alojamiento",
         "city": "Osaka",
         "area": "Namba",
+        "station": "Namba (lineas Midosuji/Yotsubashi/Sennichimae, metro + Nankai/Kintetsu) -- aprox.",
         "notes": "Alojamiento tipo hostel 'e-stay Namba' reservado via Booking, en la zona de Namba (Osaka). Fechas de la busqueda: check-in 2027-07-12, check-out 2027-07-16 (4 noches). Ocupacion: 2 adultos + 2 ninos (7 y 11 anos). NOTA: estas fechas de julio 2027 coinciden con el torneo de sumo de Nagoya (11-25 jul). Coordenadas APROXIMADAS (zona Namba); afinar con la direccion exacta.",
         "hours": null,
         "url": "https://www.booking.com/hotel/jp/hui-mei-xu-ting-hosuteru-jia.es.html",
@@ -854,12 +1204,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [135.4323, 34.6654] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4323,
+          34.6654
+        ]
+      },
       "properties": {
         "name": "Universal Studios Japan (USJ)",
         "category": "actividad",
         "city": "Osaka",
         "area": "Konohana-ku",
+        "station": "Universal-City (linea JR Yumesaki/Sakurajima)",
         "notes": "Parque tematico con Super Nintendo World y The Wizarding World of Harry Potter. Se llena mucho: comprar entrada con fecha por adelantado y valorar Express Pass; Super Nintendo World puede requerir Area Timed Entry. Estacion Universal-City (linea JR Yumesaki). Coordenadas aproximadas.",
         "hours": null,
         "url": null,
@@ -871,12 +1228,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.8125, 35.7005] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8125,
+          35.7005
+        ]
+      },
       "properties": {
         "name": "Honjo Life Safety Learning Center",
         "category": "actividad",
         "city": "Tokio",
         "area": "Sumida-ku",
+        "station": "Oshiage/Tokyo Skytree o Honjo-azumabashi (linea Asakusa, metro) -- verificar",
         "notes": "Centro de aprendizaje de prevencion de desastres: simuladores para experimentar terremotos, tifones (viento y lluvia), humo de incendios y extincion. Entrada gratuita, con visitas guiadas (conviene reservar tour). En Sumida-ku, no lejos de Asakusa/Tokyo Skytree. Coordenadas aproximadas.",
         "hours": null,
         "url": null,
@@ -888,12 +1252,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.7877, 35.6893] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7877,
+          35.6893
+        ]
+      },
       "properties": {
         "name": "Entrenamiento matutino de sumo - Arashio-beya",
         "category": "actividad",
         "city": "Tokio",
         "area": "Nihonbashi-Hamacho, Chuo-ku",
+        "station": "Hamacho (linea Shinjuku, metro) / Morishita -- verificar",
         "notes": "Establo de sumo (heya) donde se puede ver el entrenamiento matutino (asageiko). Arashio-beya es conocido porque permite observar la practica desde los ventanales a pie de calle, sin entrar. Horario de manana y variable; NO hay keiko durante los torneos ni cuando el establo esta de gira - VERIFICAR dias/normas de cortesia antes de ir. Coordenadas aproximadas.",
         "hours": null,
         "url": null,
@@ -905,12 +1276,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.6693, 35.6436] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6693,
+          35.6436
+        ]
+      },
       "properties": {
         "name": "Sankaku Chitai (callejon de izakayas)",
         "category": "restaurante",
         "city": "Tokio",
         "area": "Sangenjaya, Setagaya-ku",
+        "station": "Sangenjaya (linea Tokyu Den-en-toshi + tranvia Setagaya)",
         "notes": "'Zona triangular': laberinto de callejones estrechos repletos de izakayas y bares diminutos con ambiente retro Showa, junto a la estacion de Sangenjaya. Mejor de noche para cenar/tapear de bar en bar. En Setagaya (oeste de Tokio), misma zona que Gotokuji. Coordenadas aproximadas.",
         "hours": null,
         "url": null,
@@ -922,12 +1300,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [null, null] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
       "properties": {
         "name": "Ippudo (ramen)",
         "category": "restaurante",
         "city": null,
         "area": null,
+        "station": "N/A (cadena, sin ubicacion fija)",
         "notes": "Cadena de ramen tonkotsu estilo Hakata. Plato estrella a probar: 'Shiromaru Motoaji' (el tonkotsu clasico de la casa); el 'Akamaru' es la version con aceite de ajo y miso. CADENA con muchas sucursales (Tokio, Osaka, etc.); sin coordenadas fijas: anclar la sucursal que caiga en la ruta. NOTA: confirmar si 'Shiromaru' era el plato o un local aparte.",
         "hours": null,
         "url": "https://www.ippudo.com/",
@@ -939,12 +1324,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [null, null] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
       "properties": {
         "name": "Machida Shoten (ramen iekei)",
         "category": "restaurante",
         "city": null,
         "area": null,
+        "station": "N/A (cadena, sin ubicacion fija)",
         "notes": "Cadena de ramen estilo iekei (家系, Yokohama): caldo tonkotsu-shoyu contundente, con espinacas y alga nori, y arroz para mojar. CADENA con muchas sucursales por Japon; sin coordenadas fijas: anclar la que caiga en la ruta.",
         "hours": null,
         "url": null,
@@ -956,12 +1348,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [null, null] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
       "properties": {
         "name": "Dormy Inn (cadena de hoteles)",
         "category": "alojamiento",
         "city": null,
         "area": null,
+        "station": "N/A (cadena, sin ubicacion fija)",
         "notes": "Cadena de hoteles japoneses de muy buena relacion calidad-precio: onsen/sento en la ultima planta, ramen gratis por la noche ('yonaki soba') y lavanderia. CADENA con hoteles en todas las ciudades principales; sin coordenadas fijas: anclar la sucursal (ciudad/zona) cuando se decida alojamiento.",
         "hours": null,
         "url": "https://www.hotespa.net/dormyinn/",
@@ -973,12 +1372,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [null, null] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
       "properties": {
         "name": "Tenya (tempura / tendon)",
         "category": "restaurante",
         "city": null,
         "area": null,
+        "station": "N/A (cadena, sin ubicacion fija)",
         "notes": "Cadena de tempura asequible, famosa por sus tendon (cuenco de arroz con tempura). Rapido, barato y rico. CADENA con muchas sucursales (sobre todo en Tokio); sin coordenadas fijas: anclar la que caiga en la ruta.",
         "hours": null,
         "url": null,
@@ -990,12 +1396,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [null, null] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
       "properties": {
         "name": "Matsuya (comida rapida japonesa)",
         "category": "restaurante",
         "city": null,
         "area": null,
+        "station": "N/A (cadena, sin ubicacion fija)",
         "notes": "Cadena de comida rapida japonesa: gyudon (cuenco de arroz con ternera), curry y teishoku, muy barato y 24h en muchos locales. Se pide en maquina de tickets a la entrada. CADENA con muchisimas sucursales; sin coordenadas fijas: anclar la que caiga en la ruta.",
         "hours": null,
         "url": null,
@@ -1007,12 +1420,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [null, null] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
       "properties": {
         "name": "Nakau (comida rapida japonesa)",
         "category": "restaurante",
         "city": null,
         "area": null,
+        "station": "N/A (cadena, sin ubicacion fija)",
         "notes": "Cadena de comida rapida japonesa: gyudon (ternera), oyakodon y udon recien hecho, barato y a menudo 24h. Se pide en maquina de tickets. CADENA con muchas sucursales; sin coordenadas fijas: anclar la que caiga en la ruta.",
         "hours": null,
         "url": null,
@@ -1024,12 +1444,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.7016, 35.6580] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7016,
+          35.658
+        ]
+      },
       "properties": {
         "name": "Shibuya Sky (mirador)",
         "category": "visita",
         "city": "Tokio",
         "area": "Shibuya",
+        "station": "Shibuya (JR Yamanote y varias lineas de metro)",
         "notes": "Mirador de pago en la azotea del rascacielos Shibuya Scramble Square (piso ~230 m, terraza al aire libre). Vistas espectaculares del cruce de Shibuya y, con buen dia, del monte Fuji. Entrada con fecha/hora: reservar online, el atardecer vuela. Sobre la estacion de Shibuya. Coordenadas aproximadas.",
         "hours": null,
         "url": null,
@@ -1041,12 +1468,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.6917, 35.6896] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6917,
+          35.6896
+        ]
+      },
       "properties": {
         "name": "Tokyo Metropolitan Government Building (mirador gratuito)",
         "category": "visita",
         "city": "Tokio",
         "area": "Nishi-Shinjuku",
+        "station": "Tochomae (linea Oedo, metro) / Shinjuku",
         "notes": "Sede del gobierno metropolitano ('Tocho'). Miradores GRATUITOS en la planta 45 (~202 m) de las dos torres, con vistas de Tokio y del Fuji con buen tiempo. Alternativa gratis al Shibuya Sky. En Nishi-Shinjuku, cerca de Shinjuku Gyoen. Coordenadas aproximadas.",
         "hours": null,
         "url": null,
@@ -1058,12 +1492,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.7160, 35.5625] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.716,
+          35.5625
+        ]
+      },
       "properties": {
         "name": "Tonkatsu Maruichi (Kamata)",
         "category": "restaurante",
         "city": "Tokio",
         "area": "Kamata, Ota-ku",
+        "station": "Kamata (JR Keihin-Tohoku + Tokyu Ikegami/Tamagawa)",
         "notes": "Restaurante de tonkatsu muy valorado en Kamata (barrio conocido por su tonkatsu), sur de Tokio. Suele haber cola. Misma zona que Heiwa-no-Mori Park (Ota-ku). Coordenadas APROXIMADAS (area de la estacion de Kamata); pasar enlace de Google Maps para fijar el local.",
         "hours": null,
         "url": null,
@@ -1075,12 +1516,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [135.7850, 34.9949] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.785,
+          34.9949
+        ]
+      },
       "properties": {
         "name": "Templo Kiyomizu-dera",
         "category": "visita",
         "city": "Kioto",
         "area": "Higashiyama sur",
+        "station": "Kiyomizu-Gojo (linea Keihan) + paseo, o bus -- verificar",
         "notes": "Templo budista Patrimonio de la Humanidad, famoso por su gran escenario de madera sobre la ladera, con vistas de Kioto. Muy concurrido: ir temprano. Se sube por las cuestas Ninenzaka/Sannenzaka (tiendas y casas tradicionales) y combina con Kodai-ji y Gion el mismo dia. Coordenadas aproximadas.",
         "hours": null,
         "url": null,
@@ -1092,12 +1540,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [134.6939, 34.8394] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6939,
+          34.8394
+        ]
+      },
       "properties": {
         "name": "Castillo de Himeji",
         "category": "visita",
         "city": "Himeji",
         "area": "Himeji (Hyogo)",
+        "station": "Himeji (JR Sanyo + Shinkansen; Sanyo Himeji) + paseo",
         "notes": "El castillo mas espectacular de Japon ('garza blanca'), Patrimonio de la Humanidad y original (no reconstruido). Al OESTE de Osaka: ~1 h desde Shin-Osaka en Shinkansen o ~1,5 h en tren local; direccion opuesta al resto del viaje, asi que encaja como excursion de dia desde la base de Osaka (se puede combinar con Kobe). A 15 min a pie de la estacion JR Himeji. Coordenadas aproximadas.",
         "hours": null,
         "url": null,
@@ -1109,12 +1564,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.7400, 35.6605] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.74,
+          35.6605
+        ]
+      },
       "properties": {
         "name": "teamLab Borderless (museo de arte digital)",
         "category": "actividad",
         "city": "Tokio",
         "area": "Azabudai Hills, Minato-ku",
+        "station": "Kamiyacho (linea Hibiya, metro) / Roppongi-itchome -- Azabudai Hills",
         "notes": "Museo de arte digital inmersivo de teamLab. Desde 2024 esta en AZABUDAI HILLS (Minato-ku), ya NO en Odaiba. Requiere entrada con fecha/hora comprada por adelantado (se agota). No confundir con teamLab Planets (que esta en Toyosu). Coordenadas aproximadas.",
         "hours": null,
         "url": "https://www.teamlab.art/e/borderless-azabudai/",
@@ -1126,12 +1588,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [137.0790, 35.1817] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.079,
+          35.1817
+        ]
+      },
       "properties": {
         "name": "Ghibli Park",
         "category": "actividad",
         "city": "Nagoya",
         "area": "Nagakute, Aichi (Parque Conmemorativo Expo 2005)",
+        "station": "Aichi-kyuhaku-kinen-koen (linea Linimo, desde Fujigaoka/metro de Nagoya)",
         "notes": "Parque tematico del Studio Ghibli (abierto 2022) dentro del Aichi Commemorative Park (Moricoro Park), en Nagakute, cerca de NAGOYA (NO es el Museo Ghibli de Mitaka/Tokio). Varias areas (Grand Warehouse, Valley of Witches, Dondoko Forest...). REQUIERE entrada con fecha/hora por adelantado, por areas; se agota rapido. Acceso: linea Linimo desde Fujigaoka (metro de Nagoya) hasta Aichi-kyuhaku-kinen-koen. Encaja con la parada de Nagoya (sumo). Coordenadas aproximadas.",
         "hours": null,
         "url": "https://ghibli-park.jp/en/",
@@ -1143,12 +1612,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [135.4897, 34.7052] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4897,
+          34.7052
+        ]
+      },
       "properties": {
         "name": "Umeda Sky Building (Floating Garden)",
         "category": "visita",
         "city": "Osaka",
         "area": "Kita-ku (Umeda)",
+        "station": "Osaka/Umeda (JR y Hankyu/Hanshin/metro) + paseo",
         "notes": "Rascacielos con el mirador 'Floating Garden Observatory' en la azotea (~170 m), con terraza circular al aire libre; muy bonito al atardecer y de noche. Mirador de pago. En Umeda, cerca de Nakazakicho y Tenjinbashisuji. Coordenadas aproximadas.",
         "hours": null,
         "url": null,
@@ -1160,12 +1636,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [130.8740, 33.8855] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.874,
+          33.8855
+        ]
+      },
       "properties": {
         "name": "Experiencia ninja en el Castillo de Kokura",
         "category": "actividad",
         "city": "Kitakyushu",
         "area": "Kokura, Kitakyushu (Fukuoka)",
+        "station": "Kokura (JR + Shinkansen Sanyo)",
         "notes": "Experiencia de ninja (vestimenta/actividades) en el Castillo de Kokura. NOTA DE RUTA: Kokura esta en Kyushu (Kitakyushu, Fukuoka), al suroeste, FUERA del corredor Osaka-Tokio (~2,5 h en Shinkansen desde Shin-Osaka); requeriria una pata aparte del viaje. Verificar disponibilidad/reserva de la experiencia. Coordenadas aproximadas (castillo).",
         "hours": null,
         "url": null,
@@ -1177,12 +1660,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.7519, 35.7056] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7519,
+          35.7056
+        ]
+      },
       "properties": {
         "name": "Tokyo Dome City",
         "category": "actividad",
         "city": "Tokio",
         "area": "Bunkyo-ku",
+        "station": "Suidobashi (JR Sobu) / Korakuen (lineas Marunouchi/Namboku, metro)",
         "notes": "Complejo de ocio alrededor del Tokyo Dome (estadio de beisbol): parque de atracciones (montana rusa Thunder Dolphin y noria sin eje LaQua), spa onsen LaQua, tiendas y restaurantes. Entrada al recinto gratis, atracciones de pago por ticket. Estaciones Suidobashi / Korakuen. Coordenadas aproximadas.",
         "hours": null,
         "url": null,
@@ -1194,12 +1684,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.6885, 35.6905] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6885,
+          35.6905
+        ]
+      },
       "properties": {
         "name": "Shinjuku Central Park (zona de agua infantil)",
         "category": "actividad",
         "city": "Tokio",
         "area": "Nishi-Shinjuku",
+        "station": "Tochomae (linea Oedo, metro) / Shinjuku",
         "notes": "Parque con zona de juego de agua para ninos en verano. En Nishi-Shinjuku, junto al Tokyo Metropolitan Government Building: combinan. Ubicacion exacta: ver web de referencia. Coordenadas aproximadas.",
         "hours": null,
         "url": "https://japanforkids.jp/summer-tokyo-kids-beat-the-heat/",
@@ -1211,12 +1708,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.6620, 35.6260] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.662,
+          35.626
+        ]
+      },
       "properties": {
         "name": "Komazawa Olympic Park (zona de agua infantil)",
         "category": "actividad",
         "city": "Tokio",
         "area": "Setagaya-ku",
+        "station": "Komazawa-daigaku (linea Tokyu Den-en-toshi)",
         "notes": "Gran parque (sede olimpica 1964) con fuentes y zona 'jabu-jabu' de chapoteo para ninos en verano, ademas de amplias zonas verdes y carril bici. En Setagaya (oeste de Tokio), misma zona que Gotokuji/Sangenjaya. Ubicacion exacta: ver web de referencia. Coordenadas aproximadas.",
         "hours": null,
         "url": "https://japanforkids.jp/summer-tokyo-kids-beat-the-heat/",
@@ -1228,12 +1732,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.4030, 35.7050] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.403,
+          35.705
+        ]
+      },
       "properties": {
         "name": "Showa Kinen Park (zona de agua infantil)",
         "category": "actividad",
         "city": "Tokio",
         "area": "Tachikawa / Akishima (oeste de Tokio)",
+        "station": "Tachikawa (JR Chuo) / Nishi-Tachikawa (JR Ome)",
         "notes": "Enorme parque nacional con 'Rainbow Pool' (piscinas y toboganes de verano) y fuentes de chapoteo, ademas de bosque infantil y bici. Entrada de pago (la Rainbow Pool, temporada de verano). MUY al oeste (Tachikawa, ~40 min de Shinjuku en JR Chuo): dia aparte. Ubicacion exacta: ver web de referencia. Coordenadas aproximadas.",
         "hours": null,
         "url": "https://japanforkids.jp/summer-tokyo-kids-beat-the-heat/",
@@ -1245,12 +1756,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.7055, 35.6690] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7055,
+          35.669
+        ]
+      },
       "properties": {
         "name": "Kiddy Land Harajuku (juguetes)",
         "category": "tienda",
         "city": "Tokio",
         "area": "Harajuku (Omotesando)",
+        "station": "Harajuku (JR Yamanote) / Meiji-jingumae (lineas Chiyoda/Fukutoshin, metro)",
         "notes": "Juguetería mítica de varias plantas en la avenida Omotesando (Harajuku): Snoopy, Studio Ghibli, Sanrio (Hello Kitty), Pokemon, Disney... un paraiso para ninos y coleccionistas. En plena zona de compras de Harajuku/Omotesando, cerca de Takeshita-dori. Coordenadas aproximadas.",
         "hours": null,
         "url": null,
@@ -1262,12 +1780,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [135.6675, 35.0235] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6675,
+          35.0235
+        ]
+      },
       "properties": {
         "name": "Giou-ji (templo del musgo y bambu)",
         "category": "visita",
         "city": "Kioto",
         "area": "Sagano / Saga-Toriimoto (oeste de Kioto)",
+        "station": "Saga-Arashiyama (linea JR Sagano) + paseo/bus -- verificar",
         "notes": "Pequeno templo con un precioso jardin de musgo y bambu, muy tranquilo, en Sagano. Al lado de Adashino Nenbutsu-ji: combinan en el bloque oeste (Arashiyama/Sagano). Coordenadas aproximadas.",
         "hours": null,
         "url": null,
@@ -1279,12 +1804,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [135.6737, 35.0159] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6737,
+          35.0159
+        ]
+      },
       "properties": {
         "name": "Tenryu-ji (templo y bambu)",
         "category": "visita",
         "city": "Kioto",
         "area": "Arashiyama (oeste de Kioto)",
+        "station": "Arashiyama (Randen) / Saga-Arashiyama (linea JR Sagano)",
         "notes": "Templo zen Patrimonio de la Humanidad con el jardin Sogenchi (estanque y monte Arashiyama de fondo). Su puerta norte da directamente al bosque de bambu de Arashiyama: visita encadenada. Coordenadas aproximadas.",
         "hours": null,
         "url": null,
@@ -1296,12 +1828,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [135.7485, 34.9785] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7485,
+          34.9785
+        ]
+      },
       "properties": {
         "name": "Kyoto Disaster Prevention Center",
         "category": "actividad",
         "city": "Kioto",
         "area": "Minami-ku",
+        "station": "Minami-ku (Kioto) -- estacion por verificar",
         "notes": "Centro de prevencion de desastres (equivalente al Honjo de Tokio): simuladores de terremoto, inundacion/tifon, humo de incendios y viento fuerte. Entrada gratuita, con experiencias interactivas ideales para ninos. En Minami-ku (sur de Kioto). Verificar dias/horario y si requiere reserva. Coordenadas aproximadas.",
         "hours": null,
         "url": null,
@@ -1313,12 +1852,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [135.7706, 35.0046] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7706,
+          35.0046
+        ]
+      },
       "properties": {
         "name": "Hohei Gyoza (餃子歩兵)",
         "category": "restaurante",
         "city": "Kioto",
         "area": "Pontocho (Nakagyo-ku)",
+        "station": "Sanjo/Gion-Shijo (linea Keihan) y Kyoto-Kawaramachi (Hankyu)",
         "notes": "Bar de gyoza muy popular en el callejon de Pontocho, junto al rio Kamo. Especializado en gyoza (incluidas variedades creativas) en ambiente de barra estrecha; suele haber cola. Coordenadas APROXIMADAS (callejon de Pontocho); pasar enlace de Google Maps para fijar el local exacto. Verificar horario y si aceptan ninos.",
         "hours": null,
         "url": null,
@@ -1330,12 +1876,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [135.7906, 35.4753] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7906,
+          35.4753
+        ]
+      },
       "properties": {
         "name": "Templo Myotsu-ji (Miotsuji)",
         "category": "visita",
         "city": "Obama",
         "area": "Obama (Fukui)",
+        "station": "Obama (linea JR Obama) + bus/taxi -- verificar",
         "notes": "Templo budista Shingon en Obama, prefectura de Fukui (costa del mar de Japon). Tiene dos Tesoros Nacionales: el pabellon principal (hondo) y una pagoda de tres pisos, en un entorno boscoso y tranquilo. NOTA DE RUTA: Obama esta al NORTE de Kioto (Fukui), fuera del corredor Osaka-Tokio; se llega en tren via linea JR Obama (~2 h desde Kioto) - encaja como excursion de dia o pata aparte del viaje. Coordenadas APROXIMADAS; pasar enlace de Google Maps para fijar el local.",
         "hours": null,
         "url": null,
@@ -1347,12 +1900,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [null, null] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
       "properties": {
         "name": "Tokyo Butaman (cadena, butaman)",
         "category": "restaurante",
         "city": null,
         "area": null,
+        "station": "N/A (cadena, sin ubicacion fija)",
         "notes": "Para PROBAR butaman (bollo al vapor relleno de cerdo, el nikuman estilo Kansai). RECOMENDADOS: (1) 551 Horai -> ver su propia entrada (institucion de Osaka, con locales fisicos); (2) Tokyo Butaman, esta entrada: CADENA, sin coordenadas fijas, anclar la sucursal que caiga en la ruta. Pasar enlace de Google Maps de la sucursal concreta para geocodificar.",
         "hours": null,
         "url": null,
@@ -1364,12 +1924,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.8470, 35.7360] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.847,
+          35.736
+        ]
+      },
       "properties": {
         "name": "Yotsugi (ruta de estatuas de Oliver y Benji / Captain Tsubasa)",
         "category": "visita",
         "city": "Tokio",
         "area": "Yotsugi, Katsushika-ku",
+        "station": "Yotsugi (linea Keisei Oshiage)",
         "notes": "Barrio de Katsushika-ku, cuna de 'Captain Tsubasa' (Oliver y Benji): hay una ruta de estatuas de bronce de los personajes repartidas por las calles alrededor de la estacion de Yotsugi (linea Keisei Oshiage). Zona NE de Tokio, no lejos de Shibamata (otro punto de Katsushika): podrian combinarse. Coordenadas APROXIMADAS (zona estacion de Yotsugi); hay mapa oficial de la ruta con la ubicacion de cada estatua.",
         "hours": null,
         "url": null,
@@ -1381,12 +1948,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [null, null] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
       "properties": {
         "name": "Katsukura (tonkatsu)",
         "category": "restaurante",
         "city": null,
         "area": null,
+        "station": "N/A (cadena, sin ubicacion fija)",
         "notes": "Cadena de tonkatsu (cerdo rebozado) originaria de Kioto, muy valorada: se sirve con col ilimitada y salsa que mueles tu mismo con sesamo. CADENA con sucursales en Kioto (varias, p.ej. estacion de Kioto), Tokio, Osaka y otras ciudades; sin coordenadas fijas: anclar la sucursal que caiga en la ruta de cada dia.",
         "hours": null,
         "url": null,
@@ -1398,12 +1972,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [null, null] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
       "properties": {
         "name": "Onigirazu (probar)",
         "category": "restaurante",
         "city": null,
         "area": null,
+        "station": "N/A (plato, sin ubicacion)",
         "notes": "Para PROBAR: onigirazu, version 'sandwich' del onigiri (arroz y relleno prensados entre dos capas, envueltos en alga nori y cortados por la mitad). Comida, no un local concreto: se encuentra en konbini (7-Eleven, Lawson, FamilyMart) y tiendas de onigiri. Sin coordenadas: anotar donde se pruebe.",
         "hours": null,
         "url": null,
@@ -1415,12 +1996,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [135.5015, 34.6660] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5015,
+          34.666
+        ]
+      },
       "properties": {
         "name": "551 Horai (butaman) - Namba",
         "category": "restaurante",
         "city": "Osaka",
         "area": "Namba (Nanba) - tienda principal",
+        "station": "Namba (lineas Midosuji/Yotsubashi/Sennichimae, metro + Nankai/Kintetsu)",
         "notes": "Institucion de Osaka para butaman (bollo al vapor relleno de cerdo), recien hechos al vapor; tambien venden shumai. Muy popular, suele haber cola. CADENA de Kansai con muchos puntos (estaciones, grandes almacenes); coordenadas puestas en la tienda principal de Namba como referencia, reasignable a la sucursal que caiga en la ruta. Muy cerca del alojamiento e-stay Namba. Coordenadas APROXIMADAS; pasar enlace de Google Maps para fijar el local.",
         "hours": null,
         "url": "https://www.551horai.co.jp/",
@@ -1432,12 +2020,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [null, null] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
       "properties": {
         "name": "CoCo Ichibanya (curry japones)",
         "category": "restaurante",
         "city": null,
         "area": null,
+        "station": "N/A (cadena, sin ubicacion fija)",
         "notes": "Para PROBAR: curry japones de la cadena mas famosa (apodada 'CoCo Ichi'). Personalizable: eliges tipo de arroz, nivel de picante y toppings (katsu, verduras, etc.). CADENA con muchisimas sucursales por todo Japon; sin coordenadas fijas: anclar la que caiga en la ruta.",
         "hours": null,
         "url": "https://www.ichibanya.co.jp/",
@@ -1449,12 +2044,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [null, null] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
       "properties": {
         "name": "Go! Go! Curry (curry estilo Kanazawa)",
         "category": "restaurante",
         "city": null,
         "area": null,
+        "station": "N/A (cadena, sin ubicacion fija)",
         "notes": "Para PROBAR: curry estilo Kanazawa (Kanazawa curry): salsa espesa y oscura sobre arroz, con tonkatsu encima, col rallada y se come con tenedor/cuchara de postre; suele servirse en plato metalico. CADENA (origen Kanazawa) con sucursales en Tokio, Osaka y otras ciudades; sin coordenadas fijas: anclar la que caiga en la ruta.",
         "hours": null,
         "url": "https://www.gogocurry.com/",
@@ -1466,12 +2068,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [null, null] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
       "properties": {
         "name": "Hinoya Curry (curry japones)",
         "category": "restaurante",
         "city": null,
         "area": null,
+        "station": "N/A (cadena, sin ubicacion fija)",
         "notes": "Para PROBAR: curry japones de la cadena Hinoya (conocida por su curry con katsu/toppings). CADENA con sucursales (origen en la zona de Tokio); sin coordenadas fijas: anclar la que caiga en la ruta. Pasar enlace de Google Maps de la sucursal concreta para geocodificar.",
         "hours": null,
         "url": null,
@@ -1483,12 +2092,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [135.4990, 34.6720] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.499,
+          34.672
+        ]
+      },
       "properties": {
         "name": "A Happy Pancake (tortitas souffle) - Osaka",
         "category": "restaurante",
         "city": "Osaka",
         "area": "Shinsaibashi (referencia)",
+        "station": "N/A (cadena); referencia Shinsaibashi (linea Midosuji, metro)",
         "notes": "Cafeteria de tortitas souffle japonesas (esponjosas, 'fluffy'), marca 'A Happy Pancake' (Magia do Pancake / Shiawase no Pancake). Suele haber cola. CADENA con varias sucursales; coordenadas puestas en la zona de Shinsaibashi (Osaka) como referencia, reasignable a la sucursal exacta. Coordenadas APROXIMADAS; pasar enlace de Google Maps para fijar el local.",
         "hours": null,
         "url": null,
@@ -1500,12 +2116,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.4857, 35.9289] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4857,
+          35.9289
+        ]
+      },
       "properties": {
         "name": "Kawagoe Hikawa Shrine",
         "category": "visita",
         "city": "Kawagoe",
         "area": "Kawagoe (Saitama)",
+        "station": "Hon-Kawagoe (linea Seibu Shinjuku) / Kawagoe (JR Kawagoe y Tobu Tojo) + bus",
         "notes": "Santuario sintoista famoso por el enmusubi (buena suerte en el amor/relaciones) y por su tunel de furin (campanillas de viento) en verano, ademas del torii de madera gigante. En Kawagoe ('Pequena Edo'), Saitama, al NORTE de Tokio: excursion de dia desde Tokio (~30-60 min, linea Tobu Tojo o Seibu Shinjuku). Se combina con el barrio historico de Kurazukuri y la calle de dulces. Coordenadas APROXIMADAS; pasar enlace de Google Maps para fijar el local.",
         "hours": null,
         "url": null,
@@ -1517,12 +2140,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.4833, 35.9255] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4833,
+          35.9255
+        ]
+      },
       "properties": {
         "name": "Kurazukuri (barrio historico de Kawagoe)",
         "category": "visita",
         "city": "Kawagoe",
         "area": "Ichibangai, Kawagoe (Saitama)",
+        "station": "Hon-Kawagoe (Seibu Shinjuku) / Kawagoe (JR/Tobu Tojo) + bus/paseo",
         "notes": "Casco historico de Kawagoe ('Koedo', la Pequena Edo): calle principal (Ichibangai) flanqueada por kura-zukuri, antiguos almacenes de mercader con gruesos muros de arcilla resistentes al fuego (s. XIX), hoy tiendas, cafes y museos. Se recorre paseando. Combina con Toki no Kane, Kashiya Yokocho (calle de dulces) y el Hikawa Shrine en la misma excursion de dia desde Tokio. Coordenadas APROXIMADAS (tramo central de la calle).",
         "hours": null,
         "url": null,
@@ -1534,12 +2164,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.4838, 35.9257] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4838,
+          35.9257
+        ]
+      },
       "properties": {
         "name": "Toki no Kane (Torre de la Campana)",
         "category": "visita",
         "city": "Kawagoe",
         "area": "Kurazukuri, Kawagoe (Saitama)",
+        "station": "Hon-Kawagoe (Seibu Shinjuku) / Kawagoe (JR/Tobu Tojo) + bus/paseo",
         "notes": "Torre de madera con campana, simbolo de Kawagoe (la actual es una reconstruccion de finales del s. XIX). Toca varias veces al dia. A un par de minutos de la calle principal de Kurazukuri. Coordenadas APROXIMADAS.",
         "hours": null,
         "url": null,
@@ -1551,12 +2188,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.4820, 35.9267] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.482,
+          35.9267
+        ]
+      },
       "properties": {
         "name": "Kashiya Yokocho (calle de dulces)",
         "category": "tienda",
         "city": "Kawagoe",
         "area": "Kawagoe (Saitama)",
+        "station": "Hon-Kawagoe (Seibu Shinjuku) / Kawagoe (JR/Tobu Tojo) + bus/paseo",
         "notes": "'Callejon de las tiendas de dulces' (Penny Candy Alley): callecita empedrada con tiendas tradicionales de dagashi (chuches a la antigua) y especialidades de Kawagoe como dulces y helado de boniato morado (satsumaimo), senbei gigantes, dango y karinto. Ambiente retro, ideal con ninos. Junto a Kurazukuri / Toki no Kane. Coordenadas APROXIMADAS.",
         "hours": null,
         "url": null,
@@ -1568,12 +2212,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [135.7785, 35.0036] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7785,
+          35.0036
+        ]
+      },
       "properties": {
         "name": "Gion Matsuri (festival de julio)",
         "category": "actividad",
         "city": "Kioto",
         "area": "Centro de Kioto (Yasaka-jinja / Shijo-Karasuma)",
+        "station": "Shijo (linea Karasuma, metro) y Karasuma (Hankyu); Gion-Shijo (Keihan)",
         "notes": "El gran festival de Kioto, durante TODO julio. Puntos fuertes: los desfiles de carrozas yamaboko (Yamaboko Junko) ~17 jul (Saki Matsuri) y ~24 jul (Ato Matsuri), y las noches 'yoiyama' previas (14-16 y 21-23 jul) con las carrozas iluminadas y puestos de comida en el centro. COINCIDE con las fechas del viaje (jul 2027) - VERIFICAR fechas exactas del ano. Origen en el santuario Yasaka; las carrozas se concentran en la zona Shijo-Karasuma. Coordenadas APROXIMADAS (Yasaka-jinja).",
         "hours": null,
         "url": null,
@@ -1585,12 +2236,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [135.5127, 34.6965] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5127,
+          34.6965
+        ]
+      },
       "properties": {
         "name": "Tenjin Matsuri (festival de julio)",
         "category": "actividad",
         "city": "Osaka",
         "area": "Osaka Tenmangu, Kita-ku",
+        "station": "Minami-morimachi (lineas Tanimachi/Sakaisuji, metro) / Osakatemmangu (JR Tozai)",
         "notes": "Uno de los tres grandes festivales de Japon, los 24-25 jul. El dia grande (25 jul) hay procesion terrestre, procesion fluvial de barcos iluminados por el rio Okawa y FUEGOS ARTIFICIALES por la noche. COINCIDE con las fechas del viaje (jul 2027) - VERIFICAR. Centrado en el santuario Osaka Tenmangu (cerca de Minami-morimachi / Tenjinbashisuji, que ya tienes en el mapa). Coordenadas APROXIMADAS.",
         "hours": null,
         "url": null,
@@ -1602,12 +2260,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.2870, 36.4283] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.287,
+          36.4283
+        ]
+      },
       "properties": {
         "name": "Hotokuji (templo del reflejo en el suelo)",
         "category": "visita",
         "city": "Kiryu",
         "area": "Kiryu (Gunma)",
+        "station": "Kiryu (linea JR Ryomo) + coche/taxi -- verificar",
         "notes": "Templo zen en Kiryu, Gunma, famoso por el 'yukakagami': el reflejo de los jardines (sobre todo las hojas rojas de otono) sobre el suelo pulido de madera del pabellon. Tambien es conocido por sus numerosas figuras de jizo sonrientes repartidas por el recinto. Las vistas del reflejo se potencian en eventos especiales de temporada (primavera/otono) - VERIFICAR fechas de apertura especial. Al NORTE de Tokio (Gunma): excursion de dia, mejor con coche; en tren via linea Ryomo hasta Kiryu. Coordenadas APROXIMADAS; pasar enlace de Google Maps para fijar el local.",
         "hours": null,
         "url": null,
@@ -1619,12 +2284,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [133.9178, 34.6668] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.9178,
+          34.6668
+        ]
+      },
       "properties": {
         "name": "Okayama City Museum",
         "category": "museo",
         "city": "Okayama",
         "area": "Cerca de la estacion de Okayama (salida oeste)",
+        "station": "Okayama (JR y Shinkansen Sanyo), salida oeste",
         "notes": "Museo de historia y cultura de la ciudad de Okayama, a pocos minutos a pie de la estacion de Okayama (salida oeste). QUE VER (a VERIFICAR contenidos/exposicion temporal y horarios en la web oficial): recorrido por la historia local desde la arqueologia y la epoca de la ciudad-castillo (joka-machi) hasta la era moderna, con maquetas y objetos; suele incluir una seccion sobre el bombardeo aereo de Okayama en la II GM. Tiene ademas salas de exposiciones temporales. Encaja como complemento cultural el mismo dia que el Castillo de Okayama y el jardin Koraku-en, y de paso hacia Kurashiki. Coordenadas APROXIMADAS (zona estacion); pasar enlace de Google Maps para fijar el local.",
         "hours": null,
         "url": null,
@@ -1636,12 +2308,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.6633, 35.6622] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6633,
+          35.6622
+        ]
+      },
       "properties": {
         "name": "Shiro-Hige's Cream Puff Factory (Totoro)",
         "category": "restaurante",
         "city": "Tokio",
         "area": "Setagaya (tienda original, cerca de Setagaya-Daita)",
+        "station": "Setagaya-Daita (linea Odakyu); sucursal en Kichijoji (JR Chuo/Keio Inokashira)",
         "notes": "Pasteleria/cafe famosa por sus cream puffs (petisus) con forma de TOTORO, hechos a mano y rellenos de crema (sabores que cambian con la temporada). La unica oficialmente vinculada al mundo Ghibli en este sentido. DOS locales en Tokio: (1) tienda original en Setagaya (cerca de la estacion Setagaya-Daita, linea Odakyu), con cafe en la planta de arriba; (2) sucursal en KICHIJOJI, muy cerca del parque Inokashira y del Museo Ghibli de Mitaka - combinan perfectamente. Suele haber cola y pueden agotarse. Coordenadas APROXIMADAS (tienda de Setagaya); pasar enlace de Google Maps para fijar el local exacto y verificar dias de apertura.",
         "hours": null,
         "url": null,
@@ -1653,12 +2332,19 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [null, null] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
       "properties": {
         "name": "Hama Sushi (kaiten/running sushi barato)",
         "category": "restaurante",
         "city": null,
         "area": null,
+        "station": "N/A (cadena, sin ubicacion fija)",
         "notes": "Cadena de sushi en cinta transportadora (kaiten-zushi) de las mas baratas de Japon: platos desde ~100 yenes, pedido por tablet con pantalla tactil y entrega en 'shinkansen' que llega a la mesa (muy divertido para ninos). Del grupo Zensho (como Sukiya). CADENA con muchisimas sucursales por todo Japon; sin coordenadas fijas: anclar la que caiga en la ruta.",
         "hours": null,
         "url": null,
@@ -1666,6 +2352,54 @@
         "day": null,
         "marker-color": "#e74c3c",
         "marker-symbol": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "name": "Tabio (calcetines)",
+        "category": "tienda",
+        "city": null,
+        "area": null,
+        "station": "N/A (cadena, sin ubicacion fija)",
+        "notes": "Tienda de calcetines japoneses de alta calidad (algodon, tabi, diseños), marca Tabio. CADENA con muchas sucursales por Japon (centros comerciales y estaciones de Tokio, Osaka, Kioto...); sin coordenadas fijas: anclar la que caiga en la ruta.",
+        "hours": null,
+        "url": "https://www.tabio.com/",
+        "priority": "media",
+        "day": null,
+        "marker-color": "#3498db",
+        "marker-symbol": "shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6503,
+          35.647
+        ]
+      },
+      "properties": {
+        "name": "Setagaya Hachiman-gu",
+        "category": "visita",
+        "city": "Tokio",
+        "area": "Setagaya-ku (Miyanosaka)",
+        "station": "Miyanosaka (linea Setagaya, tranvia Tokyu) / Gotokuji (Odakyu)",
+        "notes": "Santuario sintoista historico en Setagaya, conocido por su tradicion de sumo amateur: tiene un dohyo (ring de sumo) en el recinto y celebra torneos de sumo estudiantil, sobre todo en el festival de otono. Junto a la estacion de Miyanosaka (linea Setagaya) y muy cerca del templo Gotokuji (maneki-neko): combinan a pie el mismo dia. Coordenadas APROXIMADAS; pasar enlace de Google Maps para fijar el local.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#1abc9c",
+        "marker-symbol": "religious-shinto"
       }
     }
   ]
