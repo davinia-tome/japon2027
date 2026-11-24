@@ -1310,6 +1310,363 @@
         "marker-color": "#e67e22",
         "marker-symbol": "star"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [135.7706, 35.0046] },
+      "properties": {
+        "name": "Hohei Gyoza (餃子歩兵)",
+        "category": "restaurante",
+        "city": "Kioto",
+        "area": "Pontocho (Nakagyo-ku)",
+        "notes": "Bar de gyoza muy popular en el callejon de Pontocho, junto al rio Kamo. Especializado en gyoza (incluidas variedades creativas) en ambiente de barra estrecha; suele haber cola. Coordenadas APROXIMADAS (callejon de Pontocho); pasar enlace de Google Maps para fijar el local exacto. Verificar horario y si aceptan ninos.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e74c3c",
+        "marker-symbol": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [135.7906, 35.4753] },
+      "properties": {
+        "name": "Templo Myotsu-ji (Miotsuji)",
+        "category": "visita",
+        "city": "Obama",
+        "area": "Obama (Fukui)",
+        "notes": "Templo budista Shingon en Obama, prefectura de Fukui (costa del mar de Japon). Tiene dos Tesoros Nacionales: el pabellon principal (hondo) y una pagoda de tres pisos, en un entorno boscoso y tranquilo. NOTA DE RUTA: Obama esta al NORTE de Kioto (Fukui), fuera del corredor Osaka-Tokio; se llega en tren via linea JR Obama (~2 h desde Kioto) - encaja como excursion de dia o pata aparte del viaje. Coordenadas APROXIMADAS; pasar enlace de Google Maps para fijar el local.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#1abc9c",
+        "marker-symbol": "religious-buddhist"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [null, null] },
+      "properties": {
+        "name": "Tokyo Butaman (cadena, butaman)",
+        "category": "restaurante",
+        "city": null,
+        "area": null,
+        "notes": "Para PROBAR butaman (bollo al vapor relleno de cerdo, el nikuman estilo Kansai). RECOMENDADOS: (1) 551 Horai -> ver su propia entrada (institucion de Osaka, con locales fisicos); (2) Tokyo Butaman, esta entrada: CADENA, sin coordenadas fijas, anclar la sucursal que caiga en la ruta. Pasar enlace de Google Maps de la sucursal concreta para geocodificar.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e74c3c",
+        "marker-symbol": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [139.8470, 35.7360] },
+      "properties": {
+        "name": "Yotsugi (ruta de estatuas de Oliver y Benji / Captain Tsubasa)",
+        "category": "visita",
+        "city": "Tokio",
+        "area": "Yotsugi, Katsushika-ku",
+        "notes": "Barrio de Katsushika-ku, cuna de 'Captain Tsubasa' (Oliver y Benji): hay una ruta de estatuas de bronce de los personajes repartidas por las calles alrededor de la estacion de Yotsugi (linea Keisei Oshiage). Zona NE de Tokio, no lejos de Shibamata (otro punto de Katsushika): podrian combinarse. Coordenadas APROXIMADAS (zona estacion de Yotsugi); hay mapa oficial de la ruta con la ubicacion de cada estatua.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#1abc9c",
+        "marker-symbol": "attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [null, null] },
+      "properties": {
+        "name": "Katsukura (tonkatsu)",
+        "category": "restaurante",
+        "city": null,
+        "area": null,
+        "notes": "Cadena de tonkatsu (cerdo rebozado) originaria de Kioto, muy valorada: se sirve con col ilimitada y salsa que mueles tu mismo con sesamo. CADENA con sucursales en Kioto (varias, p.ej. estacion de Kioto), Tokio, Osaka y otras ciudades; sin coordenadas fijas: anclar la sucursal que caiga en la ruta de cada dia.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e74c3c",
+        "marker-symbol": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [null, null] },
+      "properties": {
+        "name": "Onigirazu (probar)",
+        "category": "restaurante",
+        "city": null,
+        "area": null,
+        "notes": "Para PROBAR: onigirazu, version 'sandwich' del onigiri (arroz y relleno prensados entre dos capas, envueltos en alga nori y cortados por la mitad). Comida, no un local concreto: se encuentra en konbini (7-Eleven, Lawson, FamilyMart) y tiendas de onigiri. Sin coordenadas: anotar donde se pruebe.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e74c3c",
+        "marker-symbol": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [135.5015, 34.6660] },
+      "properties": {
+        "name": "551 Horai (butaman) - Namba",
+        "category": "restaurante",
+        "city": "Osaka",
+        "area": "Namba (Nanba) - tienda principal",
+        "notes": "Institucion de Osaka para butaman (bollo al vapor relleno de cerdo), recien hechos al vapor; tambien venden shumai. Muy popular, suele haber cola. CADENA de Kansai con muchos puntos (estaciones, grandes almacenes); coordenadas puestas en la tienda principal de Namba como referencia, reasignable a la sucursal que caiga en la ruta. Muy cerca del alojamiento e-stay Namba. Coordenadas APROXIMADAS; pasar enlace de Google Maps para fijar el local.",
+        "hours": null,
+        "url": "https://www.551horai.co.jp/",
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e74c3c",
+        "marker-symbol": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [null, null] },
+      "properties": {
+        "name": "CoCo Ichibanya (curry japones)",
+        "category": "restaurante",
+        "city": null,
+        "area": null,
+        "notes": "Para PROBAR: curry japones de la cadena mas famosa (apodada 'CoCo Ichi'). Personalizable: eliges tipo de arroz, nivel de picante y toppings (katsu, verduras, etc.). CADENA con muchisimas sucursales por todo Japon; sin coordenadas fijas: anclar la que caiga en la ruta.",
+        "hours": null,
+        "url": "https://www.ichibanya.co.jp/",
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e74c3c",
+        "marker-symbol": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [null, null] },
+      "properties": {
+        "name": "Go! Go! Curry (curry estilo Kanazawa)",
+        "category": "restaurante",
+        "city": null,
+        "area": null,
+        "notes": "Para PROBAR: curry estilo Kanazawa (Kanazawa curry): salsa espesa y oscura sobre arroz, con tonkatsu encima, col rallada y se come con tenedor/cuchara de postre; suele servirse en plato metalico. CADENA (origen Kanazawa) con sucursales en Tokio, Osaka y otras ciudades; sin coordenadas fijas: anclar la que caiga en la ruta.",
+        "hours": null,
+        "url": "https://www.gogocurry.com/",
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e74c3c",
+        "marker-symbol": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [null, null] },
+      "properties": {
+        "name": "Hinoya Curry (curry japones)",
+        "category": "restaurante",
+        "city": null,
+        "area": null,
+        "notes": "Para PROBAR: curry japones de la cadena Hinoya (conocida por su curry con katsu/toppings). CADENA con sucursales (origen en la zona de Tokio); sin coordenadas fijas: anclar la que caiga en la ruta. Pasar enlace de Google Maps de la sucursal concreta para geocodificar.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e74c3c",
+        "marker-symbol": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [135.4990, 34.6720] },
+      "properties": {
+        "name": "A Happy Pancake (tortitas souffle) - Osaka",
+        "category": "restaurante",
+        "city": "Osaka",
+        "area": "Shinsaibashi (referencia)",
+        "notes": "Cafeteria de tortitas souffle japonesas (esponjosas, 'fluffy'), marca 'A Happy Pancake' (Magia do Pancake / Shiawase no Pancake). Suele haber cola. CADENA con varias sucursales; coordenadas puestas en la zona de Shinsaibashi (Osaka) como referencia, reasignable a la sucursal exacta. Coordenadas APROXIMADAS; pasar enlace de Google Maps para fijar el local.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e74c3c",
+        "marker-symbol": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [139.4857, 35.9289] },
+      "properties": {
+        "name": "Kawagoe Hikawa Shrine",
+        "category": "visita",
+        "city": "Kawagoe",
+        "area": "Kawagoe (Saitama)",
+        "notes": "Santuario sintoista famoso por el enmusubi (buena suerte en el amor/relaciones) y por su tunel de furin (campanillas de viento) en verano, ademas del torii de madera gigante. En Kawagoe ('Pequena Edo'), Saitama, al NORTE de Tokio: excursion de dia desde Tokio (~30-60 min, linea Tobu Tojo o Seibu Shinjuku). Se combina con el barrio historico de Kurazukuri y la calle de dulces. Coordenadas APROXIMADAS; pasar enlace de Google Maps para fijar el local.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#1abc9c",
+        "marker-symbol": "religious-shinto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [139.4833, 35.9255] },
+      "properties": {
+        "name": "Kurazukuri (barrio historico de Kawagoe)",
+        "category": "visita",
+        "city": "Kawagoe",
+        "area": "Ichibangai, Kawagoe (Saitama)",
+        "notes": "Casco historico de Kawagoe ('Koedo', la Pequena Edo): calle principal (Ichibangai) flanqueada por kura-zukuri, antiguos almacenes de mercader con gruesos muros de arcilla resistentes al fuego (s. XIX), hoy tiendas, cafes y museos. Se recorre paseando. Combina con Toki no Kane, Kashiya Yokocho (calle de dulces) y el Hikawa Shrine en la misma excursion de dia desde Tokio. Coordenadas APROXIMADAS (tramo central de la calle).",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#1abc9c",
+        "marker-symbol": "attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [139.4838, 35.9257] },
+      "properties": {
+        "name": "Toki no Kane (Torre de la Campana)",
+        "category": "visita",
+        "city": "Kawagoe",
+        "area": "Kurazukuri, Kawagoe (Saitama)",
+        "notes": "Torre de madera con campana, simbolo de Kawagoe (la actual es una reconstruccion de finales del s. XIX). Toca varias veces al dia. A un par de minutos de la calle principal de Kurazukuri. Coordenadas APROXIMADAS.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#1abc9c",
+        "marker-symbol": "attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [139.4820, 35.9267] },
+      "properties": {
+        "name": "Kashiya Yokocho (calle de dulces)",
+        "category": "tienda",
+        "city": "Kawagoe",
+        "area": "Kawagoe (Saitama)",
+        "notes": "'Callejon de las tiendas de dulces' (Penny Candy Alley): callecita empedrada con tiendas tradicionales de dagashi (chuches a la antigua) y especialidades de Kawagoe como dulces y helado de boniato morado (satsumaimo), senbei gigantes, dango y karinto. Ambiente retro, ideal con ninos. Junto a Kurazukuri / Toki no Kane. Coordenadas APROXIMADAS.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#3498db",
+        "marker-symbol": "shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [135.7785, 35.0036] },
+      "properties": {
+        "name": "Gion Matsuri (festival de julio)",
+        "category": "actividad",
+        "city": "Kioto",
+        "area": "Centro de Kioto (Yasaka-jinja / Shijo-Karasuma)",
+        "notes": "El gran festival de Kioto, durante TODO julio. Puntos fuertes: los desfiles de carrozas yamaboko (Yamaboko Junko) ~17 jul (Saki Matsuri) y ~24 jul (Ato Matsuri), y las noches 'yoiyama' previas (14-16 y 21-23 jul) con las carrozas iluminadas y puestos de comida en el centro. COINCIDE con las fechas del viaje (jul 2027) - VERIFICAR fechas exactas del ano. Origen en el santuario Yasaka; las carrozas se concentran en la zona Shijo-Karasuma. Coordenadas APROXIMADAS (Yasaka-jinja).",
+        "hours": null,
+        "url": null,
+        "priority": "alta",
+        "day": null,
+        "marker-color": "#e67e22",
+        "marker-symbol": "star"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [135.5127, 34.6965] },
+      "properties": {
+        "name": "Tenjin Matsuri (festival de julio)",
+        "category": "actividad",
+        "city": "Osaka",
+        "area": "Osaka Tenmangu, Kita-ku",
+        "notes": "Uno de los tres grandes festivales de Japon, los 24-25 jul. El dia grande (25 jul) hay procesion terrestre, procesion fluvial de barcos iluminados por el rio Okawa y FUEGOS ARTIFICIALES por la noche. COINCIDE con las fechas del viaje (jul 2027) - VERIFICAR. Centrado en el santuario Osaka Tenmangu (cerca de Minami-morimachi / Tenjinbashisuji, que ya tienes en el mapa). Coordenadas APROXIMADAS.",
+        "hours": null,
+        "url": null,
+        "priority": "alta",
+        "day": null,
+        "marker-color": "#e67e22",
+        "marker-symbol": "star"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [139.2870, 36.4283] },
+      "properties": {
+        "name": "Hotokuji (templo del reflejo en el suelo)",
+        "category": "visita",
+        "city": "Kiryu",
+        "area": "Kiryu (Gunma)",
+        "notes": "Templo zen en Kiryu, Gunma, famoso por el 'yukakagami': el reflejo de los jardines (sobre todo las hojas rojas de otono) sobre el suelo pulido de madera del pabellon. Tambien es conocido por sus numerosas figuras de jizo sonrientes repartidas por el recinto. Las vistas del reflejo se potencian en eventos especiales de temporada (primavera/otono) - VERIFICAR fechas de apertura especial. Al NORTE de Tokio (Gunma): excursion de dia, mejor con coche; en tren via linea Ryomo hasta Kiryu. Coordenadas APROXIMADAS; pasar enlace de Google Maps para fijar el local.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#1abc9c",
+        "marker-symbol": "religious-buddhist"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [133.9178, 34.6668] },
+      "properties": {
+        "name": "Okayama City Museum",
+        "category": "museo",
+        "city": "Okayama",
+        "area": "Cerca de la estacion de Okayama (salida oeste)",
+        "notes": "Museo de historia y cultura de la ciudad de Okayama, a pocos minutos a pie de la estacion de Okayama (salida oeste). QUE VER (a VERIFICAR contenidos/exposicion temporal y horarios en la web oficial): recorrido por la historia local desde la arqueologia y la epoca de la ciudad-castillo (joka-machi) hasta la era moderna, con maquetas y objetos; suele incluir una seccion sobre el bombardeo aereo de Okayama en la II GM. Tiene ademas salas de exposiciones temporales. Encaja como complemento cultural el mismo dia que el Castillo de Okayama y el jardin Koraku-en, y de paso hacia Kurashiki. Coordenadas APROXIMADAS (zona estacion); pasar enlace de Google Maps para fijar el local.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#f1c40f",
+        "marker-symbol": "museum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [139.6633, 35.6622] },
+      "properties": {
+        "name": "Shiro-Hige's Cream Puff Factory (Totoro)",
+        "category": "restaurante",
+        "city": "Tokio",
+        "area": "Setagaya (tienda original, cerca de Setagaya-Daita)",
+        "notes": "Pasteleria/cafe famosa por sus cream puffs (petisus) con forma de TOTORO, hechos a mano y rellenos de crema (sabores que cambian con la temporada). La unica oficialmente vinculada al mundo Ghibli en este sentido. DOS locales en Tokio: (1) tienda original en Setagaya (cerca de la estacion Setagaya-Daita, linea Odakyu), con cafe en la planta de arriba; (2) sucursal en KICHIJOJI, muy cerca del parque Inokashira y del Museo Ghibli de Mitaka - combinan perfectamente. Suele haber cola y pueden agotarse. Coordenadas APROXIMADAS (tienda de Setagaya); pasar enlace de Google Maps para fijar el local exacto y verificar dias de apertura.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e74c3c",
+        "marker-symbol": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [null, null] },
+      "properties": {
+        "name": "Hama Sushi (kaiten/running sushi barato)",
+        "category": "restaurante",
+        "city": null,
+        "area": null,
+        "notes": "Cadena de sushi en cinta transportadora (kaiten-zushi) de las mas baratas de Japon: platos desde ~100 yenes, pedido por tablet con pantalla tactil y entrega en 'shinkansen' que llega a la mesa (muy divertido para ninos). Del grupo Zensho (como Sukiya). CADENA con muchisimas sucursales por todo Japon; sin coordenadas fijas: anclar la que caiga en la ruta.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e74c3c",
+        "marker-symbol": "restaurant"
+      }
     }
   ]
 }
