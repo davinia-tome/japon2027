@@ -1937,7 +1937,7 @@
         "city": "Tokio",
         "area": "Yotsugi, Katsushika-ku",
         "station": "Yotsugi (linea Keisei Oshiage)",
-        "notes": "Barrio de Katsushika-ku, cuna de 'Captain Tsubasa' (Oliver y Benji): hay una ruta de estatuas de bronce de los personajes repartidas por las calles alrededor de la estacion de Yotsugi (linea Keisei Oshiage). Zona NE de Tokio, no lejos de Shibamata (otro punto de Katsushika): podrian combinarse. Coordenadas APROXIMADAS (zona estacion de Yotsugi); hay mapa oficial de la ruta con la ubicacion de cada estatua.",
+        "notes": "Barrio de Katsushika-ku, cuna de 'Captain Tsubasa' (Oliver y Benji): ruta a pie de ~9 estatuas de bronce de los personajes alrededor de Yotsugi/Shin-Koiwa. Las estatuas estan ahora fijadas individualmente en el mapa (puntos 'Estatua de ...') con coordenadas de OpenStreetMap. Zona NE de Tokio, cerca de Shibamata (otro punto de Katsushika): combinan.",
         "hours": null,
         "url": null,
         "priority": "media",
@@ -2400,6 +2400,222 @@
         "day": null,
         "marker-color": "#1abc9c",
         "marker-symbol": "religious-shinto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.834115,
+          35.734146
+        ]
+      },
+      "properties": {
+        "name": "Estatua de Tsubasa Ozora (Oliver Atom)",
+        "category": "visita",
+        "city": "Tokio",
+        "area": "Yotsugi / Shin-Koiwa, Katsushika-ku",
+        "station": "Yotsugi (linea Keisei Oshiage) / Shin-Koiwa (JR Sobu) segun la estatua",
+        "notes": "Estatua de bronce de la ruta de Captain Tsubasa (Oliver y Benji) por Katsushika. Coordenadas obtenidas de OpenStreetMap (verificadas en el mapa OSM). Ruta a pie entre las ~9 estatuas alrededor de Yotsugi/Shin-Koiwa.",
+        "hours": "Calle, 24h (estatua al aire libre)",
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#1abc9c",
+        "marker-symbol": "attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.835802,
+          35.732395
+        ]
+      },
+      "properties": {
+        "name": "Estatua de Ryo Ishizaki (Bruce Harper)",
+        "category": "visita",
+        "city": "Tokio",
+        "area": "Yotsugi / Shin-Koiwa, Katsushika-ku",
+        "station": "Yotsugi (linea Keisei Oshiage) / Shin-Koiwa (JR Sobu) segun la estatua",
+        "notes": "Estatua de bronce de la ruta de Captain Tsubasa (Oliver y Benji) por Katsushika. Coordenadas obtenidas de OpenStreetMap (verificadas en el mapa OSM). Ruta a pie entre las ~9 estatuas alrededor de Yotsugi/Shin-Koiwa.",
+        "hours": "Calle, 24h (estatua al aire libre)",
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#1abc9c",
+        "marker-symbol": "attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.836158,
+          35.733249
+        ]
+      },
+      "properties": {
+        "name": "Estatua de Kojiro Hyuga (Mark Lenders)",
+        "category": "visita",
+        "city": "Tokio",
+        "area": "Yotsugi / Shin-Koiwa, Katsushika-ku",
+        "station": "Yotsugi (linea Keisei Oshiage) / Shin-Koiwa (JR Sobu) segun la estatua",
+        "notes": "Estatua de bronce de la ruta de Captain Tsubasa (Oliver y Benji) por Katsushika. Coordenadas obtenidas de OpenStreetMap (verificadas en el mapa OSM). Ruta a pie entre las ~9 estatuas alrededor de Yotsugi/Shin-Koiwa.",
+        "hours": "Calle, 24h (estatua al aire libre)",
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#1abc9c",
+        "marker-symbol": "attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.835307,
+          35.736247
+        ]
+      },
+      "properties": {
+        "name": "Estatua de Roberto Hongo y Tsubasa Ozora",
+        "category": "visita",
+        "city": "Tokio",
+        "area": "Yotsugi / Shin-Koiwa, Katsushika-ku",
+        "station": "Yotsugi (linea Keisei Oshiage) / Shin-Koiwa (JR Sobu) segun la estatua",
+        "notes": "Estatua de bronce de la ruta de Captain Tsubasa (Oliver y Benji) por Katsushika. Coordenadas obtenidas de OpenStreetMap (verificadas en el mapa OSM). Ruta a pie entre las ~9 estatuas alrededor de Yotsugi/Shin-Koiwa.",
+        "hours": "Calle, 24h (estatua al aire libre)",
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#1abc9c",
+        "marker-symbol": "attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.83936,
+          35.735762
+        ]
+      },
+      "properties": {
+        "name": "Estatua de Sanae Nakazawa (Patty)",
+        "category": "visita",
+        "city": "Tokio",
+        "area": "Yotsugi / Shin-Koiwa, Katsushika-ku",
+        "station": "Yotsugi (linea Keisei Oshiage) / Shin-Koiwa (JR Sobu) segun la estatua",
+        "notes": "Estatua de bronce de la ruta de Captain Tsubasa (Oliver y Benji) por Katsushika. Coordenadas obtenidas de OpenStreetMap (verificadas en el mapa OSM). Ruta a pie entre las ~9 estatuas alrededor de Yotsugi/Shin-Koiwa.",
+        "hours": "Calle, 24h (estatua al aire libre)",
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#1abc9c",
+        "marker-symbol": "attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.842956,
+          35.735104
+        ]
+      },
+      "properties": {
+        "name": "Estatua de Taro Misaki (Tom Misaki)",
+        "category": "visita",
+        "city": "Tokio",
+        "area": "Yotsugi / Shin-Koiwa, Katsushika-ku",
+        "station": "Yotsugi (linea Keisei Oshiage) / Shin-Koiwa (JR Sobu) segun la estatua",
+        "notes": "Estatua de bronce de la ruta de Captain Tsubasa (Oliver y Benji) por Katsushika. Coordenadas obtenidas de OpenStreetMap (verificadas en el mapa OSM). Ruta a pie entre las ~9 estatuas alrededor de Yotsugi/Shin-Koiwa.",
+        "hours": "Calle, 24h (estatua al aire libre)",
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#1abc9c",
+        "marker-symbol": "attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.848737,
+          35.739925
+        ]
+      },
+      "properties": {
+        "name": "Estatua de Genzo Wakabayashi (Benji Price)",
+        "category": "visita",
+        "city": "Tokio",
+        "area": "Yotsugi / Shin-Koiwa, Katsushika-ku",
+        "station": "Yotsugi (linea Keisei Oshiage) / Shin-Koiwa (JR Sobu) segun la estatua",
+        "notes": "Estatua de bronce de la ruta de Captain Tsubasa (Oliver y Benji) por Katsushika. Coordenadas obtenidas de OpenStreetMap (verificadas en el mapa OSM). Ruta a pie entre las ~9 estatuas alrededor de Yotsugi/Shin-Koiwa.",
+        "hours": "Calle, 24h (estatua al aire libre)",
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#1abc9c",
+        "marker-symbol": "attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.849806,
+          35.737801
+        ]
+      },
+      "properties": {
+        "name": "Estatua de Tsubasa Ozora (Oliver) - junto a Yotsugi",
+        "category": "visita",
+        "city": "Tokio",
+        "area": "Yotsugi / Shin-Koiwa, Katsushika-ku",
+        "station": "Yotsugi (linea Keisei Oshiage) / Shin-Koiwa (JR Sobu) segun la estatua",
+        "notes": "Estatua de bronce de la ruta de Captain Tsubasa (Oliver y Benji) por Katsushika. Coordenadas obtenidas de OpenStreetMap (verificadas en el mapa OSM). Ruta a pie entre las ~9 estatuas alrededor de Yotsugi/Shin-Koiwa.",
+        "hours": "Calle, 24h (estatua al aire libre)",
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#1abc9c",
+        "marker-symbol": "attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.847421,
+          35.74468
+        ]
+      },
+      "properties": {
+        "name": "Estatua de Tsubasa Ozora 'Twin Shoot'",
+        "category": "visita",
+        "city": "Tokio",
+        "area": "Yotsugi / Shin-Koiwa, Katsushika-ku",
+        "station": "Yotsugi (linea Keisei Oshiage) / Shin-Koiwa (JR Sobu) segun la estatua",
+        "notes": "Estatua de bronce de la ruta de Captain Tsubasa (Oliver y Benji) por Katsushika. Coordenadas obtenidas de OpenStreetMap (verificadas en el mapa OSM). Ruta a pie entre las ~9 estatuas alrededor de Yotsugi/Shin-Koiwa.",
+        "hours": "Calle, 24h (estatua al aire libre)",
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#1abc9c",
+        "marker-symbol": "attraction"
       }
     }
   ]
