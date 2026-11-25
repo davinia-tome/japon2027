@@ -2641,6 +2641,30 @@
         "marker-color": "#e74c3c",
         "marker-symbol": "restaurant"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7696,
+          35.6655
+        ]
+      },
+      "properties": {
+        "name": "Tsukiji Uogashi (mercado, sushi fresco)",
+        "category": "restaurante",
+        "city": "Tokio",
+        "area": "Tsukiji, Chuo-ku",
+        "station": "Tsukiji (linea Hibiya, metro) / Tsukijishijo (linea Oedo, metro)",
+        "notes": "Edificio-mercado Tsukiji Uogashi en el mercado EXTERIOR de Tsukiji (Jogai Shijo): puestos de pescado/marisco y restaurantes para desayunar/comer sushi y donburi muy frescos. NOTA: el mercado MAYORISTA interior (y la famosa subasta de atun) se mudo a TOYOSU en 2018; el mercado exterior de Tsukiji sigue abierto y es el sitio para comer. Mejor ir por la manana; muchos puestos cierran pronto y domingos/miercoles sueltos. Coordenadas APROXIMADAS.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e74c3c",
+        "marker-symbol": "restaurant"
+      }
     }
   ]
 }
