@@ -2761,6 +2761,30 @@
         "marker-color": "#e67e22",
         "marker-symbol": "star"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "name": "Kakigori (probar) - hielo raspado",
+        "category": "restaurante",
+        "city": null,
+        "area": null,
+        "station": "N/A (postre; en cafes, templos, festivales y konbini por todo Japon)",
+        "notes": "Para PROBAR: kakigori, hielo finamente raspado con siropes (matcha, fresa, melon, uji kintoki...) y a menudo leche condensada o crema; el refresco perfecto para el calor de julio. No es un local concreto: se encuentra en cafes y kissaten, puestos de festivales (matsuri) y hasta en konbini. Sin coordenadas: anotar donde se pruebe.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e74c3c",
+        "marker-symbol": "restaurant"
+      }
     }
   ]
 }
