@@ -513,12 +513,22 @@ Zona: Hankyu Osaka-umeda
 Estacion: Osaka-umeda (linea Hankyu Kyoto)
 Tren turistico/tematico con decoracion tradicional japonesa en la linea Hankyu Kyoto. Recorrido: Osaka-umeda -&gt; Kyoto-kawaramachi. Sin recargo (tarifa normal Hankyu, sin reserva), pero SOLO circula ciertos dias (fines de semana/festivos) - VERIFICAR calendario. Punto situado en la estacion de origen (Osaka-umeda). Coordenadas aproximadas.</description><styleUrl>#s_transporte</styleUrl><Point><coordinates>135.4983,34.7055,0</coordinates></Point></Placemark>
 </Folder>
-<Folder><name>alojamiento (1)</name>
+<Folder><name>alojamiento (3)</name>
 <Placemark><name>e-stay Namba (hostel)</name><description>Ciudad: Osaka
 Zona: Namba
 Estacion: Namba (lineas Midosuji/Yotsubashi/Sennichimae, metro + Nankai/Kintetsu) -- aprox.
 Alojamiento tipo hostel &#x27;e-stay Namba&#x27; reservado via Booking, en la zona de Namba (Osaka). Fechas de la busqueda: check-in 2027-07-12, check-out 2027-07-16 (4 noches). Ocupacion: 2 adultos + 2 ninos (7 y 11 anos). NOTA: estas fechas de julio 2027 coinciden con el torneo de sumo de Nagoya (11-25 jul). Coordenadas APROXIMADAS (zona Namba); afinar con la direccion exacta.
 https://www.booking.com/hotel/jp/hui-mei-xu-ting-hosuteru-jia.es.html</description><styleUrl>#s_alojamiento</styleUrl><Point><coordinates>135.502,34.665,0</coordinates></Point></Placemark>
+<Placemark><name>Sanmi Tsutenkaku 502 (alojamiento Osaka - RESERVA TEMPORAL)</name><description>Ciudad: Osaka
+Zona: Ebisucho / Shinsekai (junto a Tsutenkaku), Naniwa-ku
+Estacion: Ebisucho (linea Sakaisuji, metro) ~5 min; cerca de Shin-Imamiya (JR Loop/Nankai) y Namba/Dotonbori ~10 min
+RESERVA TEMPORAL en Booking (171 EUR) para 2 adultos + 2 ninos (7 y 11). Fechas: check-in 2027-07-11, check-out 2027-07-15 (4 noches) -&gt; encaja con la Fase 1 (Osaka) del itinerario. Apartamento cerca de Tsutenkaku/Shinsekai. BIEN SITUADO para la ruta: USJ via JR Loop (desde Shin-Imamiya), KIX via Nankai (Shin-Imamiya/Namba), Nara via Kintetsu (Namba), y a 10 min de Namba/Dotonbori. Coordenadas APROXIMADAS (zona Ebisucho); confirmar direccion exacta. URL: https://www.booking.com/hotel/jp/sanmi-tsutenkaku-502-5min-to-ebisucho-sta-10min-to-namba-dotonbori-45min-to-kix.es.html
+https://www.booking.com/hotel/jp/sanmi-tsutenkaku-502-5min-to-ebisucho-sta-10min-to-namba-dotonbori-45min-to-kix.es.html</description><styleUrl>#s_alojamiento</styleUrl><Point><coordinates>135.50566,34.6556,0</coordinates></Point></Placemark>
+<Placemark><name>Alojamiento Kioto (Mibu, Nakagyo-ku - RESERVA cancelable)</name><description>Ciudad: Kioto
+Zona: Mibu-Amagaike 35-53, Nakagyo-ku
+Estacion: Cerca de Nijo (JR Sagano/San&#x27;in + linea Tozai, metro) y Shijo-Omiya/Omiya (Hankyu, Randen)
+RESERVA con opcion de CANCELACION en Booking (371 EUR), 2 adultos + 2 ninos (7 y 11). Fechas: check-in 2027-07-15, check-out 2027-07-19 (4 noches) -&gt; encaja con la Fase 2 (Kioto). Direccion: Kioto, Nakagyo-ku, Mibu-Amagaike 35-53. Ubicacion (centro-oeste de Kioto): BIEN para Arashiyama (JR Sagano directo desde Nijo) y para moverse en metro Tozai/Hankyu/Randen; Higashiyama/Gion y Fushimi quedan algo mas lejos (bus o 1 transbordo). Shinkansen a Nagoya: Nijo -&gt; Kyoto Station (1 parada). Coordenadas APROXIMADAS (zona Mibu/Nijo); confirmar direccion exacta. URL: https://www.booking.com/hotel/jp/feng-ting-ri-shi-xiao-wu-...kyoto-shi.es.html
+https://www.booking.com/hotel/jp/feng-ting-ri-shi-xiao-wu-jrdi-xia-tie-er-tiao-yi-yoritu-bu-4fen-xian-s-kyoto-shi.es.html</description><styleUrl>#s_alojamiento</styleUrl><Point><coordinates>135.74074,35.0074,0</coordinates></Point></Placemark>
 </Folder>
 </Document>
 </kml>

@@ -3289,6 +3289,30 @@
         "marker-color": "#9b59b6",
         "marker-symbol": "lodging"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.74074,
+          35.0074
+        ]
+      },
+      "properties": {
+        "name": "Alojamiento Kioto (Mibu, Nakagyo-ku - RESERVA cancelable)",
+        "category": "alojamiento",
+        "city": "Kioto",
+        "area": "Mibu-Amagaike 35-53, Nakagyo-ku",
+        "station": "Cerca de Nijo (JR Sagano/San'in + linea Tozai, metro) y Shijo-Omiya/Omiya (Hankyu, Randen)",
+        "notes": "RESERVA con opcion de CANCELACION en Booking (371 EUR), 2 adultos + 2 ninos (7 y 11). Fechas: check-in 2027-07-15, check-out 2027-07-19 (4 noches) -> encaja con la Fase 2 (Kioto). Direccion: Kioto, Nakagyo-ku, Mibu-Amagaike 35-53. Ubicacion (centro-oeste de Kioto): BIEN para Arashiyama (JR Sagano directo desde Nijo) y para moverse en metro Tozai/Hankyu/Randen; Higashiyama/Gion y Fushimi quedan algo mas lejos (bus o 1 transbordo). Shinkansen a Nagoya: Nijo -> Kyoto Station (1 parada). Coordenadas APROXIMADAS (zona Mibu/Nijo); confirmar direccion exacta. URL: https://www.booking.com/hotel/jp/feng-ting-ri-shi-xiao-wu-...kyoto-shi.es.html",
+        "hours": null,
+        "url": "https://www.booking.com/hotel/jp/feng-ting-ri-shi-xiao-wu-jrdi-xia-tie-er-tiao-yi-yoritu-bu-4fen-xian-s-kyoto-shi.es.html",
+        "priority": "alta",
+        "day": null,
+        "marker-color": "#9b59b6",
+        "marker-symbol": "lodging"
+      }
     }
   ]
 }
