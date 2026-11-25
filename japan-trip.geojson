@@ -2737,6 +2737,30 @@
         "marker-color": "#1abc9c",
         "marker-symbol": "religious-buddhist"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.803,
+          35.714
+        ]
+      },
+      "properties": {
+        "name": "Sumidagawa Hanabi Taikai (fuegos artificiales)",
+        "category": "actividad",
+        "city": "Tokio",
+        "area": "Rio Sumida (Asakusa / Sumida-ku)",
+        "station": "Asakusa / Oshiage / Kuramae segun la zona de visionado",
+        "notes": "Gran festival de fuegos artificiales de Tokio sobre el rio Sumida (zona de Asakusa), ~20.000 fuegos desde dos puntos de lanzamiento. Se celebra el ULTIMO SABADO DE JULIO (en 2027 caeria el 31 jul) - CONFIRMAR fecha oficial, puede moverse por lluvia/cambios. Gratis, pero MUCHISIMA gente: ir con varias horas de antelacion para coger sitio junto al rio (o reservar asiento de pago). Alrededores de Asakusa/Skytree abarrotados y trenes llenos al acabar (~20:30). Empieza al anochecer (~19:00-20:30 aprox).",
+        "hours": "Ultimo sabado de julio (2027: ~31 jul, CONFIRMAR). Lanzamiento ~19:00-20:30",
+        "url": null,
+        "priority": "alta",
+        "day": null,
+        "marker-color": "#e67e22",
+        "marker-symbol": "star"
+      }
     }
   ]
 }
