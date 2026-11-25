@@ -2857,6 +2857,30 @@
         "marker-color": "#e74c3c",
         "marker-symbol": "restaurant"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "name": "Toallitas refrescantes Gatsby Ice-Type (comprar)",
+        "category": "tienda",
+        "city": null,
+        "area": null,
+        "station": "N/A (cadena de drugstores: Matsumoto Kiyoshi, etc.)",
+        "notes": "Para COMPRAR al llegar: toallitas corporales refrescantes Gatsby 'Ice-Type' (efecto frio intenso con mentol), salvavidas para el calor y la humedad de julio. Se venden en DRUGSTORES japoneses como Matsumoto Kiyoshi (muy habitual), y tambien Don Quijote, Sundrug, Welcia, konbini. CADENA sin coordenadas fijas: hay Matsumoto Kiyoshi por todas las ciudades (zonas comerciales/estaciones). NOTA: suele ser la version para hombre; hay equivalentes unisex/para piel sensible si se prefiere.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#3498db",
+        "marker-symbol": "shop"
+      }
     }
   ]
 }
