@@ -3217,6 +3217,30 @@
         "marker-color": "#e74c3c",
         "marker-symbol": "restaurant"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.88763,
+          33.67528
+        ]
+      },
+      "properties": {
+        "name": "Cascada de Nachi (Nachi-no-Taki)",
+        "category": "visita",
+        "city": "Nachikatsuura",
+        "area": "Nachisan, Nachikatsuura (Wakayama)",
+        "station": "Kii-Katsuura (linea JR Kisei) + bus a Nachi-no-Taki; peninsula de Kii",
+        "notes": "La cascada de una sola caida mas alta de Japon (~133 m), sagrada, junto al santuario Hiro-jinja y a Kumano Nachi Taisha (con la pagoda roja Seiganto-ji: la estampa iconica cascada+pagoda). Es el escenario del FESTIVAL DEL FUEGO DE NACHI (Nachi no Ogi Matsuri), cada 14 de JULIO: 12 mikoshi-abanico y grandes antorchas (~50 kg) purifican el camino hacia la cascada. Si vais el 14 jul, es el dia grande (CONFIRMAR horario). NOTA DE RUTA: peninsula de Kii, lejos (~4 h desde Osaka) -> pata aparte (Kumano). Entrada a la cascada ~gratis; mirador cercano de pago.",
+        "hours": "Cascada visitable a diario; Festival del Fuego el 14 jul (confirmar horario)",
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#1abc9c",
+        "marker-symbol": "attraction"
+      }
     }
   ]
 }
