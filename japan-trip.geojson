@@ -3097,6 +3097,30 @@
         "marker-color": "#1abc9c",
         "marker-symbol": "attraction"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.76532,
+          35.72767
+        ]
+      },
+      "properties": {
+        "name": "Yanaka Ginza (calle de comida callejera)",
+        "category": "restaurante",
+        "city": "Tokio",
+        "area": "Yanaka (Taito/Arakawa-ku)",
+        "station": "Nippori (JR Yamanote/Keisei) / Sendagi (linea Chiyoda, metro)",
+        "notes": "Calle comercial retro del viejo Tokio (zona Yanaka/'Yanesen'), de las pocas que conservan el ambiente Showa tras sobrevivir a guerra y terremotos. Ideal para COMIDA CALLEJERA: croquetas (menchi-katsu), yakitori, dango, senbei, helados... Ambiente tranquilo, barrio de gatos (la 'cuesta del atardecer' Yuyake Dandan). Tiendas pequenas, mejor por la tarde; algunas cierran lunes. Cerca de Nippori. Combinable con Ueno/Ameyoko.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e74c3c",
+        "marker-symbol": "restaurant"
+      }
     }
   ]
 }
