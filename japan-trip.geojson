@@ -2929,6 +2929,174 @@
         "marker-color": "#3498db",
         "marker-symbol": "shop"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.24627,
+          34.79926
+        ]
+      },
+      "properties": {
+        "name": "Arima Onsen",
+        "category": "actividad",
+        "city": "Kobe",
+        "area": "Arima-cho, Kita-ku (Kobe)",
+        "station": "Arima-onsen (Kobe Dentetsu); ~1 h desde Osaka/Kobe",
+        "notes": "Uno de los onsen mas antiguos y famosos de Japon (de los 'tres grandes'). Aguas 'kinsen' (dorada, ferrosa) y 'ginsen' (plateada). CERCA de Osaka/Kobe (~1 h) -> encaja como escapada/noche desde la Fase 1 (Kansai). Pueblo termal con banos publicos y ryokan.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e67e22",
+        "marker-symbol": "star"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.23869,
+          35.81072
+        ]
+      },
+      "properties": {
+        "name": "Gero Onsen",
+        "category": "actividad",
+        "city": "Gero",
+        "area": "Yunoshima, Gero (Gifu)",
+        "station": "Gero (linea JR Takayama/Hida), entre Nagoya y Takayama",
+        "notes": "De los 'tres grandes' onsen de Japon, aguas suaves para la piel. En la linea Hida Nagoya-Takayama -> encaja desde NAGOYA (o de camino a Takayama). Banos a pie de calle y footbaths gratuitos por el pueblo.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e67e22",
+        "marker-symbol": "star"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.93689,
+          34.97572
+        ]
+      },
+      "properties": {
+        "name": "Shuzenji Onsen",
+        "category": "actividad",
+        "city": "Izu (Shuzenji)",
+        "area": "Shuzenji, Izu (Shizuoka)",
+        "station": "Shuzenji (linea Izuhakone Sunzu, desde Mishima); peninsula de Izu",
+        "notes": "Pueblo termal con encanto en la peninsula de Izu, bambu, templo Shuzen-ji y banos junto al rio Katsura. Al SUR de Tokio (via Mishima, Shinkansen) -> excursion/noche desde TOKIO o combinado con Hakone/Izu.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e67e22",
+        "marker-symbol": "star"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.09742,
+          34.97179
+        ]
+      },
+      "properties": {
+        "name": "Ito Onsen",
+        "category": "actividad",
+        "city": "Ito",
+        "area": "Ito (Shizuoka), costa este de Izu",
+        "station": "Ito (linea JR Ito); costa este de la peninsula de Izu",
+        "notes": "Clasico pueblo termal de playa en la costa este de Izu, muchos onsen historicos (p.ej. Tokaikan de madera). Al SUR de Tokio (~2 h) -> excursion/noche desde TOKIO, combinable con Izu/Atami.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e67e22",
+        "marker-symbol": "star"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.10815,
+          35.14792
+        ]
+      },
+      "properties": {
+        "name": "Yugawara Onsen",
+        "category": "actividad",
+        "city": "Yugawara",
+        "area": "Yugawara, Ashigarashimo (Kanagawa)",
+        "station": "Yugawara (linea JR Tokaido); junto a Atami/Hakone",
+        "notes": "Onsen tranquilo entre Atami y Hakone (Kanagawa). Cercano a Tokio (~1,5 h en JR) -> escapada facil desde TOKIO, menos turistico que Hakone. (Interpretado de 'Ygaware' - CONFIRMAR si te referias a este.)",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e67e22",
+        "marker-symbol": "star"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.37468,
+          36.25014
+        ]
+      },
+      "properties": {
+        "name": "Yamanaka Onsen",
+        "category": "actividad",
+        "city": "Kaga (Yamanaka)",
+        "area": "Yamanaka, Kaga (Ishikawa)",
+        "station": "Via Kaga Onsen (JR) o Kanazawa + bus; prefectura de Ishikawa",
+        "notes": "Onsen historico en Kaga (Ishikawa), celebre por el desfiladero de Kakusenkei junto al rio y la artesania de laca Yamanaka-nuri. NOTA DE RUTA: al NORTE (zona de Kanazawa), FUERA del corredor de este viaje -> requeriria una pata aparte.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e67e22",
+        "marker-symbol": "star"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.22518,
+          35.54543
+        ]
+      },
+      "properties": {
+        "name": "Mizuki Shigeru Road (ruta de yokais)",
+        "category": "visita",
+        "city": "Sakaiminato",
+        "area": "Sakaiminato (Tottori), San'in",
+        "station": "Sakaiminato (final de la linea JR Sakai); desde Yonago",
+        "notes": "Calle-ruta dedicada a Shigeru Mizuki (autor de 'GeGeGe no Kitaro'): ~170 estatuas de bronce de yokais repartidas desde la estacion de Sakaiminato, mas tiendas tematicas y el museo Mizuki Shigeru. Divertidisima para ninos. NOTA DE RUTA: en Tottori (costa de San'in, oeste) -> lejos del corredor Osaka-Tokio; encaja como pata aparte o excursion larga desde Kansai (via Yonago).",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#1abc9c",
+        "marker-symbol": "attraction"
+      }
     }
   ]
 }
