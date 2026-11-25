@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Japan Trip 2027</name>
+<Style id="s_restaurante"><IconStyle><color>ff3c4ce7</color><Icon><href>http://maps.google.com/mapfiles/kml/shapes/dining.png</href></Icon></IconStyle></Style>
+<Style id="s_alojamiento"><IconStyle><color>ffb6599b</color><Icon><href>http://maps.google.com/mapfiles/kml/shapes/lodging.png</href></Icon></IconStyle></Style>
+<Style id="s_museo"><IconStyle><color>ff0fc3f1</color><Icon><href>http://maps.google.com/mapfiles/kml/shapes/museum.png</href></Icon></IconStyle></Style>
+<Style id="s_tienda"><IconStyle><color>ffdb9834</color><Icon><href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href></Icon></IconStyle></Style>
+<Style id="s_actividad"><IconStyle><color>ff22a6e6</color><Icon><href>http://maps.google.com/mapfiles/kml/shapes/star.png</href></Icon></IconStyle></Style>
+<Style id="s_transporte"><IconStyle><color>ff2ecc71</color><Icon><href>http://maps.google.com/mapfiles/kml/shapes/rail.png</href></Icon></IconStyle></Style>
+<Style id="s_visita"><IconStyle><color>ffbc1a1a</color><Icon><href>http://maps.google.com/mapfiles/kml/shapes/camera.png</href></Icon></IconStyle></Style>
+<Folder><name>museo (4)</name>
+<Placemark><name>Nihon Minka-en (museo al aire libre)</name><description>Ciudad: Tokio
+Zona: Ikuta Ryokuchi, Tama-ku, Kawasaki
+Estacion: Mukogaoka-Yuen (linea Odakyu Odawara)
+Horario: 09:30-17:00 (ultima entrada 16:30). Cierra lunes (o martes si el lunes es festivo).
+Museo al aire libre de casas tradicionales japonesas (minka) dentro del parque Ikuta Ryokuchi. Direccion: 7-1-1 Masugata, Tama Ward, Kawasaki, Kanagawa 214-0032. Estacion mas cercana: Mukogaoka-Yuen (linea Odakyu desde Shinjuku). Pertenece a Kawasaki (area metropolitana de Tokio), al SO de Shinjuku.
+https://www.nihonminkaen.jp/</description><styleUrl>#s_museo</styleUrl><Point><coordinates>139.5531,35.6133,0</coordinates></Point></Placemark>
+<Placemark><name>Museo Fujiko F. Fujio (Doraemon)</name><description>Ciudad: Tokio
+Zona: Tama-ku, Kawasaki
+Estacion: Mukogaoka-Yuen (linea Odakyu Odawara) + lanzadera/paseo
+Horario: 10:00-18:00 (ultima entrada 17:00). Cierra martes, salvo 20 jul-3 sep (abre a diario). Requiere reserva previa con hora.
+Museo dedicado al autor de Doraemon. Direccion: 2-8-1 Nagao, Tama-ku, Kawasaki, Kanagawa 214-0023. REQUIERE entrada con fecha y hora compradas por adelantado (venta en Lawson). Muy cerca de Nihon Minka-en / Ikuta Ryokuchi: candidatos a combinar el mismo dia. Lanzadera desde estacion Mukogaoka-Yuen (Odakyu). Coordenadas aproximadas derivadas de la direccion.
+https://fujiko-museum.com/</description><styleUrl>#s_museo</styleUrl><Point><coordinates>139.5622,35.609,0</coordinates></Point></Placemark>
+<Placemark><name>Museo Tora-san (Katsushika Shibamata)</name><description>Ciudad: Tokio
+Zona: Shibamata, Katsushika-ku
+Estacion: Shibamata (linea Keisei Kanamachi)
+Horario: 09:00-17:00 (ultima entrada 16:30). Cierra el 3er martes del mes (20 jul 2027).
+Museo dedicado a la saga de cine &#x27;Otoko wa Tsurai yo&#x27; (Tora-san), con sets recreados. Junto al rio Edogawa, al lado de Yamamoto-tei (y del Museo Yamada Yoji). Cierra el recorrido de Shibamata. Coordenadas aproximadas.</description><styleUrl>#s_museo</styleUrl><Point><coordinates>139.8799,35.7591,0</coordinates></Point></Placemark>
+<Placemark><name>Okayama City Museum</name><description>Ciudad: Okayama
+Zona: Cerca de la estacion de Okayama (salida oeste)
+Estacion: Okayama (JR y Shinkansen Sanyo), salida oeste
+Horario: 10:00-18:00 (ultima entrada 17:30). Cierra lunes y durante cambios de exposicion.
+Museo de historia y cultura de la ciudad de Okayama, a pocos minutos a pie de la estacion de Okayama (salida oeste). QUE VER (a VERIFICAR contenidos/exposicion temporal y horarios en la web oficial): recorrido por la historia local desde la arqueologia y la epoca de la ciudad-castillo (joka-machi) hasta la era moderna, con maquetas y objetos; suele incluir una seccion sobre el bombardeo aereo de Okayama en la II GM. Tiene ademas salas de exposiciones temporales. Encaja como complemento cultural el mismo dia que el Castillo de Okayama y el jardin Koraku-en, y de paso hacia Kurashiki. Coordenadas APROXIMADAS (zona estacion); pasar enlace de Google Maps para fijar el local.</description><styleUrl>#s_museo</styleUrl><Point><coordinates>133.9178,34.6668,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>visita (52)</name>
+<Placemark><name>Barrio de Shibamata</name><description>Ciudad: Tokio
+Zona: Katsushika-ku
+Estacion: Shibamata (linea Keisei Kanamachi)
+Barrio tranquilo y tradicional del NE de Tokio: tiendas antiguas, casas unifamiliares, ambiente retro (escenario de la saga Tora-san). Acceso por estacion Shibamata (linea Keisei Kanamachi). Coordenadas aproximadas (zona estacion).</description><styleUrl>#s_visita</styleUrl><Point><coordinates>139.8803,35.7558,0</coordinates></Point></Placemark>
+<Placemark><name>Templo Daikyoji (Shibamata Taishakuten)</name><description>Ciudad: Tokio
+Zona: Shibamata, Katsushika-ku
+Estacion: Shibamata (linea Keisei Kanamachi)
+Horario: Recinto 05:00-20:00; galeria de tallas y jardin 09:00-16:00/16:30. Abierto a diario.
+Templo budista (Nichiren), conocido como Shibamata Taishakuten. Famoso por sus tallas de madera y el jardin. Al final de la calle Taishakuten Sando. Coordenadas aproximadas.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>139.8816,35.7582,0</coordinates></Point></Placemark>
+<Placemark><name>Yamamoto-tei (casa de te y jardin)</name><description>Ciudad: Tokio
+Zona: Shibamata, Katsushika-ku
+Estacion: Shibamata (linea Keisei Kanamachi)
+Horario: 09:00-17:00 (ultima entrada 16:30). Cierra el 3er martes del mes (20 jul 2027).
+Residencia tradicional de la era Taisho con un precioso jardin japones; se puede tomar matcha y dulce contemplando el jardin. Junto al templo Daikyoji / Shibamata Taishakuten. Coordenadas aproximadas.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>139.8808,35.7585,0</coordinates></Point></Placemark>
+<Placemark><name>Templo Senso-ji</name><description>Ciudad: Tokio
+Zona: Asakusa, Taito-ku
+Estacion: Asakusa (lineas Ginza [metro], Toei Asakusa, Tobu Skytree, Tsukuba Express)
+Horario: Recinto 24h; salon principal 06:00-17:00. Abierto a diario.
+El templo budista mas antiguo de Tokio. Puerta Kaminarimon con su gran farol rojo y la calle comercial Nakamise-dori hasta el templo. Muy concurrido; mejor temprano. Estaciones Asakusa (lineas Ginza, Asakusa, Tobu).</description><styleUrl>#s_visita</styleUrl><Point><coordinates>139.7967,35.7148,0</coordinates></Point></Placemark>
+<Placemark><name>Paseo del Filosofo (Tetsugaku-no-michi)</name><description>Ciudad: Kioto
+Zona: Higashiyama
+Estacion: Sin estacion cercana; bus urbano (parada Ginkakuji-michi) o Keage (linea Tozai, metro) + paseo -- verificar
+Sendero peatonal de piedra junto a un canal, bordeado de cerezos (espectacular en sakura y en otono). Va aprox. desde Ginkaku-ji (Pabellon de Plata) hacia la zona de Nanzen-ji. Coordenadas aproximadas (tramo central del paseo).</description><styleUrl>#s_visita</styleUrl><Point><coordinates>135.7958,35.0225,0</coordinates></Point></Placemark>
+<Placemark><name>Templo Nanzen-ji</name><description>Ciudad: Kioto
+Zona: Higashiyama
+Estacion: Keage (linea Tozai, metro de Kioto)
+Horario: 08:40-17:00 (ultima entrada 16:40). Abierto a diario.
+Gran templo zen con la imponente puerta Sanmon (se puede subir) y el acueducto de ladrillo Suirokaku (epoca Meiji), muy fotogenico. En el extremo sur del Paseo del Filosofo: combinan bien el mismo dia. Coordenadas aproximadas.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>135.7943,35.0113,0</coordinates></Point></Placemark>
+<Placemark><name>Kinkaku-ji (Pabellon Dorado)</name><description>Ciudad: Kioto
+Zona: Kita-ku (noroeste de Kioto)
+Estacion: Sin estacion cercana; bus urbano (parada Kinkakuji-michi) -- verificar
+Horario: 09:00-17:00. Abierto a diario.
+Templo zen cuyo pabellon esta recubierto de pan de oro, reflejandose en el estanque. Uno de los iconos de Kioto. Esta al NOROESTE, lejos de Higashiyama: se combina mejor con Ryoan-ji / zona oeste, no con el Paseo del Filosofo. Coordenadas aproximadas.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>135.7292,35.0394,0</coordinates></Point></Placemark>
+<Placemark><name>Santuario Fushimi Inari Taisha</name><description>Ciudad: Kioto
+Zona: Fushimi-ku (sur de Kioto)
+Estacion: JR Inari (linea JR Nara) / Fushimi-Inari (linea Keihan)
+Horario: 24h
+Santuario sintoista famoso por los miles de toriis rojos (Senbon Torii) que suben por el monte Inari. Abierto 24h; ir muy temprano o al atardecer evita masas. Al SUR de Kioto, junto a la estacion JR Inari / Fushimi Inari (Keihan). Coordenadas aproximadas.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>135.7727,34.9671,0</coordinates></Point></Placemark>
+<Placemark><name>Bosque de bambu de Arashiyama</name><description>Ciudad: Kioto
+Zona: Arashiyama (oeste de Kioto)
+Estacion: Saga-Arashiyama (linea JR Sagano) / Arashiyama (Randen y Hankyu)
+Famoso sendero entre altos bambues. Ir muy temprano (se llena). Al OESTE de Kioto; se combina con Tenryu-ji, el puente Togetsukyo y el parque de monos Iwatayama. Coordenadas aproximadas.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>135.6717,35.017,0</coordinates></Point></Placemark>
+<Placemark><name>Bosque de bambu de Adashino</name><description>Ciudad: Kioto
+Zona: Sagano / Saga-Toriimoto (oeste de Kioto)
+Estacion: Saga-Arashiyama (linea JR Sagano) + paseo/bus -- verificar
+Sendero de bambu junto al templo Adashino Nenbutsu-ji, en el barrio tradicional de Saga-Toriimoto. Mucho mas tranquilo que el bosque principal de Arashiyama, al que queda al norte. Coordenadas aproximadas.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>135.6662,35.0283,0</coordinates></Point></Placemark>
+<Placemark><name>Castillo de Osaka</name><description>Ciudad: Osaka
+Zona: Chuo-ku
+Estacion: Osakajokoen (linea JR Loop) / Tanimachi 4-chome (lineas Tanimachi y Chuo, metro)
+Horario: Torre principal 09:00-18:00 (ultima entrada 17:30). Abierto a diario; el parque exterior 24h.
+Castillo historico rodeado de fosos y un gran parque (precioso en sakura y en otono). La torre principal es museo con mirador. Estaciones Osakajokoen / Tanimachi 4-chome. Coordenadas aproximadas.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>135.5259,34.6873,0</coordinates></Point></Placemark>
+<Placemark><name>Shinjuku Gyoen</name><description>Ciudad: Tokio
+Zona: Shinjuku
+Estacion: Shinjuku-gyoemmae (linea Marunouchi, metro) / Sendagaya (JR) / Shinjuku
+Horario: 09:00-19:00 (ultima entrada 18:30, horario extendido de verano). Cierra lunes.
+Gran jardin nacional que combina estilos japones, ingles y frances; de los mejores de Tokio para sakura y otono. Entrada de pago y CIERRA LOS LUNES. Estaciones Shinjukugyoemmae / Shinjuku. Coordenadas aproximadas.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>139.71,35.6852,0</coordinates></Point></Placemark>
+<Placemark><name>Templo Katsuo-ji (templo de los darumas)</name><description>Ciudad: Osaka
+Zona: Minoo, norte de Osaka
+Estacion: Sin estacion; bus desde Senri-Chuo o estacion Minoo (Hankyu) -- verificar
+Horario: L-V y domingos 08:00-17:00; sabados 08:00-18:00 (ultima entrada 30 min antes). Abierto a diario.
+Templo conocido por los miles de munecos daruma (amuletos de la buena suerte / &#x27;ganar&#x27;) repartidos por todo el recinto. En las montanas de Minoo, al norte de Osaka: acceso algo complicado sin coche (bus), verificar transporte. Coordenadas aproximadas.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>135.5035,34.8614,0</coordinates></Point></Placemark>
+<Placemark><name>Nakazakicho</name><description>Ciudad: Osaka
+Zona: Kita-ku (al norte de Umeda)
+Estacion: Nakazakicho (linea Tanimachi, metro)
+Barrio bohemio y retro que sobrevivio a la guerra: casas antiguas reconvertidas en cafes con encanto, tiendas vintage/ropa de segunda mano, galerias y arte callejero. Ideal para pasear sin rumbo. Junto a Umeda (estacion Nakazakicho, linea Tanimachi). Coordenadas aproximadas.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>135.5055,34.7083,0</coordinates></Point></Placemark>
+<Placemark><name>Cascada de Minoo (Minoo Falls)</name><description>Ciudad: Osaka
+Zona: Minoo, norte de Osaka
+Estacion: Minoo (linea Hankyu Minoo)
+Cascada de ~33 m en el parque cuasi-nacional de Minoo. Paseo agradable de ~2,7 km desde la estacion Minoo (linea Hankyu), espectacular en otono (momiji); por el camino venden momiji tempura. Misma zona que Katsuo-ji (templo de los darumas): combinan. Coordenadas aproximadas.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>135.4718,34.8538,0</coordinates></Point></Placemark>
+<Placemark><name>Templo Kodai-ji (y paseo de bambu)</name><description>Ciudad: Kioto
+Zona: Higashiyama sur (Gion)
+Estacion: Sin estacion cercana; bus, o Gion-Shijo/Kiyomizu-Gojo (Keihan) + paseo -- verificar
+Horario: 09:00-17:30 (ultima entrada 17:00). A mediados/finales de julio suele haber iluminacion nocturna hasta las 22:00.
+Templo zen con jardines preciosos, casa de te y un pequeno paseo de bambu dentro del recinto. Famoso por sus iluminaciones nocturnas (primavera y otono). En Higashiyama sur, junto a Kiyomizu-dera, las cuestas Ninenzaka/Sannenzaka y Gion: combinan el mismo dia (NO confundir con la zona norte del Paseo del Filosofo/Nanzen-ji). Coordenadas aproximadas.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>135.7805,35.0003,0</coordinates></Point></Placemark>
+<Placemark><name>Nara (Parque de Nara)</name><description>Ciudad: Nara
+Zona: Parque de Nara
+Estacion: Kintetsu-Nara (linea Kintetsu Nara) / JR Nara + paseo
+Ciudad historica famosa por los ciervos sika que campan libres por el parque y hacen reverencias por galletas (shika senbei). Alrededor: Todai-ji (Gran Buda), Kasuga Taisha, Kofuku-ji. Excursion de un dia desde Kioto u Osaka (~45-60 min en tren). Punto general en el Parque de Nara; se iran anadiendo los templos concretos. Coordenadas aproximadas.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>135.843,34.6851,0</coordinates></Point></Placemark>
+<Placemark><name>Santuario Kasuga Taisha</name><description>Ciudad: Nara
+Zona: Parque de Nara
+Estacion: Kintetsu-Nara (linea Kintetsu Nara) + bus/paseo
+Horario: 06:30-17:30 (horario de verano). La zona de culto especial abre 09:00-16:00.
+Santuario sintoista principal de Nara, famoso por sus miles de farolillos: de bronce colgados en los pasillos y de piedra en los caminos de acceso por el bosque. Patrimonio de la Humanidad. En el extremo este del Parque de Nara. Coordenadas aproximadas.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>135.8483,34.6817,0</coordinates></Point></Placemark>
+<Placemark><name>Naramachi (barrio antiguo)</name><description>Ciudad: Nara
+Zona: Naramachi
+Estacion: Kintetsu-Nara (linea Kintetsu Nara) / JR Nara + paseo
+Antiguo barrio de comerciantes de Nara: calles con casas tradicionales machiya reconvertidas en tiendas, cafes, pequenos museos y talleres de artesania. Al sur del estanque Sarusawa / Kofuku-ji. Ideal para pasear tras ver el parque. Coordenadas aproximadas.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>135.829,34.678,0</coordinates></Point></Placemark>
+<Placemark><name>Templo Gotokuji (maneki-neko)</name><description>Ciudad: Tokio
+Zona: Setagaya-ku
+Estacion: Gotokuji (linea Odakyu) / Miyanosaka (linea Setagaya, tranvia Tokyu)
+Horario: Recinto 06:00-17:00; oficina y venta de gatos 08:00-15:00. Abierto a diario.
+Templo considerado el origen del maneki-neko (gato de la suerte): cientos de figuritas de gatos blancos acumuladas como ofrenda. Zona residencial tranquila de Setagaya, al oeste de Tokio. Estaciones Gotokuji (Odakyu) / Miyanosaka (linea Setagaya). Coordenadas aproximadas.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>139.6475,35.6465,0</coordinates></Point></Placemark>
+<Placemark><name>Reloj gigante de Ghibli (NI-TELE Really Big Clock)</name><description>Ciudad: Tokio
+Zona: Shiodome / Shinbashi, Minato-ku
+Estacion: Shiodome (linea Oedo, metro + Yurikamome) / Shinbashi
+Horario: Pases: 12:00, 15:00, 18:00, 20:00; fines de semana tambien 10:00
+Gran reloj mecanico de cobre disenado por Hayao Miyazaki (Studio Ghibli) en la Nittele Tower (Nippon TV). En los pases cobra vida con figuras que se mueven unos minutos antes de la hora. Cerca de Itamae Sushi Shinbashi (misma zona). Coordenadas aproximadas.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>139.7622,35.6652,0</coordinates></Point></Placemark>
+<Placemark><name>Shibuya Sky (mirador)</name><description>Ciudad: Tokio
+Zona: Shibuya
+Estacion: Shibuya (JR Yamanote y varias lineas de metro)
+Horario: 10:00-22:30 (ultima entrada 21:20). Abierto a diario; la azotea puede cerrar por mal tiempo.
+Mirador de pago en la azotea del rascacielos Shibuya Scramble Square (piso ~230 m, terraza al aire libre). Vistas espectaculares del cruce de Shibuya y, con buen dia, del monte Fuji. Entrada con fecha/hora: reservar online, el atardecer vuela. Sobre la estacion de Shibuya. Coordenadas aproximadas.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>139.7016,35.658,0</coordinates></Point></Placemark>
+<Placemark><name>Tokyo Metropolitan Government Building (mirador gratuito)</name><description>Ciudad: Tokio
+Zona: Nishi-Shinjuku
+Estacion: Tochomae (linea Oedo, metro) / Shinjuku
+Horario: Torre Sur 09:30-22:00; Torre Norte 09:30-17:30 (hasta 22:00 si la Sur cierra). Ultima entrada 30 min antes. Sur cierra 1er y 3er martes (6 y 20 jul); Norte cierra 2o y 4o lunes (12 y 26 jul).
+Sede del gobierno metropolitano (&#x27;Tocho&#x27;). Miradores GRATUITOS en la planta 45 (~202 m) de las dos torres, con vistas de Tokio y del Fuji con buen tiempo. Alternativa gratis al Shibuya Sky. En Nishi-Shinjuku, cerca de Shinjuku Gyoen. Coordenadas aproximadas.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>139.6917,35.6896,0</coordinates></Point></Placemark>
+<Placemark><name>Templo Kiyomizu-dera</name><description>Ciudad: Kioto
+Zona: Higashiyama sur
+Estacion: Kiyomizu-Gojo (linea Keihan) + paseo, o bus -- verificar
+Horario: 06:00-18:30 (horario extendido de verano). Abierto a diario.
+Templo budista Patrimonio de la Humanidad, famoso por su gran escenario de madera sobre la ladera, con vistas de Kioto. Muy concurrido: ir temprano. Se sube por las cuestas Ninenzaka/Sannenzaka (tiendas y casas tradicionales) y combina con Kodai-ji y Gion el mismo dia. Coordenadas aproximadas.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>135.785,34.9949,0</coordinates></Point></Placemark>
+<Placemark><name>Castillo de Himeji</name><description>Ciudad: Himeji
+Zona: Himeji (Hyogo)
+Estacion: Himeji (JR Sanyo + Shinkansen; Sanyo Himeji) + paseo
+Horario: 09:00-17:00 (ultima entrada 16:00). Jul 2027: obras de restauracion en algunas torres/puertas, pero la torre principal permanece abierta.
+El castillo mas espectacular de Japon (&#x27;garza blanca&#x27;), Patrimonio de la Humanidad y original (no reconstruido). Al OESTE de Osaka: ~1 h desde Shin-Osaka en Shinkansen o ~1,5 h en tren local; direccion opuesta al resto del viaje, asi que encaja como excursion de dia desde la base de Osaka (se puede combinar con Kobe). A 15 min a pie de la estacion JR Himeji. Coordenadas aproximadas.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>134.6939,34.8394,0</coordinates></Point></Placemark>
+<Placemark><name>Umeda Sky Building (Floating Garden)</name><description>Ciudad: Osaka
+Zona: Kita-ku (Umeda)
+Estacion: Osaka/Umeda (JR y Hankyu/Hanshin/metro) + paseo
+Horario: Observatorio Kuchu Teien 09:30-22:30 (ultima entrada 22:00). Abierto a diario.
+Rascacielos con el mirador &#x27;Floating Garden Observatory&#x27; en la azotea (~170 m), con terraza circular al aire libre; muy bonito al atardecer y de noche. Mirador de pago. En Umeda, cerca de Nakazakicho y Tenjinbashisuji. Coordenadas aproximadas.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>135.4897,34.7052,0</coordinates></Point></Placemark>
+<Placemark><name>Giou-ji (templo del musgo y bambu)</name><description>Ciudad: Kioto
+Zona: Sagano / Saga-Toriimoto (oeste de Kioto)
+Estacion: Saga-Arashiyama (linea JR Sagano) + paseo/bus -- verificar
+Horario: 09:00-17:00 (ultima entrada 16:30). Abierto a diario.
+Pequeno templo con un precioso jardin de musgo y bambu, muy tranquilo, en Sagano. Al lado de Adashino Nenbutsu-ji: combinan en el bloque oeste (Arashiyama/Sagano). Coordenadas aproximadas.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>135.6675,35.0235,0</coordinates></Point></Placemark>
+<Placemark><name>Tenryu-ji (templo y bambu)</name><description>Ciudad: Kioto
+Zona: Arashiyama (oeste de Kioto)
+Estacion: Arashiyama (Randen) / Saga-Arashiyama (linea JR Sagano)
+Horario: 08:30-17:00 (ultima entrada 16:50). Abierto a diario.
+Templo zen Patrimonio de la Humanidad con el jardin Sogenchi (estanque y monte Arashiyama de fondo). Su puerta norte da directamente al bosque de bambu de Arashiyama: visita encadenada. Coordenadas aproximadas.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>135.6737,35.0159,0</coordinates></Point></Placemark>
+<Placemark><name>Templo Myotsu-ji (Miotsuji)</name><description>Ciudad: Obama
+Zona: Obama (Fukui)
+Estacion: Obama (linea JR Obama) + bus/taxi -- verificar
+Horario: 09:00-17:00 (ultima entrada 16:30). Abierto a diario.
+Templo budista Shingon en Obama, prefectura de Fukui (costa del mar de Japon). Tiene dos Tesoros Nacionales: el pabellon principal (hondo) y una pagoda de tres pisos, en un entorno boscoso y tranquilo. NOTA DE RUTA: Obama esta al NORTE de Kioto (Fukui), fuera del corredor Osaka-Tokio; se llega en tren via linea JR Obama (~2 h desde Kioto) - encaja como excursion de dia o pata aparte del viaje. Coordenadas APROXIMADAS; pasar enlace de Google Maps para fijar el local.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>135.7906,35.4753,0</coordinates></Point></Placemark>
+<Placemark><name>Yotsugi (ruta de estatuas de Oliver y Benji / Captain Tsubasa)</name><description>Ciudad: Tokio
+Zona: Yotsugi, Katsushika-ku
+Estacion: Yotsugi (linea Keisei Oshiage)
+Barrio de Katsushika-ku, cuna de &#x27;Captain Tsubasa&#x27; (Oliver y Benji): ruta a pie de ~9 estatuas de bronce de los personajes alrededor de Yotsugi/Shin-Koiwa. Las estatuas estan ahora fijadas individualmente en el mapa (puntos &#x27;Estatua de ...&#x27;) con coordenadas de OpenStreetMap. Zona NE de Tokio, cerca de Shibamata (otro punto de Katsushika): combinan.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>139.847,35.736,0</coordinates></Point></Placemark>
+<Placemark><name>Kawagoe Hikawa Shrine</name><description>Ciudad: Kawagoe
+Zona: Kawagoe (Saitama)
+Estacion: Hon-Kawagoe (linea Seibu Shinjuku) / Kawagoe (JR Kawagoe y Tobu Tojo) + bus
+Horario: Recinto 24h; oficina de amuletos 08:00-16:30/18:00. Abierto a diario. En julio suele instalarse el festival de campanillas de viento (Enmusubi Furin).
+Santuario sintoista famoso por el enmusubi (buena suerte en el amor/relaciones) y por su tunel de furin (campanillas de viento) en verano, ademas del torii de madera gigante. En Kawagoe (&#x27;Pequena Edo&#x27;), Saitama, al NORTE de Tokio: excursion de dia desde Tokio (~30-60 min, linea Tobu Tojo o Seibu Shinjuku). Se combina con el barrio historico de Kurazukuri y la calle de dulces. Coordenadas APROXIMADAS; pasar enlace de Google Maps para fijar el local.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>139.4857,35.9289,0</coordinates></Point></Placemark>
+<Placemark><name>Kurazukuri (barrio historico de Kawagoe)</name><description>Ciudad: Kawagoe
+Zona: Ichibangai, Kawagoe (Saitama)
+Estacion: Hon-Kawagoe (Seibu Shinjuku) / Kawagoe (JR/Tobu Tojo) + bus/paseo
+Horario: Calle 24h; tiendas y cafes ~10:00-17:00/18:00. Algunas tiendas cierran los miercoles.
+Casco historico de Kawagoe (&#x27;Koedo&#x27;, la Pequena Edo): calle principal (Ichibangai) flanqueada por kura-zukuri, antiguos almacenes de mercader con gruesos muros de arcilla resistentes al fuego (s. XIX), hoy tiendas, cafes y museos. Se recorre paseando. Combina con Toki no Kane, Kashiya Yokocho (calle de dulces) y el Hikawa Shrine en la misma excursion de dia desde Tokio. Coordenadas APROXIMADAS (tramo central de la calle).</description><styleUrl>#s_visita</styleUrl><Point><coordinates>139.4833,35.9255,0</coordinates></Point></Placemark>
+<Placemark><name>Toki no Kane (Torre de la Campana)</name><description>Ciudad: Kawagoe
+Zona: Kurazukuri, Kawagoe (Saitama)
+Estacion: Hon-Kawagoe (Seibu Shinjuku) / Kawagoe (JR/Tobu Tojo) + bus/paseo
+Horario: Exterior 24h; campanadas 06:00, 12:00, 15:00 y 18:00. Sin acceso interior al publico; se visita desde la calle.
+Torre de madera con campana, simbolo de Kawagoe (la actual es una reconstruccion de finales del s. XIX). Toca varias veces al dia. A un par de minutos de la calle principal de Kurazukuri. Coordenadas APROXIMADAS.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>139.4838,35.9257,0</coordinates></Point></Placemark>
+<Placemark><name>Hotokuji (templo del reflejo en el suelo)</name><description>Ciudad: Kiryu
+Zona: Kiryu (Gunma)
+Estacion: Kiryu (linea JR Ryomo) + coche/taxi -- verificar
+Horario: 09:00-16:00. Abierto a diario; en verano suele haber apertura especial por el reflejo verde en el suelo (yuka-momiji).
+Templo zen en Kiryu, Gunma, famoso por el &#x27;yukakagami&#x27;: el reflejo de los jardines (sobre todo las hojas rojas de otono) sobre el suelo pulido de madera del pabellon. Tambien es conocido por sus numerosas figuras de jizo sonrientes repartidas por el recinto. Las vistas del reflejo se potencian en eventos especiales de temporada (primavera/otono) - VERIFICAR fechas de apertura especial. Al NORTE de Tokio (Gunma): excursion de dia, mejor con coche; en tren via linea Ryomo hasta Kiryu. Coordenadas APROXIMADAS; pasar enlace de Google Maps para fijar el local.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>139.287,36.4283,0</coordinates></Point></Placemark>
+<Placemark><name>Setagaya Hachiman-gu</name><description>Ciudad: Tokio
+Zona: Setagaya-ku (Miyanosaka)
+Estacion: Miyanosaka (linea Setagaya, tranvia Tokyu) / Gotokuji (Odakyu)
+Horario: Recinto 24h; oficina del santuario 09:30-16:00. Abierto a diario.
+Santuario sintoista historico en Setagaya, conocido por su tradicion de sumo amateur: tiene un dohyo (ring de sumo) en el recinto y celebra torneos de sumo estudiantil, sobre todo en el festival de otono. Junto a la estacion de Miyanosaka (linea Setagaya) y muy cerca del templo Gotokuji (maneki-neko): combinan a pie el mismo dia. Coordenadas APROXIMADAS; pasar enlace de Google Maps para fijar el local.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>139.6503,35.647,0</coordinates></Point></Placemark>
+<Placemark><name>Estatua de Tsubasa Ozora (Oliver Atom)</name><description>Ciudad: Tokio
+Zona: Yotsugi / Shin-Koiwa, Katsushika-ku
+Estacion: Yotsugi (linea Keisei Oshiage) / Shin-Koiwa (JR Sobu) segun la estatua
+Horario: Calle, 24h (estatua al aire libre)
+Estatua de bronce de la ruta de Captain Tsubasa (Oliver y Benji) por Katsushika. Coordenadas obtenidas de OpenStreetMap (verificadas en el mapa OSM). Ruta a pie entre las ~9 estatuas alrededor de Yotsugi/Shin-Koiwa.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>139.834115,35.734146,0</coordinates></Point></Placemark>
+<Placemark><name>Estatua de Ryo Ishizaki (Bruce Harper)</name><description>Ciudad: Tokio
+Zona: Yotsugi / Shin-Koiwa, Katsushika-ku
+Estacion: Yotsugi (linea Keisei Oshiage) / Shin-Koiwa (JR Sobu) segun la estatua
+Horario: Calle, 24h (estatua al aire libre)
+Estatua de bronce de la ruta de Captain Tsubasa (Oliver y Benji) por Katsushika. Coordenadas obtenidas de OpenStreetMap (verificadas en el mapa OSM). Ruta a pie entre las ~9 estatuas alrededor de Yotsugi/Shin-Koiwa.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>139.835802,35.732395,0</coordinates></Point></Placemark>
+<Placemark><name>Estatua de Kojiro Hyuga (Mark Lenders)</name><description>Ciudad: Tokio
+Zona: Yotsugi / Shin-Koiwa, Katsushika-ku
+Estacion: Yotsugi (linea Keisei Oshiage) / Shin-Koiwa (JR Sobu) segun la estatua
+Horario: Calle, 24h (estatua al aire libre)
+Estatua de bronce de la ruta de Captain Tsubasa (Oliver y Benji) por Katsushika. Coordenadas obtenidas de OpenStreetMap (verificadas en el mapa OSM). Ruta a pie entre las ~9 estatuas alrededor de Yotsugi/Shin-Koiwa.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>139.836158,35.733249,0</coordinates></Point></Placemark>
+<Placemark><name>Estatua de Roberto Hongo y Tsubasa Ozora</name><description>Ciudad: Tokio
+Zona: Yotsugi / Shin-Koiwa, Katsushika-ku
+Estacion: Yotsugi (linea Keisei Oshiage) / Shin-Koiwa (JR Sobu) segun la estatua
+Horario: Calle, 24h (estatua al aire libre)
+Estatua de bronce de la ruta de Captain Tsubasa (Oliver y Benji) por Katsushika. Coordenadas obtenidas de OpenStreetMap (verificadas en el mapa OSM). Ruta a pie entre las ~9 estatuas alrededor de Yotsugi/Shin-Koiwa.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>139.835307,35.736247,0</coordinates></Point></Placemark>
+<Placemark><name>Estatua de Sanae Nakazawa (Patty)</name><description>Ciudad: Tokio
+Zona: Yotsugi / Shin-Koiwa, Katsushika-ku
+Estacion: Yotsugi (linea Keisei Oshiage) / Shin-Koiwa (JR Sobu) segun la estatua
+Horario: Calle, 24h (estatua al aire libre)
+Estatua de bronce de la ruta de Captain Tsubasa (Oliver y Benji) por Katsushika. Coordenadas obtenidas de OpenStreetMap (verificadas en el mapa OSM). Ruta a pie entre las ~9 estatuas alrededor de Yotsugi/Shin-Koiwa.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>139.83936,35.735762,0</coordinates></Point></Placemark>
+<Placemark><name>Estatua de Taro Misaki (Tom Misaki)</name><description>Ciudad: Tokio
+Zona: Yotsugi / Shin-Koiwa, Katsushika-ku
+Estacion: Yotsugi (linea Keisei Oshiage) / Shin-Koiwa (JR Sobu) segun la estatua
+Horario: Calle, 24h (estatua al aire libre)
+Estatua de bronce de la ruta de Captain Tsubasa (Oliver y Benji) por Katsushika. Coordenadas obtenidas de OpenStreetMap (verificadas en el mapa OSM). Ruta a pie entre las ~9 estatuas alrededor de Yotsugi/Shin-Koiwa.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>139.842956,35.735104,0</coordinates></Point></Placemark>
+<Placemark><name>Estatua de Genzo Wakabayashi (Benji Price)</name><description>Ciudad: Tokio
+Zona: Yotsugi / Shin-Koiwa, Katsushika-ku
+Estacion: Yotsugi (linea Keisei Oshiage) / Shin-Koiwa (JR Sobu) segun la estatua
+Horario: Calle, 24h (estatua al aire libre)
+Estatua de bronce de la ruta de Captain Tsubasa (Oliver y Benji) por Katsushika. Coordenadas obtenidas de OpenStreetMap (verificadas en el mapa OSM). Ruta a pie entre las ~9 estatuas alrededor de Yotsugi/Shin-Koiwa.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>139.848737,35.739925,0</coordinates></Point></Placemark>
+<Placemark><name>Estatua de Tsubasa Ozora (Oliver) - junto a Yotsugi</name><description>Ciudad: Tokio
+Zona: Yotsugi / Shin-Koiwa, Katsushika-ku
+Estacion: Yotsugi (linea Keisei Oshiage) / Shin-Koiwa (JR Sobu) segun la estatua
+Horario: Calle, 24h (estatua al aire libre)
+Estatua de bronce de la ruta de Captain Tsubasa (Oliver y Benji) por Katsushika. Coordenadas obtenidas de OpenStreetMap (verificadas en el mapa OSM). Ruta a pie entre las ~9 estatuas alrededor de Yotsugi/Shin-Koiwa.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>139.849806,35.737801,0</coordinates></Point></Placemark>
+<Placemark><name>Estatua de Tsubasa Ozora &#x27;Twin Shoot&#x27;</name><description>Ciudad: Tokio
+Zona: Yotsugi / Shin-Koiwa, Katsushika-ku
+Estacion: Yotsugi (linea Keisei Oshiage) / Shin-Koiwa (JR Sobu) segun la estatua
+Horario: Calle, 24h (estatua al aire libre)
+Estatua de bronce de la ruta de Captain Tsubasa (Oliver y Benji) por Katsushika. Coordenadas obtenidas de OpenStreetMap (verificadas en el mapa OSM). Ruta a pie entre las ~9 estatuas alrededor de Yotsugi/Shin-Koiwa.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>139.847421,35.74468,0</coordinates></Point></Placemark>
+<Placemark><name>Kibune (pueblo y nagashi somen)</name><description>Ciudad: Kioto
+Zona: Kibune-cho, Sakyo-ku (norte de Kioto)
+Estacion: Kibune-guchi (linea Eizan Kurama) + bus lanzadera o 15 min a pie
+Horario: Pueblo abierto; restaurantes kawadoko sobre todo a mediodia (reservar)
+Pueblo de montana al norte de Kioto, fresco en verano (ESCAPADA DEL CALOR). Una sola calle junto al rio Kibune-gawa con restaurantes &#x27;kawadoko&#x27; sobre el agua (mesas sobre tatami a ras del rio). Especialidad a probar: NAGASHI SOMEN (fideos que bajan por un tobogan de bambu y se atrapan con palillos); tambien kaiseki, pescado de rio (ayu) y platos de tofu/vegetarianos. Se llena en verano: RESERVAR restaurante con antelacion (~3.000+ yen/persona). Acceso: tren Eizan Kurama (1 vagon, paisaje) desde Kioto, ~1 h total.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>135.7627,35.1205,0</coordinates></Point></Placemark>
+<Placemark><name>Kifune-jinja (santuario del agua)</name><description>Ciudad: Kioto
+Zona: Kibune-cho, Sakyo-ku
+Estacion: Kibune-guchi (linea Eizan Kurama) + bus/paseo
+Horario: 06:00-20:00 (todos los dias)
+Santuario sintoista dedicado a la deidad del AGUA; famosa escalera de piedra de 84 peldanos bajo farolillos y vegetacion. Omikuji (oraculo) que SOLO se revela al sumergir el papel en el agua sagrada (200 yen). Tambien venerado para el amor/relaciones. El okumiya (santuario interior) esta mas arriba de la calle. En jul-ago, iluminaciones nocturnas del Tanabata. Entrada gratuita.
+http://kifunejinja.jp</description><styleUrl>#s_visita</styleUrl><Point><coordinates>135.7623,35.1216,0</coordinates></Point></Placemark>
+<Placemark><name>Kurama-dera (templo + sendero desde Kibune)</name><description>Ciudad: Kioto
+Zona: Kurama, Sakyo-ku
+Estacion: Kurama (linea Eizan Kurama); o sendero a pie desde Kibune (~1 h)
+Templo budista (fundado 770) en la montana, aura mistica y vistas de las montanas desde el pabellon principal. Se llega por un sendero de ~1 h desde Kibune (cruzar el puente rojo junto a Kifune-jinja y la &#x27;puerta occidental&#x27;, bosque de cedros centenarios; cuesta empinada en tramos) o en el tren Eizan hasta Kurama (donde recibe un gran tengu). Buena combinacion: Kibune + sendero + Kurama-dera + volver en tren.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>135.7706,35.1178,0</coordinates></Point></Placemark>
+<Placemark><name>Mizuki Shigeru Road (ruta de yokais)</name><description>Ciudad: Sakaiminato
+Zona: Sakaiminato (Tottori), San&#x27;in
+Estacion: Sakaiminato (final de la linea JR Sakai); desde Yonago
+Calle-ruta dedicada a Shigeru Mizuki (autor de &#x27;GeGeGe no Kitaro&#x27;): ~170 estatuas de bronce de yokais repartidas desde la estacion de Sakaiminato, mas tiendas tematicas y el museo Mizuki Shigeru. Divertidisima para ninos. NOTA DE RUTA: en Tottori (costa de San&#x27;in, oeste) -&gt; lejos del corredor Osaka-Tokio; encaja como pata aparte o excursion larga desde Kansai (via Yonago).</description><styleUrl>#s_visita</styleUrl><Point><coordinates>133.22518,35.54543,0</coordinates></Point></Placemark>
+<Placemark><name>Alcantarilla Pokemon (Poke Lid) - PokePark KANTO, Yomiuriland</name><description>Ciudad: Tokio
+Zona: Yomiuriland (Inagi / Kawasaki)
+Estacion: Keio-Yomiuri-Land (linea Keio Sagamihara) + telecabina; o Yomiuriland-mae (Odakyu) + bus
+Horario: Dentro del horario del parque; requiere entrada de pago (confirmar precios/horario)
+Tapa de alcantarilla tematica de Pokemon (&#x27;Poke Lid&#x27; / poke-futa) en la zona de PokePark KANTO, el parque Pokemon al aire libre dentro de Yomiuriland. OJO: esta DENTRO del recinto, asi que para verla hay que PAGAR la entrada al parque (Yomiuriland / PokePark) - no es una alcantarilla de calle de acceso libre. PENDIENTE: coordenadas en el recinto como referencia; confirmar ubicacion exacta, precios y fechas de apertura de PokePark KANTO en la web oficial (proyecto reciente). Yomiuriland tiene zona de agua en verano (bueno para ninos/calor).</description><styleUrl>#s_visita</styleUrl><Point><coordinates>139.5188,35.62525,0</coordinates></Point></Placemark>
+<Placemark><name>Alcantarilla de Astro Boy (Meidai-dori)</name><description>Ciudad: Tokio
+Zona: Kanda-Surugadai 1-chome, Chiyoda-ku
+Estacion: Ochanomizu (JR Chuo/Sobu) / Shin-Ochanomizu (linea Chiyoda, metro)
+Horario: Calle, 24h (acceso libre)
+Tapa de alcantarilla tematica de Astro Boy (Tetsuwan Atom, de Osamu Tezuka) en la calle Meidai-dori, en Kanda-Surugadai 1-chome (Chiyoda), zona de Ochanomizu/Meiji University. A diferencia de la de Yomiuriland, esta es de CALLE y de ACCESO LIBRE (gratis). Coordenadas aproximadas a la zona indicada; afinar con Google Maps si se quiere el punto exacto.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>139.76244,35.698,0</coordinates></Point></Placemark>
+<Placemark><name>Cascada de Nachi (Nachi-no-Taki)</name><description>Ciudad: Nachikatsuura
+Zona: Nachisan, Nachikatsuura (Wakayama)
+Estacion: Kii-Katsuura (linea JR Kisei) + bus a Nachi-no-Taki; peninsula de Kii
+Horario: Cascada visitable a diario; Festival del Fuego el 14 jul (confirmar horario)
+La cascada de una sola caida mas alta de Japon (~133 m), sagrada, junto al santuario Hiro-jinja y a Kumano Nachi Taisha (con la pagoda roja Seiganto-ji: la estampa iconica cascada+pagoda). Es el escenario del FESTIVAL DEL FUEGO DE NACHI (Nachi no Ogi Matsuri), cada 14 de JULIO: 12 mikoshi-abanico y grandes antorchas (~50 kg) purifican el camino hacia la cascada. Si vais el 14 jul, es el dia grande (CONFIRMAR horario). NOTA DE RUTA: peninsula de Kii, lejos (~4 h desde Osaka) -&gt; pata aparte (Kumano). Entrada a la cascada ~gratis; mirador cercano de pago.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>135.88763,33.67528,0</coordinates></Point></Placemark>
+<Placemark><name>Kumano Hongu Taisha (Kumano Kodo, ruta facil con ninos)</name><description>Ciudad: Tanabe (Hongu)
+Zona: Hongu-cho, Tanabe (Wakayama)
+Estacion: Bus desde Kii-Tanabe (JR) o Shingu; peninsula de Kii (sin tren directo)
+Horario: Santuario a diario (recinto ~06:00-19:00 aprox., verificar)
+Gran santuario, corazon espiritual del Kumano Kodo (Patrimonio de la Humanidad). RUTA FACIL CON NINOS: el tramo final &#x27;Hosshinmon-oji -&gt; Hongu Taisha&#x27; (~7 km, mayormente cuesta abajo, 2-3 h por bosque y aldeas) es el mas accesible y popular; se puede acortar cogiendo el bus a Hosshinmon-oji y bajando. Cerca: OYUNOHARA (el torii mas grande de Japon, impresionante para ninos) y los onsen de Yunomine/Kawayu (banos de rio). NOTA DE RUTA: peninsula de Kii, lejos (sin tren, se llega en bus desde Kii-Tanabe/Shingu); pata aparte de 1-2 noches (onsen + Kumano). Coordenadas del santuario.</description><styleUrl>#s_visita</styleUrl><Point><coordinates>135.77363,33.84035,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>tienda (11)</name>
+<Placemark><name>Taishakuten Sando (calle de tiendas)</name><description>Ciudad: Tokio
+Zona: Shibamata, Katsushika-ku
+Estacion: Shibamata (linea Keisei Kanamachi)
+Calle comercial tradicional que une la estacion de Shibamata con el templo Daikyoji. Tiendas de dulces, souvenirs y comida local (dango, senbei). Coordenadas aproximadas (tramo central de la calle).</description><styleUrl>#s_tienda</styleUrl><Point><coordinates>139.8811,35.7571,0</coordinates></Point></Placemark>
+<Placemark><name>Shibamata Haikara Yokocho (tienda de chuches)</name><description>Ciudad: Tokio
+Zona: Shibamata, Katsushika-ku
+Estacion: Shibamata (linea Keisei Kanamachi)
+Tienda retro de dagashi (chuches tradicionales japonesas) y juguetes antiguos, ambientacion nostalgica estilo Showa. Junto a la estacion de Shibamata / calle Taishakuten Sando. Coordenadas aproximadas.</description><styleUrl>#s_tienda</styleUrl><Point><coordinates>139.8806,35.7561,0</coordinates></Point></Placemark>
+<Placemark><name>Itoya Ginza (G.Itoya) - papeleria</name><description>Ciudad: Tokio
+Zona: Ginza
+Estacion: Ginza (lineas Ginza/Marunouchi/Hibiya, metro)
+Papeleria historica flagship de Ginza: varias plantas de material de escritura, papel japones, articulos de regalo. Direccion aprox.: 2-7-15 Ginza, Chuo-ku. Coordenadas aproximadas.</description><styleUrl>#s_tienda</styleUrl><Point><coordinates>139.7676,35.6718,0</coordinates></Point></Placemark>
+<Placemark><name>Loft (Shibuya) - papeleria y variados</name><description>Ciudad: Tokio
+Zona: Shibuya
+Estacion: Shibuya (JR Yamanote y varias lineas de metro)
+Cadena de articulos de papeleria, hogar y lifestyle. CADENA con muchas sucursales por Japon: coordenadas puestas en el flagship de Shibuya como referencia; se puede reasignar a la sucursal que caiga mejor en la ruta. Coordenadas aproximadas.</description><styleUrl>#s_tienda</styleUrl><Point><coordinates>139.6983,35.6616,0</coordinates></Point></Placemark>
+<Placemark><name>Calle Kappabashi (Dogu-gai, utensilios de cocina)</name><description>Ciudad: Tokio
+Zona: Taito-ku (entre Asakusa y Ueno)
+Estacion: Tawaramachi (linea Ginza, metro) / Iriya
+Calle especializada en utensilios de cocina: cuchillos japoneses, vajilla, moldes y las famosas replicas de comida de plastico (sampuru). Muchas tiendas cierran domingo. Muy cerca de Asakusa/Senso-ji: combinan el mismo dia. Coordenadas aproximadas (tramo central de la calle).</description><styleUrl>#s_tienda</styleUrl><Point><coordinates>139.7889,35.7138,0</coordinates></Point></Placemark>
+<Placemark><name>Tatsumi Office (kimonos de segunda mano) - Senju</name><description>Ciudad: Tokio
+Zona: Senju, Adachi-ku
+Estacion: Kita-Senju (JR Joban, Tokyo Metro Hibiya/Chiyoda, Tobu, TX) -- aprox., verificar
+Tienda/almacen de kimonos de segunda mano a muy buen precio, en la zona de Senju (Kita-Senju). Coordenadas APROXIMADAS (area de Senju); pasar enlace de Google Maps para fijar el local exacto. Conviene verificar horario/dias de apertura.</description><styleUrl>#s_tienda</styleUrl><Point><coordinates>139.805,35.7497,0</coordinates></Point></Placemark>
+<Placemark><name>Tenjinbashisuji Shopping Street</name><description>Ciudad: Osaka
+Zona: Kita-ku
+Estacion: Tenjinbashisuji 6-chome (lineas Tanimachi/Sakaisuji + Hankyu) / Minami-morimachi
+La galeria comercial cubierta mas larga de Japon (~2,6 km): tiendas de todo tipo, comida callejera y ambiente local autentico. Muy cerca de Nakazakicho (combinan). Estaciones Tenjinbashisuji 6-chome / Minami-morimachi. Coordenadas aproximadas (tramo central).</description><styleUrl>#s_tienda</styleUrl><Point><coordinates>135.5115,34.705,0</coordinates></Point></Placemark>
+<Placemark><name>Nakano Broadway (figuras de anime)</name><description>Ciudad: Tokio
+Zona: Nakano-ku
+Estacion: Nakano (linea JR Chuo + Tozai, metro)
+Centro comercial mitico para otakus: muchas tiendas Mandarake con figuras, manga, juguetes vintage y coleccionismo. Alternativa a Akihabara, mas de segunda mano y rarezas. Al final de la galeria Nakano Sun Mall desde la estacion de Nakano (linea JR Chuo). Coordenadas aproximadas.</description><styleUrl>#s_tienda</styleUrl><Point><coordinates>139.6655,35.708,0</coordinates></Point></Placemark>
+<Placemark><name>Mercado de Ameyoko (Ameya-Yokocho)</name><description>Ciudad: Tokio
+Zona: Ueno, Taito-ku
+Estacion: Ueno y Okachimachi (linea JR Yamanote)
+Mercado callejero animado bajo las vias del tren, entre las estaciones de Ueno y Okachimachi: puestos de comida, marisco, dulces, ropa, cosmetica y gangas. Ambiente bullicioso. Junto al parque de Ueno (combinan). Coordenadas aproximadas (tramo central).</description><styleUrl>#s_tienda</styleUrl><Point><coordinates>139.7742,35.7085,0</coordinates></Point></Placemark>
+<Placemark><name>Kiddy Land Harajuku (juguetes)</name><description>Ciudad: Tokio
+Zona: Harajuku (Omotesando)
+Estacion: Harajuku (JR Yamanote) / Meiji-jingumae (lineas Chiyoda/Fukutoshin, metro)
+Juguetería mítica de varias plantas en la avenida Omotesando (Harajuku): Snoopy, Studio Ghibli, Sanrio (Hello Kitty), Pokemon, Disney... un paraiso para ninos y coleccionistas. En plena zona de compras de Harajuku/Omotesando, cerca de Takeshita-dori. Coordenadas aproximadas.</description><styleUrl>#s_tienda</styleUrl><Point><coordinates>139.7055,35.669,0</coordinates></Point></Placemark>
+<Placemark><name>Kashiya Yokocho (calle de dulces)</name><description>Ciudad: Kawagoe
+Zona: Kawagoe (Saitama)
+Estacion: Hon-Kawagoe (Seibu Shinjuku) / Kawagoe (JR/Tobu Tojo) + bus/paseo
+&#x27;Callejon de las tiendas de dulces&#x27; (Penny Candy Alley): callecita empedrada con tiendas tradicionales de dagashi (chuches a la antigua) y especialidades de Kawagoe como dulces y helado de boniato morado (satsumaimo), senbei gigantes, dango y karinto. Ambiente retro, ideal con ninos. Junto a Kurazukuri / Toki no Kane. Coordenadas APROXIMADAS.</description><styleUrl>#s_tienda</styleUrl><Point><coordinates>139.482,35.9267,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>actividad (26)</name>
+<Placemark><name>Torneo de sumo de Nagoya (Nagoya Basho)</name><description>Ciudad: Nagoya
+Estacion: Shiyakusho (linea Meijo, metro de Nagoya), zona IG Arena/castillo -- verificar sede del ano
+Horario: Del dom 11 al dom 25 jul 2027 (15 dias). Puertas ~08:30; combates inferiores desde la manana y division maxima (Makuuchi) ~15:30-18:00. Entradas a la venta general ~mediados de mayo 2027; se agotan muy rapido.
+Gran torneo de sumo de julio. FECHA FIJA: del 11 al 25 de julio (ancla el itinerario; comprar entradas con antelacion, se agotan). Sede desde 2025: IG Arena (antes Dolphins Arena / Aichi Prefectural Gymnasium) - VERIFICAR sede y coordenadas para el ano del viaje. Coordenadas aproximadas (zona IG Arena, junto al castillo de Nagoya).</description><styleUrl>#s_actividad</styleUrl><Point><coordinates>136.8967,35.1844,0</coordinates></Point></Placemark>
+<Placemark><name>Hashi Lab (hacer tus palillos) - Kyoto Station 2nd store</name><description>Ciudad: Kioto
+Zona: Estacion de Kioto
+Estacion: Kioto (JR y linea Karasuma, metro)
+Horario: L-V 10:00-18:00; findes 10:00-21:00.
+Taller para fabricar tus propios palillos (hashi) personalizados. Local: Kyoto Station 2nd store (segunda tienda en la zona de la estacion de Kioto). Conviene VERIFICAR si necesita reserva. Coordenadas APROXIMADAS (estacion de Kioto); pasar enlace de Google Maps para fijar el local.</description><styleUrl>#s_actividad</styleUrl><Point><coordinates>135.7588,34.9858,0</coordinates></Point></Placemark>
+<Placemark><name>Cup Noodles Museum Osaka Ikeda (haz tu cup noodle)</name><description>Ciudad: Osaka
+Zona: Ikeda (Osaka)
+Estacion: Ikeda (linea Hankyu Takarazuka)
+Horario: 09:30-16:30 (ultima entrada 15:30). Cierra martes (6, 13, 20 y 27 jul 2027). El taller Chicken Ramen Factory requiere reserva con 3 meses de antelacion.
+Museo de los fideos instantaneos; actividad &#x27;My Cup Noodle Factory&#x27; para disenar y hacer tu propio cubo de fideos. En Ikeda (norte de Osaka), cerca de la estacion Ikeda (linea Hankyu Takarazuka). Direccion: 8-25 Masumicho, Ikeda. Entrada al museo gratis; el taller se paga aparte. Coordenadas aproximadas.</description><styleUrl>#s_actividad</styleUrl><Point><coordinates>135.4288,34.8211,0</coordinates></Point></Placemark>
+<Placemark><name>Heiwa-no-Mori Park (circuito de aventura infantil)</name><description>Ciudad: Tokio
+Zona: Ota-ku
+Estacion: Heiwajima (linea Keikyu) -- verificar
+Horario: 9:30-16:30, cierra lunes
+Parque con circuito de &#x27;field athletic&#x27; (pruebas de obstaculos sobre agua y madera) muy divertido para ninos y adultos. En Ota-ku, sur de Tokio. Coordenadas aproximadas.</description><styleUrl>#s_actividad</styleUrl><Point><coordinates>139.7445,35.5825,0</coordinates></Point></Placemark>
+<Placemark><name>Round1 Osaka (centro de entretenimiento)</name><description>Ciudad: Osaka
+Zona: Namba (referencia)
+Estacion: N/A (cadena); referencia Namba (varias lineas)
+Horario: Round1 Stadium Sennichimae (Namba, sede principal de 11 plantas con Spo-Cha): instalaciones principales (Spo-Cha, bolera, karaoke, dardos) 24h a diario; recreativos 06:00-00:50. Por ley de Osaka: menores de 16 no pueden entrar despues de las 19:00 sin tutor y menores de 18 deben salir antes de las 22:00. Alternativa Round1 Umeda (sin Spo-Cha): bolera/karaoke/billar/dardos 24h, recreativos 06:00-00:59 (bolos cierran mar y vie 06:00-08:00 por mantenimiento).
+Complejo de ocio: recreativos, bolos, karaoke y &#x27;Spo-Cha&#x27; (polideportivo cubierto con multiples deportes y atracciones). CADENA con varias sucursales en Osaka; coordenadas puestas en la zona de Namba como referencia (p.ej. Round1 Stadium Sennichimae), reasignable a la sucursal que mejor caiga. Coordenadas aproximadas.</description><styleUrl>#s_actividad</styleUrl><Point><coordinates>135.503,34.6648,0</coordinates></Point></Placemark>
+<Placemark><name>Universal Studios Japan (USJ)</name><description>Ciudad: Osaka
+Zona: Konohana-ku
+Estacion: Universal-City (linea JR Yumesaki/Sakurajima)
+Horario: ~08:30/09:00-21:00/22:00 (varia segun el dia). Abierto a diario; confirmar el calendario oficial unas semanas antes.
+Parque tematico con Super Nintendo World y The Wizarding World of Harry Potter. Se llena mucho: comprar entrada con fecha por adelantado y valorar Express Pass; Super Nintendo World puede requerir Area Timed Entry. Estacion Universal-City (linea JR Yumesaki). Coordenadas aproximadas.</description><styleUrl>#s_actividad</styleUrl><Point><coordinates>135.4323,34.6654,0</coordinates></Point></Placemark>
+<Placemark><name>Honjo Life Safety Learning Center</name><description>Ciudad: Tokio
+Zona: Sumida-ku
+Estacion: Oshiage/Tokyo Skytree o Honjo-azumabashi (linea Asakusa, metro) -- verificar
+Horario: 09:00-17:00. Cierra miercoles y el 3er jueves (15 jul 2027). Requiere reserva para los recorridos guiados.
+Centro de aprendizaje de prevencion de desastres: simuladores para experimentar terremotos, tifones (viento y lluvia), humo de incendios y extincion. Entrada gratuita, con visitas guiadas (conviene reservar tour). En Sumida-ku, no lejos de Asakusa/Tokyo Skytree. Coordenadas aproximadas.</description><styleUrl>#s_actividad</styleUrl><Point><coordinates>139.8125,35.7005,0</coordinates></Point></Placemark>
+<Placemark><name>Entrenamiento matutino de sumo - Arashio-beya</name><description>Ciudad: Tokio
+Zona: Nihonbashi-Hamacho, Chuo-ku
+Estacion: Hamacho (linea Shinjuku, metro) / Morishita -- verificar
+Horario: ~07:30-09:00/09:30. OJO: en julio es el torneo de Nagoya; los luchadores suelen estar alla (finales jun-finales jul), por lo que normalmente NO hay keiko en Tokio.
+Establo de sumo (heya) donde se puede ver el entrenamiento matutino (asageiko). Arashio-beya es conocido porque permite observar la practica desde los ventanales a pie de calle, sin entrar. Horario de manana y variable; NO hay keiko durante los torneos ni cuando el establo esta de gira - VERIFICAR dias/normas de cortesia antes de ir. Coordenadas aproximadas.</description><styleUrl>#s_actividad</styleUrl><Point><coordinates>139.7877,35.6893,0</coordinates></Point></Placemark>
+<Placemark><name>teamLab Borderless (museo de arte digital)</name><description>Ciudad: Tokio
+Zona: Azabudai Hills, Minato-ku
+Estacion: Kamiyacho (linea Hibiya, metro) / Roppongi-itchome -- Azabudai Hills
+Horario: 08:30-21:00 (ultima entrada 20:00). Cierra algunos martes (irregular). Requiere reserva anticipada.
+Museo de arte digital inmersivo de teamLab. Desde 2024 esta en AZABUDAI HILLS (Minato-ku), ya NO en Odaiba. Requiere entrada con fecha/hora comprada por adelantado (se agota). No confundir con teamLab Planets (que esta en Toyosu). Coordenadas aproximadas.
+https://www.teamlab.art/e/borderless-azabudai/</description><styleUrl>#s_actividad</styleUrl><Point><coordinates>139.74,35.6605,0</coordinates></Point></Placemark>
+<Placemark><name>Ghibli Park</name><description>Ciudad: Nagoya
+Zona: Nagakute, Aichi (Parque Conmemorativo Expo 2005)
+Estacion: Aichi-kyuhaku-kinen-koen (linea Linimo, desde Fujigaoka/metro de Nagoya)
+Horario: L-V 10:00-17:00; findes/festivos 09:00-17:00. Cierra martes (6, 13, 20 y 27 jul 2027), aunque a finales de julio (vacaciones escolares) puede abrir alguno. Requiere reserva previa (entradas el dia 10 de dos meses antes = 10 may 2027).
+Parque tematico del Studio Ghibli (abierto 2022) dentro del Aichi Commemorative Park (Moricoro Park), en Nagakute, cerca de NAGOYA (NO es el Museo Ghibli de Mitaka/Tokio). Varias areas (Grand Warehouse, Valley of Witches, Dondoko Forest...). REQUIERE entrada con fecha/hora por adelantado, por areas; se agota rapido. Acceso: linea Linimo desde Fujigaoka (metro de Nagoya) hasta Aichi-kyuhaku-kinen-koen. Encaja con la parada de Nagoya (sumo). Coordenadas aproximadas.
+https://ghibli-park.jp/en/</description><styleUrl>#s_actividad</styleUrl><Point><coordinates>137.079,35.1817,0</coordinates></Point></Placemark>
+<Placemark><name>Experiencia ninja en el Castillo de Kokura</name><description>Ciudad: Kitakyushu
+Zona: Kokura, Kitakyushu (Fukuoka)
+Estacion: Kokura (JR + Shinkansen Sanyo)
+Horario: 09:00-20:00 (ultima entrada 19:30, horario de verano abr-oct). Actividades interiores dentro del horario del castillo.
+Experiencia de ninja (vestimenta/actividades) en el Castillo de Kokura. NOTA DE RUTA: Kokura esta en Kyushu (Kitakyushu, Fukuoka), al suroeste, FUERA del corredor Osaka-Tokio (~2,5 h en Shinkansen desde Shin-Osaka); requeriria una pata aparte del viaje. Verificar disponibilidad/reserva de la experiencia. Coordenadas aproximadas (castillo).</description><styleUrl>#s_actividad</styleUrl><Point><coordinates>130.874,33.8855,0</coordinates></Point></Placemark>
+<Placemark><name>Tokyo Dome City</name><description>Ciudad: Tokio
+Zona: Bunkyo-ku
+Estacion: Suidobashi (JR Sobu) / Korakuen (lineas Marunouchi/Namboku, metro)
+Horario: Atracciones 10:00-21:00; tiendas 11:00-21:00; restaurantes 11:00-22:00/23:00. Abierto a diario (atracciones pueden ampliar en verano).
+Complejo de ocio alrededor del Tokyo Dome (estadio de beisbol): parque de atracciones (montana rusa Thunder Dolphin y noria sin eje LaQua), spa onsen LaQua, tiendas y restaurantes. Entrada al recinto gratis, atracciones de pago por ticket. Estaciones Suidobashi / Korakuen. Coordenadas aproximadas.</description><styleUrl>#s_actividad</styleUrl><Point><coordinates>139.7519,35.7056,0</coordinates></Point></Placemark>
+<Placemark><name>Shinjuku Central Park (zona de agua infantil)</name><description>Ciudad: Tokio
+Zona: Nishi-Shinjuku
+Estacion: Tochomae (linea Oedo, metro) / Shinjuku
+Parque con zona de juego de agua para ninos en verano. En Nishi-Shinjuku, junto al Tokyo Metropolitan Government Building: combinan. Ubicacion exacta: ver web de referencia. Coordenadas aproximadas.
+https://japanforkids.jp/summer-tokyo-kids-beat-the-heat/</description><styleUrl>#s_actividad</styleUrl><Point><coordinates>139.6885,35.6905,0</coordinates></Point></Placemark>
+<Placemark><name>Komazawa Olympic Park (zona de agua infantil)</name><description>Ciudad: Tokio
+Zona: Setagaya-ku
+Estacion: Komazawa-daigaku (linea Tokyu Den-en-toshi)
+Gran parque (sede olimpica 1964) con fuentes y zona &#x27;jabu-jabu&#x27; de chapoteo para ninos en verano, ademas de amplias zonas verdes y carril bici. En Setagaya (oeste de Tokio), misma zona que Gotokuji/Sangenjaya. Ubicacion exacta: ver web de referencia. Coordenadas aproximadas.
+https://japanforkids.jp/summer-tokyo-kids-beat-the-heat/</description><styleUrl>#s_actividad</styleUrl><Point><coordinates>139.662,35.626,0</coordinates></Point></Placemark>
+<Placemark><name>Showa Kinen Park (zona de agua infantil)</name><description>Ciudad: Tokio
+Zona: Tachikawa / Akishima (oeste de Tokio)
+Estacion: Tachikawa (JR Chuo) / Nishi-Tachikawa (JR Ome)
+Horario: L-V 09:30-17:00; findes/festivos 09:30-18:00 (zona gratuita abre 08:30). Abierto a diario en julio.
+Enorme parque nacional con &#x27;Rainbow Pool&#x27; (piscinas y toboganes de verano) y fuentes de chapoteo, ademas de bosque infantil y bici. Entrada de pago (la Rainbow Pool, temporada de verano). MUY al oeste (Tachikawa, ~40 min de Shinjuku en JR Chuo): dia aparte. Ubicacion exacta: ver web de referencia. Coordenadas aproximadas.
+https://japanforkids.jp/summer-tokyo-kids-beat-the-heat/</description><styleUrl>#s_actividad</styleUrl><Point><coordinates>139.403,35.705,0</coordinates></Point></Placemark>
+<Placemark><name>Kyoto Disaster Prevention Center</name><description>Ciudad: Kioto
+Zona: Minami-ku
+Estacion: Minami-ku (Kioto) -- estacion por verificar
+Horario: 09:00-17:00 (ultimo pase 16:00). Suele cerrar lunes (o martes si es festivo).
+Centro de prevencion de desastres (equivalente al Honjo de Tokio): simuladores de terremoto, inundacion/tifon, humo de incendios y viento fuerte. Entrada gratuita, con experiencias interactivas ideales para ninos. En Minami-ku (sur de Kioto). Verificar dias/horario y si requiere reserva. Coordenadas aproximadas.</description><styleUrl>#s_actividad</styleUrl><Point><coordinates>135.7485,34.9785,0</coordinates></Point></Placemark>
+<Placemark><name>Gion Matsuri (festival de julio)</name><description>Ciudad: Kioto
+Zona: Centro de Kioto (Yasaka-jinja / Shijo-Karasuma)
+Estacion: Shijo (linea Karasuma, metro) y Karasuma (Hankyu); Gion-Shijo (Keihan)
+Horario: Todo julio. Yoiyama (Saki) 14-16 jul 18:00-23:00 (carrozas iluminadas, calles peatonales); Desfile Yamahoko Junko (Saki) sab 17 jul desde 09:00 (~hasta 11:30-13:00), 23 carrozas por Shijo/Kawaramachi/Oike; Yoiyama (Ato) 21-23 jul tarde-noche (sin puestos); Desfile (Ato) sab 24 jul desde 09:30 (~hasta 11:50), 11 carrozas en sentido inverso.
+El gran festival de Kioto, durante TODO julio. Puntos fuertes: los desfiles de carrozas yamaboko (Yamaboko Junko) ~17 jul (Saki Matsuri) y ~24 jul (Ato Matsuri), y las noches &#x27;yoiyama&#x27; previas (14-16 y 21-23 jul) con las carrozas iluminadas y puestos de comida en el centro. COINCIDE con las fechas del viaje (jul 2027) - VERIFICAR fechas exactas del ano. Origen en el santuario Yasaka; las carrozas se concentran en la zona Shijo-Karasuma. Coordenadas APROXIMADAS (Yasaka-jinja).</description><styleUrl>#s_actividad</styleUrl><Point><coordinates>135.7785,35.0036,0</coordinates></Point></Placemark>
+<Placemark><name>Tenjin Matsuri (festival de julio)</name><description>Ciudad: Osaka
+Zona: Osaka Tenmangu, Kita-ku
+Estacion: Minami-morimachi (lineas Tanimachi/Sakaisuji, metro) / Osakatemmangu (JR Tozai)
+Horario: 24-25 jul. Yoimiya (vispera) sab 24 jul: rituales en Osaka Tenmangu desde 07:45, danzas y tambores manana/tarde. Honmiya (dia principal) dom 25 jul: procesion terrestre (Rikutogyo) desde 15:30 en Osaka Tenmangu; procesion fluvial (Funatogyo) ~18:00 en el rio Okawa (un centenar de barcos iluminados); fuegos artificiales ~19:30-21:00 sobre el Okawa.
+Uno de los tres grandes festivales de Japon, los 24-25 jul. El dia grande (25 jul) hay procesion terrestre, procesion fluvial de barcos iluminados por el rio Okawa y FUEGOS ARTIFICIALES por la noche. COINCIDE con las fechas del viaje (jul 2027) - VERIFICAR. Centrado en el santuario Osaka Tenmangu (cerca de Minami-morimachi / Tenjinbashisuji, que ya tienes en el mapa). Coordenadas APROXIMADAS.</description><styleUrl>#s_actividad</styleUrl><Point><coordinates>135.5127,34.6965,0</coordinates></Point></Placemark>
+<Placemark><name>Sumidagawa Hanabi Taikai (fuegos artificiales)</name><description>Ciudad: Tokio
+Zona: Rio Sumida (Asakusa / Sumida-ku)
+Estacion: Asakusa / Oshiage / Kuramae segun la zona de visionado
+Horario: Ultimo sabado de julio (2027: ~31 jul, CONFIRMAR). Lanzamiento ~19:00-20:30
+Gran festival de fuegos artificiales de Tokio sobre el rio Sumida (zona de Asakusa), ~20.000 fuegos desde dos puntos de lanzamiento. Se celebra el ULTIMO SABADO DE JULIO (en 2027 caeria el 31 jul) - CONFIRMAR fecha oficial, puede moverse por lluvia/cambios. Gratis, pero MUCHISIMA gente: ir con varias horas de antelacion para coger sitio junto al rio (o reservar asiento de pago). Alrededores de Asakusa/Skytree abarrotados y trenes llenos al acabar (~20:30). Empieza al anochecer (~19:00-20:30 aprox).</description><styleUrl>#s_actividad</styleUrl><Point><coordinates>139.803,35.714,0</coordinates></Point></Placemark>
+<Placemark><name>Arima Onsen</name><description>Ciudad: Kobe
+Zona: Arima-cho, Kita-ku (Kobe)
+Estacion: Arima-onsen (Kobe Dentetsu); ~1 h desde Osaka/Kobe
+Uno de los onsen mas antiguos y famosos de Japon (de los &#x27;tres grandes&#x27;). Aguas &#x27;kinsen&#x27; (dorada, ferrosa) y &#x27;ginsen&#x27; (plateada). CERCA de Osaka/Kobe (~1 h) -&gt; encaja como escapada/noche desde la Fase 1 (Kansai). Pueblo termal con banos publicos y ryokan.</description><styleUrl>#s_actividad</styleUrl><Point><coordinates>135.24627,34.79926,0</coordinates></Point></Placemark>
+<Placemark><name>Gero Onsen</name><description>Ciudad: Gero
+Zona: Yunoshima, Gero (Gifu)
+Estacion: Gero (linea JR Takayama/Hida), entre Nagoya y Takayama
+De los &#x27;tres grandes&#x27; onsen de Japon, aguas suaves para la piel. En la linea Hida Nagoya-Takayama -&gt; encaja desde NAGOYA (o de camino a Takayama). Banos a pie de calle y footbaths gratuitos por el pueblo.</description><styleUrl>#s_actividad</styleUrl><Point><coordinates>137.23869,35.81072,0</coordinates></Point></Placemark>
+<Placemark><name>Shuzenji Onsen</name><description>Ciudad: Izu (Shuzenji)
+Zona: Shuzenji, Izu (Shizuoka)
+Estacion: Shuzenji (linea Izuhakone Sunzu, desde Mishima); peninsula de Izu
+Pueblo termal con encanto en la peninsula de Izu, bambu, templo Shuzen-ji y banos junto al rio Katsura. Al SUR de Tokio (via Mishima, Shinkansen) -&gt; excursion/noche desde TOKIO o combinado con Hakone/Izu.</description><styleUrl>#s_actividad</styleUrl><Point><coordinates>138.93689,34.97572,0</coordinates></Point></Placemark>
+<Placemark><name>Ito Onsen</name><description>Ciudad: Ito
+Zona: Ito (Shizuoka), costa este de Izu
+Estacion: Ito (linea JR Ito); costa este de la peninsula de Izu
+Clasico pueblo termal de playa en la costa este de Izu, muchos onsen historicos (p.ej. Tokaikan de madera). Al SUR de Tokio (~2 h) -&gt; excursion/noche desde TOKIO, combinable con Izu/Atami.</description><styleUrl>#s_actividad</styleUrl><Point><coordinates>139.09742,34.97179,0</coordinates></Point></Placemark>
+<Placemark><name>Yugawara Onsen</name><description>Ciudad: Yugawara
+Zona: Yugawara, Ashigarashimo (Kanagawa)
+Estacion: Yugawara (linea JR Tokaido); junto a Atami/Hakone
+Onsen tranquilo entre Atami y Hakone (Kanagawa). Cercano a Tokio (~1,5 h en JR) -&gt; escapada facil desde TOKIO, menos turistico que Hakone. (Interpretado de &#x27;Ygaware&#x27; - CONFIRMAR si te referias a este.)</description><styleUrl>#s_actividad</styleUrl><Point><coordinates>139.10815,35.14792,0</coordinates></Point></Placemark>
+<Placemark><name>Yamanaka Onsen</name><description>Ciudad: Kaga (Yamanaka)
+Zona: Yamanaka, Kaga (Ishikawa)
+Estacion: Via Kaga Onsen (JR) o Kanazawa + bus; prefectura de Ishikawa
+Onsen historico en Kaga (Ishikawa), celebre por el desfiladero de Kakusenkei junto al rio y la artesania de laca Yamanaka-nuri. NOTA DE RUTA: al NORTE (zona de Kanazawa), FUERA del corredor de este viaje -&gt; requeriria una pata aparte.</description><styleUrl>#s_actividad</styleUrl><Point><coordinates>136.37468,36.25014,0</coordinates></Point></Placemark>
+<Placemark><name>Festival del Fuego de Nachi (Nachi no Ogi Matsuri)</name><description>Ciudad: Nachikatsuura
+Zona: Kumano Nachi Taisha / Cataratas de Nachi (Wakayama)
+Estacion: Kii-Katsuura (linea JR Kisei) + bus a Nachi-no-Taki; peninsula de Kii
+Horario: 14 de julio (anual); CONFIRMAR horario de la procesion
+Gran festival del fuego en el santuario Kumano Nachi Taisha, junto a las Cataratas de Nachi (la cascada mas alta de Japon). FECHA FIJA: 14 de julio cada ano (CONFIRMAR horario/edicion). Procesion con 12 grandes mikoshi en forma de abanico y enormes antorchas encendidas (~50 kg) que purifican el camino; muy espectacular. NOTA DE RUTA: en la peninsula de Kii (sur de Wakayama), LEJOS del corredor del viaje (~4 h desde Osaka); el 14 jul estariais en Osaka (coincide con el dia de USJ), asi que solo encaja si dedicais una pata aparte a Kumano/Kii. Coordenadas en el santuario/cascada.</description><styleUrl>#s_actividad</styleUrl><Point><coordinates>135.89044,33.66843,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>restaurante (11)</name>
+<Placemark><name>Itamae Sushi Shinbashi</name><description>Ciudad: Tokio
+Zona: Shinbashi, Minato-ku
+Estacion: Shinbashi (JR y lineas Ginza/Asakusa, metro + Yurikamome)
+Restaurante de sushi en la zona de Shinbashi. Coordenadas APROXIMADAS (area de la estacion de Shinbashi); pasar enlace de Google Maps para fijar el local exacto.</description><styleUrl>#s_restaurante</styleUrl><Point><coordinates>139.7585,35.6665,0</coordinates></Point></Placemark>
+<Placemark><name>Sankaku Chitai (callejon de izakayas)</name><description>Ciudad: Tokio
+Zona: Sangenjaya, Setagaya-ku
+Estacion: Sangenjaya (linea Tokyu Den-en-toshi + tranvia Setagaya)
+&#x27;Zona triangular&#x27;: laberinto de callejones estrechos repletos de izakayas y bares diminutos con ambiente retro Showa, junto a la estacion de Sangenjaya. Mejor de noche para cenar/tapear de bar en bar. En Setagaya (oeste de Tokio), misma zona que Gotokuji. Coordenadas aproximadas.</description><styleUrl>#s_restaurante</styleUrl><Point><coordinates>139.6693,35.6436,0</coordinates></Point></Placemark>
+<Placemark><name>Tonkatsu Maruichi (Kamata)</name><description>Ciudad: Tokio
+Zona: Kamata, Ota-ku
+Estacion: Kamata (JR Keihin-Tohoku + Tokyu Ikegami/Tamagawa)
+Restaurante de tonkatsu muy valorado en Kamata (barrio conocido por su tonkatsu), sur de Tokio. Suele haber cola. Misma zona que Heiwa-no-Mori Park (Ota-ku). Coordenadas APROXIMADAS (area de la estacion de Kamata); pasar enlace de Google Maps para fijar el local.</description><styleUrl>#s_restaurante</styleUrl><Point><coordinates>139.716,35.5625,0</coordinates></Point></Placemark>
+<Placemark><name>Hohei Gyoza (餃子歩兵)</name><description>Ciudad: Kioto
+Zona: Pontocho (Nakagyo-ku)
+Estacion: Sanjo/Gion-Shijo (linea Keihan) y Kyoto-Kawaramachi (Hankyu)
+Bar de gyoza muy popular en el callejon de Pontocho, junto al rio Kamo. Especializado en gyoza (incluidas variedades creativas) en ambiente de barra estrecha; suele haber cola. Coordenadas APROXIMADAS (callejon de Pontocho); pasar enlace de Google Maps para fijar el local exacto. Verificar horario y si aceptan ninos.</description><styleUrl>#s_restaurante</styleUrl><Point><coordinates>135.7706,35.0046,0</coordinates></Point></Placemark>
+<Placemark><name>551 Horai (butaman) - Namba</name><description>Ciudad: Osaka
+Zona: Namba (Nanba) - tienda principal
+Estacion: Namba (lineas Midosuji/Yotsubashi/Sennichimae, metro + Nankai/Kintetsu)
+Institucion de Osaka para butaman (bollo al vapor relleno de cerdo), recien hechos al vapor; tambien venden shumai. Muy popular, suele haber cola. CADENA de Kansai con muchos puntos (estaciones, grandes almacenes); coordenadas puestas en la tienda principal de Namba como referencia, reasignable a la sucursal que caiga en la ruta. Muy cerca del alojamiento e-stay Namba. Coordenadas APROXIMADAS; pasar enlace de Google Maps para fijar el local.
+https://www.551horai.co.jp/</description><styleUrl>#s_restaurante</styleUrl><Point><coordinates>135.5015,34.666,0</coordinates></Point></Placemark>
+<Placemark><name>A Happy Pancake (tortitas souffle) - Osaka</name><description>Ciudad: Osaka
+Zona: Shinsaibashi (referencia)
+Estacion: N/A (cadena); referencia Shinsaibashi (linea Midosuji, metro)
+Cafeteria de tortitas souffle japonesas (esponjosas, &#x27;fluffy&#x27;), marca &#x27;A Happy Pancake&#x27; (Magia do Pancake / Shiawase no Pancake). Suele haber cola. CADENA con varias sucursales; coordenadas puestas en la zona de Shinsaibashi (Osaka) como referencia, reasignable a la sucursal exacta. Coordenadas APROXIMADAS; pasar enlace de Google Maps para fijar el local.</description><styleUrl>#s_restaurante</styleUrl><Point><coordinates>135.499,34.672,0</coordinates></Point></Placemark>
+<Placemark><name>Shiro-Hige&#x27;s Cream Puff Factory (Totoro)</name><description>Ciudad: Tokio
+Zona: Setagaya (tienda original, cerca de Setagaya-Daita)
+Estacion: Setagaya-Daita (linea Odakyu); sucursal en Kichijoji (JR Chuo/Keio Inokashira)
+Pasteleria/cafe famosa por sus cream puffs (petisus) con forma de TOTORO, hechos a mano y rellenos de crema (sabores que cambian con la temporada). La unica oficialmente vinculada al mundo Ghibli en este sentido. DOS locales en Tokio: (1) tienda original en Setagaya (cerca de la estacion Setagaya-Daita, linea Odakyu), con cafe en la planta de arriba; (2) sucursal en KICHIJOJI, muy cerca del parque Inokashira y del Museo Ghibli de Mitaka - combinan perfectamente. Suele haber cola y pueden agotarse. Coordenadas APROXIMADAS (tienda de Setagaya); pasar enlace de Google Maps para fijar el local exacto y verificar dias de apertura.</description><styleUrl>#s_restaurante</styleUrl><Point><coordinates>139.6633,35.6622,0</coordinates></Point></Placemark>
+<Placemark><name>Kagetsudo (melon pan jumbo)</name><description>Ciudad: Tokio
+Zona: Asakusa, Taito-ku
+Estacion: Asakusa (lineas Ginza [metro], Toei Asakusa, Tobu Skytree, Tsukuba Express)
+Pasteleria famosa por su melon pan gigante (jumbo), recien hecho y crujiente por fuera; tambien lo sirven con helado. Junto al templo Senso-ji en Asakusa: combina con esa visita. Varias sucursales por Asakusa (honten cerca del Senso-ji). Coordenadas APROXIMADAS; pasar enlace de Google Maps para fijar el local exacto.</description><styleUrl>#s_restaurante</styleUrl><Point><coordinates>139.7948,35.715,0</coordinates></Point></Placemark>
+<Placemark><name>Tsukiji Uogashi (mercado, sushi fresco)</name><description>Ciudad: Tokio
+Zona: Tsukiji, Chuo-ku
+Estacion: Tsukiji (linea Hibiya, metro) / Tsukijishijo (linea Oedo, metro)
+Edificio-mercado Tsukiji Uogashi en el mercado EXTERIOR de Tsukiji (Jogai Shijo): puestos de pescado/marisco y restaurantes para desayunar/comer sushi y donburi muy frescos. NOTA: el mercado MAYORISTA interior (y la famosa subasta de atun) se mudo a TOYOSU en 2018; el mercado exterior de Tsukiji sigue abierto y es el sitio para comer. Mejor ir por la manana; muchos puestos cierran pronto y domingos/miercoles sueltos. Coordenadas APROXIMADAS.</description><styleUrl>#s_restaurante</styleUrl><Point><coordinates>139.7696,35.6655,0</coordinates></Point></Placemark>
+<Placemark><name>Yanaka Ginza (calle de comida callejera)</name><description>Ciudad: Tokio
+Zona: Yanaka (Taito/Arakawa-ku)
+Estacion: Nippori (JR Yamanote/Keisei) / Sendagi (linea Chiyoda, metro)
+Calle comercial retro del viejo Tokio (zona Yanaka/&#x27;Yanesen&#x27;), de las pocas que conservan el ambiente Showa tras sobrevivir a guerra y terremotos. Ideal para COMIDA CALLEJERA: croquetas (menchi-katsu), yakitori, dango, senbei, helados... Ambiente tranquilo, barrio de gatos (la &#x27;cuesta del atardecer&#x27; Yuyake Dandan). Tiendas pequenas, mejor por la tarde; algunas cierran lunes. Cerca de Nippori. Combinable con Ueno/Ameyoko.</description><styleUrl>#s_restaurante</styleUrl><Point><coordinates>139.76532,35.72767,0</coordinates></Point></Placemark>
+<Placemark><name>Kuroshio Market (mercado de pescado)</name><description>Ciudad: Wakayama
+Zona: Wakayama Marina City
+Estacion: Kainan (linea JR Kisei) + bus; o coche. Al sur de Osaka
+Horario: Verificar (show de corte de atun a horas concretas del dia)
+Mercado de pescado en Wakayama Marina City, famoso por el ESPECTACULO DE CORTE DE ATUN (maguro no kaitai show, varias veces al dia) y por comer sushi/marisco fresquisimo; hay zona de BBQ para asar lo que compras. Plan con ninos. NOTA DE RUTA: al sur de Osaka (~1-1,5 h), hacia la peninsula de Kii -&gt; excursion desde Osaka o combinable con una pata a Kumano/Wakayama. Verificar horarios del show de atun. Coordenadas corregidas a Wakayama Marina City (el geocodificador apuntaba por error al centro de Wakayama).</description><styleUrl>#s_restaurante</styleUrl><Point><coordinates>135.1536,34.1464,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>transporte (1)</name>
+<Placemark><name>Kyo-train Garaku (tren tematico Hankyu)</name><description>Ciudad: Osaka
+Zona: Hankyu Osaka-umeda
+Estacion: Osaka-umeda (linea Hankyu Kyoto)
+Tren turistico/tematico con decoracion tradicional japonesa en la linea Hankyu Kyoto. Recorrido: Osaka-umeda -&gt; Kyoto-kawaramachi. Sin recargo (tarifa normal Hankyu, sin reserva), pero SOLO circula ciertos dias (fines de semana/festivos) - VERIFICAR calendario. Punto situado en la estacion de origen (Osaka-umeda). Coordenadas aproximadas.</description><styleUrl>#s_transporte</styleUrl><Point><coordinates>135.4983,34.7055,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>alojamiento (1)</name>
+<Placemark><name>e-stay Namba (hostel)</name><description>Ciudad: Osaka
+Zona: Namba
+Estacion: Namba (lineas Midosuji/Yotsubashi/Sennichimae, metro + Nankai/Kintetsu) -- aprox.
+Alojamiento tipo hostel &#x27;e-stay Namba&#x27; reservado via Booking, en la zona de Namba (Osaka). Fechas de la busqueda: check-in 2027-07-12, check-out 2027-07-16 (4 noches). Ocupacion: 2 adultos + 2 ninos (7 y 11 anos). NOTA: estas fechas de julio 2027 coinciden con el torneo de sumo de Nagoya (11-25 jul). Coordenadas APROXIMADAS (zona Namba); afinar con la direccion exacta.
+https://www.booking.com/hotel/jp/hui-mei-xu-ting-hosuteru-jia.es.html</description><styleUrl>#s_alojamiento</styleUrl><Point><coordinates>135.502,34.665,0</coordinates></Point></Placemark>
+</Folder>
+</Document>
+</kml>
