@@ -2881,6 +2881,54 @@
         "marker-color": "#3498db",
         "marker-symbol": "shop"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "name": "Basicos anti-calor de drugstore (comprar)",
+        "category": "tienda",
+        "city": null,
+        "area": null,
+        "station": "N/A (drugstores: Matsumoto Kiyoshi, Don Quijote, Sundrug, Welcia, konbini)",
+        "notes": "Para COMPRAR al llegar (Matsumoto Kiyoshi, Don Quijote, konbini): (1) ABANICO de mano o VENTILADOR portatil USB (muy util con ninos); (2) parches frios 'hie-pita' / Netsu-sama Sheet (gel frio para la frente/cuello); (3) PROTECTOR SOLAR japones (Anessa, Biore UV, ligeros y resistentes al sudor); (4) HIDRATACION: bebida OS-1 o pastillas/caramelos de sal ('enbun charge') para reponer sales con el calor. Todo barato y por todas partes.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#3498db",
+        "marker-symbol": "shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "name": "Antimosquitos (comprar)",
+        "category": "tienda",
+        "city": null,
+        "area": null,
+        "station": "N/A (drugstores: Matsumoto Kiyoshi, Don Quijote, Sundrug, Welcia, konbini)",
+        "notes": "Para COMPRAR: repelente de mosquitos (spray o toallitas 'mushi yoke') y, para las picaduras, el clasico 'Muhi' (crema anti-picor; 'Muhi Patch' en parches para ninos). En verano hay mosquitos sobre todo en templos/jardines/zonas de rio (Kibune, Arashiyama, parques). En drugstores (Matsumoto Kiyoshi, etc.) y konbini.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#3498db",
+        "marker-symbol": "shop"
+      }
     }
   ]
 }
