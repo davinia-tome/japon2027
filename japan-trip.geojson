@@ -3193,6 +3193,30 @@
         "marker-color": "#e67e22",
         "marker-symbol": "star"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.19124,
+          34.23181
+        ]
+      },
+      "properties": {
+        "name": "Kuroshio Market (mercado de pescado)",
+        "category": "restaurante",
+        "city": "Wakayama",
+        "area": "Wakayama Marina City",
+        "station": "Kainan (linea JR Kisei) + bus; o coche. Al sur de Osaka",
+        "notes": "Mercado de pescado en Wakayama Marina City, famoso por el ESPECTACULO DE CORTE DE ATUN (maguro no kaitai show, varias veces al dia) y por comer sushi/marisco fresquisimo; hay zona de BBQ para asar lo que compras. Plan con ninos. NOTA DE RUTA: al sur de Osaka (~1-1,5 h), hacia la peninsula de Kii -> excursion desde Osaka o combinable con una pata a Kumano/Wakayama. Verificar horarios del show de atun. Coordenadas de Marina City.",
+        "hours": "Verificar (show de corte de atun a horas concretas del dia)",
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e74c3c",
+        "marker-symbol": "restaurant"
+      }
     }
   ]
 }
