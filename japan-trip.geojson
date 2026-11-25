@@ -3169,6 +3169,30 @@
         "marker-color": "#1abc9c",
         "marker-symbol": "attraction"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.89044,
+          33.66843
+        ]
+      },
+      "properties": {
+        "name": "Festival del Fuego de Nachi (Nachi no Ogi Matsuri)",
+        "category": "actividad",
+        "city": "Nachikatsuura",
+        "area": "Kumano Nachi Taisha / Cataratas de Nachi (Wakayama)",
+        "station": "Kii-Katsuura (linea JR Kisei) + bus a Nachi-no-Taki; peninsula de Kii",
+        "notes": "Gran festival del fuego en el santuario Kumano Nachi Taisha, junto a las Cataratas de Nachi (la cascada mas alta de Japon). FECHA FIJA: 14 de julio cada ano (CONFIRMAR horario/edicion). Procesion con 12 grandes mikoshi en forma de abanico y enormes antorchas encendidas (~50 kg) que purifican el camino; muy espectacular. NOTA DE RUTA: en la peninsula de Kii (sur de Wakayama), LEJOS del corredor del viaje (~4 h desde Osaka); el 14 jul estariais en Osaka (coincide con el dia de USJ), asi que solo encaja si dedicais una pata aparte a Kumano/Kii. Coordenadas en el santuario/cascada.",
+        "hours": "14 de julio (anual); CONFIRMAR horario de la procesion",
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e67e22",
+        "marker-symbol": "star"
+      }
     }
   ]
 }
