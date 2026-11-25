@@ -2617,6 +2617,30 @@
         "marker-color": "#1abc9c",
         "marker-symbol": "attraction"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7948,
+          35.715
+        ]
+      },
+      "properties": {
+        "name": "Kagetsudo (melon pan jumbo)",
+        "category": "restaurante",
+        "city": "Tokio",
+        "area": "Asakusa, Taito-ku",
+        "station": "Asakusa (lineas Ginza [metro], Toei Asakusa, Tobu Skytree, Tsukuba Express)",
+        "notes": "Pasteleria famosa por su melon pan gigante (jumbo), recien hecho y crujiente por fuera; tambien lo sirven con helado. Junto al templo Senso-ji en Asakusa: combina con esa visita. Varias sucursales por Asakusa (honten cerca del Senso-ji). Coordenadas APROXIMADAS; pasar enlace de Google Maps para fijar el local exacto.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e74c3c",
+        "marker-symbol": "restaurant"
+      }
     }
   ]
 }
