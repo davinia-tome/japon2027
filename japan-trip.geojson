@@ -3145,6 +3145,30 @@
         "marker-color": "#1abc9c",
         "marker-symbol": "attraction"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.76244,
+          35.698
+        ]
+      },
+      "properties": {
+        "name": "Alcantarilla de Astro Boy (Meidai-dori)",
+        "category": "visita",
+        "city": "Tokio",
+        "area": "Kanda-Surugadai 1-chome, Chiyoda-ku",
+        "station": "Ochanomizu (JR Chuo/Sobu) / Shin-Ochanomizu (linea Chiyoda, metro)",
+        "notes": "Tapa de alcantarilla tematica de Astro Boy (Tetsuwan Atom, de Osamu Tezuka) en la calle Meidai-dori, en Kanda-Surugadai 1-chome (Chiyoda), zona de Ochanomizu/Meiji University. A diferencia de la de Yomiuriland, esta es de CALLE y de ACCESO LIBRE (gratis). Coordenadas aproximadas a la zona indicada; afinar con Google Maps si se quiere el punto exacto.",
+        "hours": "Calle, 24h (acceso libre)",
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#1abc9c",
+        "marker-symbol": "attraction"
+      }
     }
   ]
 }
