@@ -3241,6 +3241,30 @@
         "marker-color": "#1abc9c",
         "marker-symbol": "attraction"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.77363,
+          33.84035
+        ]
+      },
+      "properties": {
+        "name": "Kumano Hongu Taisha (Kumano Kodo, ruta facil con ninos)",
+        "category": "visita",
+        "city": "Tanabe (Hongu)",
+        "area": "Hongu-cho, Tanabe (Wakayama)",
+        "station": "Bus desde Kii-Tanabe (JR) o Shingu; peninsula de Kii (sin tren directo)",
+        "notes": "Gran santuario, corazon espiritual del Kumano Kodo (Patrimonio de la Humanidad). RUTA FACIL CON NINOS: el tramo final 'Hosshinmon-oji -> Hongu Taisha' (~7 km, mayormente cuesta abajo, 2-3 h por bosque y aldeas) es el mas accesible y popular; se puede acortar cogiendo el bus a Hosshinmon-oji y bajando. Cerca: OYUNOHARA (el torii mas grande de Japon, impresionante para ninos) y los onsen de Yunomine/Kawayu (banos de rio). NOTA DE RUTA: peninsula de Kii, lejos (sin tren, se llega en bus desde Kii-Tanabe/Shingu); pata aparte de 1-2 noches (onsen + Kumano). Coordenadas del santuario.",
+        "hours": "Santuario a diario (recinto ~06:00-19:00 aprox., verificar)",
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#1abc9c",
+        "marker-symbol": "religious-shinto"
+      }
     }
   ]
 }
