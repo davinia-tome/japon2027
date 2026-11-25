@@ -3121,6 +3121,30 @@
         "marker-color": "#e74c3c",
         "marker-symbol": "restaurant"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5188,
+          35.62525
+        ]
+      },
+      "properties": {
+        "name": "Alcantarilla Pokemon (Poke Lid) - PokePark KANTO, Yomiuriland",
+        "category": "visita",
+        "city": "Tokio",
+        "area": "Yomiuriland (Inagi / Kawasaki)",
+        "station": "Keio-Yomiuri-Land (linea Keio Sagamihara) + telecabina; o Yomiuriland-mae (Odakyu) + bus",
+        "notes": "Tapa de alcantarilla tematica de Pokemon ('Poke Lid' / poke-futa) en la zona de PokePark KANTO, el parque Pokemon al aire libre dentro de Yomiuriland. PENDIENTE: coordenadas puestas en el recinto de Yomiuriland como referencia; la UBICACION EXACTA de la alcantarilla y los detalles/fechas de apertura de PokePark KANTO conviene CONFIRMARLOS en la web/mapa oficial (proyecto reciente). Yomiuriland es un parque de atracciones con zona de agua en verano (bueno para ninos/calor).",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#1abc9c",
+        "marker-symbol": "attraction"
+      }
     }
   ]
 }
