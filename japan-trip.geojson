@@ -2785,6 +2785,54 @@
         "marker-color": "#e74c3c",
         "marker-symbol": "restaurant"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "name": "Ramune (bebida, probar)",
+        "category": "restaurante",
+        "city": null,
+        "area": null,
+        "station": "N/A (bebida; konbini, maquinas expendedoras, festivales)",
+        "notes": "Para PROBAR: Ramune, refresco gaseoso tradicional japones en botella de cristal con una canica (bolita) que hace de tapon; hay que empujarla para abrirlo. Sabores variados (original, melon, fresa, lychee...). Muy del verano y de los puestos de festivales (matsuri); tambien en konbini y maquinas. Divertido para los ninos.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e74c3c",
+        "marker-symbol": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "name": "Mugicha (bebida, probar)",
+        "category": "restaurante",
+        "city": null,
+        "area": null,
+        "station": "N/A (bebida; konbini, maquinas expendedoras, festivales)",
+        "notes": "Para PROBAR: Mugicha, te de cebada tostada, se toma FRIO en verano; sin cafeina (apto para ninos), suave y muy refrescante para el calor. Omnipresente en konbini, maquinas expendedoras y supermercados (botellas), y en muchas casas/restaurantes en jarra fria.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e74c3c",
+        "marker-symbol": "restaurant"
+      }
     }
   ]
 }
