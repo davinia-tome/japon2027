@@ -2665,6 +2665,78 @@
         "marker-color": "#e74c3c",
         "marker-symbol": "restaurant"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7627,
+          35.1205
+        ]
+      },
+      "properties": {
+        "name": "Kibune (pueblo y nagashi somen)",
+        "category": "visita",
+        "city": "Kioto",
+        "area": "Kibune-cho, Sakyo-ku (norte de Kioto)",
+        "station": "Kibune-guchi (linea Eizan Kurama) + bus lanzadera o 15 min a pie",
+        "notes": "Pueblo de montana al norte de Kioto, fresco en verano (ESCAPADA DEL CALOR). Una sola calle junto al rio Kibune-gawa con restaurantes 'kawadoko' sobre el agua (mesas sobre tatami a ras del rio). Especialidad a probar: NAGASHI SOMEN (fideos que bajan por un tobogan de bambu y se atrapan con palillos); tambien kaiseki, pescado de rio (ayu) y platos de tofu/vegetarianos. Se llena en verano: RESERVAR restaurante con antelacion (~3.000+ yen/persona). Acceso: tren Eizan Kurama (1 vagon, paisaje) desde Kioto, ~1 h total.",
+        "hours": "Pueblo abierto; restaurantes kawadoko sobre todo a mediodia (reservar)",
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#1abc9c",
+        "marker-symbol": "attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7623,
+          35.1216
+        ]
+      },
+      "properties": {
+        "name": "Kifune-jinja (santuario del agua)",
+        "category": "visita",
+        "city": "Kioto",
+        "area": "Kibune-cho, Sakyo-ku",
+        "station": "Kibune-guchi (linea Eizan Kurama) + bus/paseo",
+        "notes": "Santuario sintoista dedicado a la deidad del AGUA; famosa escalera de piedra de 84 peldanos bajo farolillos y vegetacion. Omikuji (oraculo) que SOLO se revela al sumergir el papel en el agua sagrada (200 yen). Tambien venerado para el amor/relaciones. El okumiya (santuario interior) esta mas arriba de la calle. En jul-ago, iluminaciones nocturnas del Tanabata. Entrada gratuita.",
+        "hours": "06:00-20:00 (todos los dias)",
+        "url": "http://kifunejinja.jp",
+        "priority": "media",
+        "day": null,
+        "marker-color": "#1abc9c",
+        "marker-symbol": "religious-shinto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7706,
+          35.1178
+        ]
+      },
+      "properties": {
+        "name": "Kurama-dera (templo + sendero desde Kibune)",
+        "category": "visita",
+        "city": "Kioto",
+        "area": "Kurama, Sakyo-ku",
+        "station": "Kurama (linea Eizan Kurama); o sendero a pie desde Kibune (~1 h)",
+        "notes": "Templo budista (fundado 770) en la montana, aura mistica y vistas de las montanas desde el pabellon principal. Se llega por un sendero de ~1 h desde Kibune (cruzar el puente rojo junto a Kifune-jinja y la 'puerta occidental', bosque de cedros centenarios; cuesta empinada en tramos) o en el tren Eizan hasta Kurama (donde recibe un gran tengu). Buena combinacion: Kibune + sendero + Kurama-dera + volver en tren.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#1abc9c",
+        "marker-symbol": "religious-buddhist"
+      }
     }
   ]
 }
