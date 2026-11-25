@@ -3265,6 +3265,30 @@
         "marker-color": "#1abc9c",
         "marker-symbol": "religious-shinto"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.50566,
+          34.6556
+        ]
+      },
+      "properties": {
+        "name": "Sanmi Tsutenkaku 502 (alojamiento Osaka - RESERVA TEMPORAL)",
+        "category": "alojamiento",
+        "city": "Osaka",
+        "area": "Ebisucho / Shinsekai (junto a Tsutenkaku), Naniwa-ku",
+        "station": "Ebisucho (linea Sakaisuji, metro) ~5 min; cerca de Shin-Imamiya (JR Loop/Nankai) y Namba/Dotonbori ~10 min",
+        "notes": "RESERVA TEMPORAL en Booking (171 EUR) para 2 adultos + 2 ninos (7 y 11). Fechas: check-in 2027-07-11, check-out 2027-07-15 (4 noches) -> encaja con la Fase 1 (Osaka) del itinerario. Apartamento cerca de Tsutenkaku/Shinsekai. BIEN SITUADO para la ruta: USJ via JR Loop (desde Shin-Imamiya), KIX via Nankai (Shin-Imamiya/Namba), Nara via Kintetsu (Namba), y a 10 min de Namba/Dotonbori. Coordenadas APROXIMADAS (zona Ebisucho); confirmar direccion exacta. URL: https://www.booking.com/hotel/jp/sanmi-tsutenkaku-502-5min-to-ebisucho-sta-10min-to-namba-dotonbori-45min-to-kix.es.html",
+        "hours": null,
+        "url": "https://www.booking.com/hotel/jp/sanmi-tsutenkaku-502-5min-to-ebisucho-sta-10min-to-namba-dotonbori-45min-to-kix.es.html",
+        "priority": "alta",
+        "day": null,
+        "marker-color": "#9b59b6",
+        "marker-symbol": "lodging"
+      }
     }
   ]
 }
