@@ -2833,6 +2833,30 @@
         "marker-color": "#e74c3c",
         "marker-symbol": "restaurant"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "name": "Hiyashi kyuri (pepino frio, probar)",
+        "category": "restaurante",
+        "city": null,
+        "area": null,
+        "station": "N/A (tentempie de festival; puestos de matsuri y mercados)",
+        "notes": "Para PROBAR: hiyashi kyuri, pepino japones entero ENFRIADO en hielo y pinchado en un palo, a menudo con sal o un toque de salsa. Tentempie clasico de los puestos de festival (matsuri) en verano: hidratante y muy refrescante para el calor, y sano para los ninos. Sin ubicacion fija: tipico de festivales/mercados.",
+        "hours": null,
+        "url": null,
+        "priority": "media",
+        "day": null,
+        "marker-color": "#e74c3c",
+        "marker-symbol": "restaurant"
+      }
     }
   ]
 }
